@@ -1,0 +1,23 @@
+---
+image: nuetoban/crocodile
+tag: ""
+
+env: ""
+logLevel: TRACE
+botToken: ""
+webhookEnabled: false
+webhookAddr: ""
+webhookPath: ""
+githubName: ""
+githubToken: ""
+
+postgresPassword: ""
+postgresHostPath: ""
+postgresNodeSelectorHostname: ""
+
+redisHostPath: ""
+redisNodeSelectorHostname: ""
+
+domain: ""
+backupChatID: "123456"
+livenessProbeChatID: "123456"

@@ -1,0 +1,79 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert -f docker-compose-prod.yml -o kubernetes -c
+    kompose.version: 1.19.0 ()
+  creationTimestamp: null
+  labels:
+    environment: {{.Values.env}}
+    io.kompose.service: postgresql
+  name: postgresql
+spec:
+  replicas: 1
+  strategy: {}
+  selector:
+    matchLabels:
+      name: postgresql
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: kompose convert -f docker-compose-prod.yml -o kubernetes -c
+        kompose.version: 1.19.0 ()
+      creationTimestamp: null
+      labels:
+        environment: {{.Values.env}}
+        io.kompose.service: postgresql
+        name: postgresql
+    spec:
+      containers:
+      - name: postgresql
+        image: postgres:alpine
+        ports:
+        - containerPort: 5432
+        env:
+        - name: POSTGRES_PASSWORD
+          valueFrom:
+            configMapKeyRef:
+              key: POSTGRES_PASSWORD
+              name: env
+        resources: {}
+        volumeMounts:
+        - mountPath: /var/lib/postgresql/data
+          name: crocodile-postgresql-volume
+      - name: postgresql-exporter
+        image: wrouesnel/postgres_exporter
+        ports:
+        - containerPort: 9187
+        env:
+        - name: DATA_SOURCE_URI
+          valueFrom:
+            configMapKeyRef:
+              key: DATA_SOURCE_URI
+              name: env
+        - name: DATA_SOURCE_USER
+          valueFrom:
+            configMapKeyRef:
+              key: CROCODILE_GAME_DB_USER
+              name: env
+        - name: DATA_SOURCE_PASS
+          valueFrom:
+            configMapKeyRef:
+              key: POSTGRES_PASSWORD
+              name: env
+        - name: PG_EXPORTER_WEB_TELEMETRY_PATH
+          valueFrom:
+            configMapKeyRef:
+              key: PG_EXPORTER_WEB_TELEMETRY_PATH
+              name: env
+        resources: {}
+      nodeSelector:
+        kubernetes.io/hostname: {{.Values.postgresNodeSelectorHostname}}
+      volumes:
+      - name: crocodile-postgresql-volume
+        hostPath:
+          path: {{.Values.postgresHostPath}}
+          type: DirectoryOrCreate
+      restartPolicy: Always
+status: {}
