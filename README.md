@@ -27,6 +27,18 @@ docker-compose up -d postgresql
 make migrate-up
 ```
 
+## Botun klonlaşdırılması:
+```
+cp -r croco-az croco-
+rm -rf postgres-data/
+vim .env
+vim docker-compose.yml
+vim Makefile
+docker-compose up -d postgresql
+make migrate-up
+docker-compose up -d --build
+```
+
 ## Contact
 - Telegram: https://t.me/foxgowner
 - Mail: soc4up@gmail.com
