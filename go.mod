@@ -1,0 +1,19 @@
+module github.com/nuetoban/crocodile-game-bot
+
+go 1.13
+
+require (
+	github.com/go-redsync/redsync v1.3.1
+	github.com/gomodule/redigo v2.0.0+incompatible
+	github.com/jinzhu/gorm v1.9.11
+	github.com/joho/godotenv v1.3.0
+	github.com/kr/pretty v0.2.0 // indirect
+	github.com/looplab/fsm v0.1.0
+	github.com/mattn/go-colorable v0.1.4 // indirect
+	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
+	github.com/pkg/errors v0.9.1 // indirect
+	github.com/prometheus/client_golang v1.3.0
+	github.com/sirupsen/logrus v1.4.2
+	github.com/x-cray/logrus-prefixed-formatter v0.5.2
+	gopkg.in/tucnak/telebot.v2 v2.3.5
+)
