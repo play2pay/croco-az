@@ -114,6 +114,8 @@ type RatingGetter interface {
 	GetRating(chatID int64) ([]model.UserInChat, error)
 	GetGlobalRating() ([]model.UserInChat, error)
 	GetChatsRating() ([]model.ChatStatistics, error)
+	GetUserStats(userID int, chatID int64) (model.UserInChat, model.UserInChat, error)
+	ResetStats(chatID int64) error
 }
 
 type StatisticsGetter interface {
@@ -252,14 +254,18 @@ func main() {
 	log.Info("Binding handlers")
 	bot.Handle(tb.OnText, logDuration(mustLock(textHandler)))
 	bot.Handle("/start", logDuration(mustLock(startNewGameHandler)))
+	bot.Handle("/game", logDuration(mustLock(startNewGameHandler)))
+	bot.Handle("/cancel", logDuration(mustLock(cancelHandler)))
+	bot.Handle("/stop", logDuration(mustLock(cancelHandler)))
 	bot.Handle("/rating", logDuration(ratingHandler))
 	bot.Handle("/globalrating", logDuration(globalRatingHandler))
-	bot.Handle("/cancel", logDuration(mustLock(cancelHandler)))
-	bot.Handle("/cstat", logDuration(statsHandler))
+	bot.Handle("/bstat", logDuration(statsHandler))
+	bot.Handle("/chatrating", logDuration(chatsRatingHandler))
 	bot.Handle("/rules", logDuration(rulesHandler))
 	bot.Handle("/info", logDuration(infoHandler))
-	bot.Handle("/chatrating", logDuration(chatsRatingHandler))
 	bot.Handle("/help", logDuration(helpHandler))
+	bot.Handle("/mystats", logDuration(myStatsHandler))
+	bot.Handle("/resetstats", logDuration(resetStatsHandler))
 	bindButtonsHandlers(bot)
 
 	collector := newMetricsCollector(pg)
@@ -441,7 +447,7 @@ func statsHandler(m *tb.Message) {
 		return
 	}
 
-	outString := "<b> #bot statistics </b> \n\n"
+	outString := "<b>♻️ Botun statistikası:	Versiya - development </b> \n\n"
 	outString += fmt.Sprintf("Çat sayı: %d\n", stats.Chats)
 	outString += fmt.Sprintf("Oyunçu sayı: %d\n", stats.Users)
 	outString += fmt.Sprintf("Oyun sayı: %d\n", stats.GamesPlayed)
@@ -482,19 +488,13 @@ func startNewGameHandler(m *tb.Message) {
 			menu.Row(r.URL("🤖 Botu qrupuna əlavə et", "https://t.me/CrocodileGameAz_bot?startgroup=a")),
 			menu.Row(r.URL("🇦🇿 Əsas Oyun qrupumuz", "https://t.me/CrocodileGameAzerbaijan")),
 			menu.Row(r.URL("💎 Premium Oyun qrupumuz", "https://t.me/CrocoGameAzerbaijan")),
-			menu.Row(r.URL("👮🏻‍♂️🐊 Mafia/Crocodile Qrupumuz", "https://t.me/MafiaClubAzPremium2")),
-			menu.Row(r.URL("🔞  18+ Oyun qrupumuz", "https://t.me/CrocodileGameEn")),
-			menu.Row(r.URL("🇺🇸  English Game Group", "https://t.me/CrocodileGameEn")),
-			menu.Row(r.URL("🇹🇷  Türk grubumuz", "https://t.me/CrocodileGameEn")),
-			menu.Row(r.URL("🇷🇺  Русская группа", "https://t.me/CrocodileGameRU")),
-			menu.Row(r.URL("🙋 Söhbət qrupu", "https://t.me/CrocodileTalkAzerbaijan")),
+			menu.Row(r.URL("👮🏻‍♂️🐊 Mafia/Crocodile Qrupumuz", "https://t.me/MafiaClubAZPremium2")),
 			menu.Row(r.URL("📣 Rəsmi Kanalımız", "https://t.me/CrocodileGameAz")),
 			menu.Row(r.URL("🖥 Rəsmi Saytımız", "http://crocodilegame.space")),
-			menu.Row(r.URL("🧛 Bot sahibi", "http://t.me/cggfeedbackbot")),
 		)
 
-		bot.Send(m.Sender, "✅ Qaydalar ilə tanış oldum və razıyam! ", tb.ModeHTML, tb.NoPreview)
 		bot.Send(m.Sender, "👋🏻 Salam. Mən Crocodile oyununun aparıcısıyam.", tb.ModeHTML, tb.NoPreview, menu)
+		bot.Send(m.Sender, "Digər qruplar və botlarla tanış olmaq üçün /help düyməsinə basın. ", tb.ModeHTML, tb.NoPreview)
 		return
 	}
 
@@ -529,7 +529,7 @@ func startNewGameHandler(m *tb.Message) {
 	bot.Send(
 		m.Chat,
 		fmt.Sprintf(
-			`🗣 <a href="tg://user?id=%d">%s</a> sözü başa salır!`,
+			`🎄 <a href="tg://user?id=%d">%s</a> sözü başa salır! ❄️`,
 			m.Sender.ID, html.EscapeString(m.Sender.FirstName)),
 		tb.ModeHTML,
 		&tb.ReplyMarkup{InlineKeyboard: wordsInlineKeys},
@@ -559,12 +559,12 @@ func startNewGameHandlerCallback(c *tb.Callback) {
 					log.Println(err)
 				}
 				bot.Respond(c, &tb.CallbackResponse{
-					Text:      fmt.Sprintf("🗣 Sən — aparıcısan, sənin sözün — %s", ma.GetWord()),
+					Text:      fmt.Sprintf("🌬 Sən — aparıcısan, sənin sözün — %s", ma.GetWord()),
 					ShowAlert: true,
 				})
 			}
 		} else if err.Error() == crocodile.ErrWaitingForWinnerRespond {
-			bot.Respond(c, &tb.CallbackResponse{Text: "Sözü tapan şəxsin 5 saniyə vaxtı var!"})
+			bot.Respond(c, &tb.CallbackResponse{Text: "Sözü tapan şəxsin 5 saniyə vaxtı var! ❄️"})
 			return
 		} else {
 			log.Println(err)
@@ -574,13 +574,14 @@ func startNewGameHandlerCallback(c *tb.Callback) {
 	}
 
 	bot.Respond(c, &tb.CallbackResponse{
-		Text:      fmt.Sprintf("🗣 Sən — aparıcısan, sənin sözün — %s", ma.GetWord()),
+		Text:      fmt.Sprintf("❄️ Sən — aparıcısan, sənin sözün — %s", ma.GetWord()),
 		ShowAlert: true,
 	})
 	bot.Send(
 		m.Chat,
 		fmt.Sprintf(
-			`🗣 <a href="tg://user?id=%d">%s</a> sözü başa salır!`,
+			`🎄 <b> <a href="tg://user?id=%d">%s</a> sözü başa salır! ❄️</b>.
+			🇷🇺 Наша группа для русскоязычных - @CrocodileGameRU`,
 			c.Sender.ID, html.EscapeString(c.Sender.FirstName)),
 		tb.ModeHTML,
 		&tb.ReplyMarkup{InlineKeyboard: wordsInlineKeys},
@@ -598,7 +599,7 @@ func textHandler(m *tb.Message) {
 			bot.Send(
 				m.Chat,
 				fmt.Sprintf(
-					"%s Sözü tapdı! <b>%s</b> ✅",
+					"%s Sözü tapdı! <b>%s</b> 🌲",
 					username, word,
 				),
 				tb.ModeHTML,
@@ -613,7 +614,7 @@ func seeWordCallbackHandler(c *tb.Callback) {
 	var message string
 
 	if c.Sender.ID != m.GetHost() {
-		message = "Bu söz sənin üçün nəzərdə tutulmayıb! ❌"
+		message = "Bu söz sənin üçün nəzərdə tutulmayıb! 🌨"
 	} else {
 		message = m.GetWord()
 	}
@@ -627,7 +628,7 @@ func nextWordCallbackHandler(c *tb.Callback) {
 	var err error
 
 	if c.Sender.ID != m.GetHost() {
-		message = "Bu söz sənin üçün nəzərdə tutulmayıb! ❌"
+		message = "Bu söz sənin üçün nəzərdə tutulmayıb! 🌨"
 	} else {
 		message, err = m.SetNewRandomWord()
 		if err != nil {
@@ -640,17 +641,38 @@ func nextWordCallbackHandler(c *tb.Callback) {
 	bot.Respond(c, &tb.CallbackResponse{Text: message, ShowAlert: true})
 }
 
+func returnCallbackHandler(c *tb.Callback) {
+	ma := fabric.NewMachine(c.Message.Chat.ID, c.Message.ID)
+	var message string
+	m := c.Message
+
+	if c.Sender.ID != ma.GetHost() {
+		message = "Bu söz sənin üçün nəzərdə tutulmayıb! ❌"
+	} else {
+		bot.Send(
+			m.Chat,
+			fmt.Sprintf("%s aparıcılıqdan imtina etdi!", c.Sender.FirstName),
+			&tb.ReplyMarkup{InlineKeyboard: newGameInlineKeys},
+		)
+		ma.StopGame()
+	}
+
+	bot.Respond(c, &tb.CallbackResponse{Text: message, ShowAlert: true})
+}
+
 func bindButtonsHandlers(bot *tb.Bot) {
 	seeWord := tb.InlineButton{Unique: "see_word", Text: "Sözə Baxmaq 📜"}
 	nextWord := tb.InlineButton{Unique: "next_word", Text: "Növbəti Söz ➡️"}
+	ret := tb.InlineButton{Unique: "ret_game", Text: "Fikrimi dəyişdim ⛔️"}
 	newGame := tb.InlineButton{Unique: "new_game", Text: "Aparıcı olmaq istəyirəm! 🙋🏻‍♂️"}
 
-	wordsInlineKeys = [][]tb.InlineButton{[]tb.InlineButton{seeWord}, []tb.InlineButton{nextWord}}
-	newGameInlineKeys = [][]tb.InlineButton{[]tb.InlineButton{newGame}}
+	wordsInlineKeys = [][]tb.InlineButton{{seeWord}, {nextWord}, {ret}}
+	newGameInlineKeys = [][]tb.InlineButton{{newGame}}
 
 	bot.Handle(&newGame, logDurationCallback(mustLockCallback(startNewGameHandlerCallback)))
 	bot.Handle(&seeWord, logDurationCallback(mustLockCallback(seeWordCallbackHandler)))
 	bot.Handle(&nextWord, logDurationCallback(mustLockCallback(nextWordCallbackHandler)))
+	bot.Handle(&ret, logDurationCallback(mustLockCallback(returnCallbackHandler)))
 }
 
 func rulesHandler(m *tb.Message) {
@@ -663,6 +685,7 @@ Oyun 2 roldan ibarətdir. Aparıcı (sözü başa salan) və Oyunçu (sözü tap
 Əgər söz xoşuna gəlməsə Növbəti Söz düyməsinə basıb digər sözü başa salmalıdır.
 Oyunçuların rolu - Həmin sözü tapıb sadəcə çata yazmalıdır.
 Bizim Rəsmi qrupumuz - @CrocodileGameAzerbaijan
+
 Bot ilə problem yarandıqda qurucuya yaza bilərsiniz - @foxgowner
 `)
 }
@@ -684,17 +707,9 @@ func infoHandler(m *tb.Message) {
 
 func helpHandler(m *tb.Message) {
 	sendMessage(m.Chat, m.Chat.ID, `
-<b>🤖Botlar/Bots/Боты:
-🇦🇿 - @CrocodileGameAZ_bot
-🇺🇸 - @CrocodileGameEN_bot
-🇹🇷 - @CrocodileGameTR_bot
-🇷🇺 - @CrocodileGameRU_bot
-💎 - @CrocodilePremiumAzerbaijan_bot
-🔞 - @CrocodileGame18_bot
-
-✅Qruplar/Grublar/Groups/Группы:
+<b>✅Qruplar/Grublar/Groups/Группы:
 🇦🇿 - @CrocodileGameAzerbaijan
-💎 - @CrocoGameAzerbaijan
+💎 - @MafiaClubAZPremium2
 🇺🇸 - @CrocodileGameEN
 🇹🇷 - @CrocodileGameTR
 🇷🇺 - @CrocodileGameRU
@@ -757,5 +772,67 @@ func cancelHandler(m *tb.Message) {
 	err = sendMessage(m.Chat, m.Chat.ID, fmt.Sprintf("Oyun dayandırıldı.🛑 /start@%s, düyməsinə basaraq yeni oyunu başlada bilərsiniz.", "CrocodileGameAz_bot"))
 	if err != nil {
 		log.Errorf("cancelHandler: cannot send message: %v", err)
+	}
+}
+
+func myStatsHandler(m *tb.Message) {
+	forCurrentChat, forAllChats, err := ratingGetter.GetUserStats(m.Sender.ID, m.Chat.ID)
+	if err != nil {
+		log.Errorf("myStatsHandler: cannot get rating %v:", err)
+		return
+	}
+
+	ratingString := strings.TrimSpace(fmt.Sprintf(`
+ 📈 <b>Oyunçunun reytinqi <a href="tg://user?id=%d">%s</a></b>
+
+ <i>Bu çatda</i>
+ Aparıcı olub: %d
+ Başa salıb: %d
+ Tapdığı sözlər: %d
+
+ <i>Bütün çatlarda</i>
+ Aparıcı olub: %d
+ Başa salıb: %d
+ Tapdığı sözlər: %d
+	 `,
+		m.Sender.ID, strings.TrimSpace(m.Sender.FirstName+" "+m.Sender.LastName),
+		forCurrentChat.WasHost, forCurrentChat.Success, forCurrentChat.Guessed,
+		forAllChats.WasHost, forAllChats.Success, forAllChats.Guessed,
+	))
+
+	err = sendMessage(m.Chat, m.Chat.ID, ratingString)
+	if err != nil {
+		log.Errorf("myStatsHandler: cannot send rating: %v", err)
+	}
+}
+
+func resetStatsHandler(m *tb.Message) {
+	// Get chat member info
+	chatMember, err := bot.ChatMemberOf(m.Chat, m.Sender)
+	if err != nil {
+		log.Errorf("resetStatsHandler error: %v", err)
+		return
+	}
+
+	// Check role
+	if !(chatMember.Role == tb.Creator) {
+		log.Debugf("cancelHandler: this user cannot cancel the game")
+		err = sendMessage(m.Chat, m.Chat.ID, "Bu komanda qrup sahibi üçün nəzərdə tutulub.❌")
+		if err != nil {
+			log.Errorf("resetStatsHandler: cannot send notification: %v", err)
+		}
+		return
+	}
+
+	if err := ratingGetter.ResetStats(m.Chat.ID); err != nil {
+		err = sendMessage(m.Chat, m.Chat.ID, "Bir səhv baş verdi")
+		if err != nil {
+			log.Errorf("resetStatsHandler: cannot send notification: %v", err)
+		}
+	}
+
+	err = sendMessage(m.Chat, m.Chat.ID, "✅ Reytinq sıfırlandı.")
+	if err != nil {
+		log.Errorf("resetStatsHandler: cannot send notification: %v", err)
 	}
 }
