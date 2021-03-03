@@ -1,26 +1,40 @@
+A
 a
 A düz
 ab
+aba
 abad
 abadan
-kalkulyasiya
-verifikasiya
+abadanlıq
+abadlaşdırma
 abadlaşdirmaq
+abadlaşdırmaq
 abadlaşmaq
 abadliq
+Abadlıq
+abadlıq
+abajur
 abakan
 abakus
 abalkin
 abaturov
+Abazindili
 abba
+abbası
 abbasquluağabakixanov
 abbat
 abbevil
 abbrumblar
 ABC
+abdəst
 abelyoya
+aberasiya
 aberdin
+abhava
 abi
+abı
+abibliophobia
+abid
 abidə
 abider
 Abidjan
@@ -43,6 +57,7 @@ abigailship
 Abigale
 abigei
 abigeus
+abihəyat
 Abihu
 abilao
 Abilene
@@ -77,7 +92,7 @@ abioz
 Abipon
 Abiquiu
 abir
-abir
+abır
 abirritant
 abirritasiya
 abirritating
@@ -85,6 +100,7 @@ abirritativ
 Abişa
 Abisaq
 Abişaq
+abisin
 abissal
 abiston
 Abitibi
@@ -170,6 +186,8 @@ aboqado
 aborad
 aborally
 abord
+abordaj
+Aborigen
 aborigen
 Aborigenlər
 Abor-miri
@@ -191,6 +209,7 @@ Abourezk
 Abp
 ABPC
 Abqaiq
+Abqora
 abqora
 abr
 abr.
@@ -229,6 +248,7 @@ abrek
 abreptasiya
 abret
 abreuvoir
+abreviatura
 abri
 abrim
 abris
@@ -244,8 +264,8 @@ abruptio
 Abrus
 Abruzzi
 ABS
-abş
 ABŞ
+abş
 abs-
 Absa
 abşah
@@ -274,7 +294,9 @@ abseiled
 abseiling
 abseils
 absepsiya
+Abşeron
 abşeron
+Abşeronyarımadası
 abses
 absessroot
 absey
@@ -317,6 +339,7 @@ abstinental
 abstr
 abstrahent
 abstraksionizm
+Abstraksiya
 abstraksiya
 abstraksiyaçi
 abstraksiyaçilar
@@ -395,8 +418,8 @@ abwatts
 abwehr
 abxaz
 Abxaz
-abxaziya
 Abxaziya
+abxaziya
 abye
 abyed
 abyes
@@ -404,6 +427,7 @@ abying
 Abyla
 abysinalilar
 abyssobenthonic
+abzas
 ac
 ac-
 a-c
@@ -585,8 +609,8 @@ Acephala
 acephalous
 acepots
 acequiador
-acer
 Acer
+acer
 Aceraceae
 Acerae
 Acerata
@@ -727,6 +751,7 @@ achuete
 ach-y-fi
 Achyranthes
 aci
+acı
 aci ilə
 aci-aci
 aciculated
@@ -780,10 +805,14 @@ Acipenseres
 acipenserid
 Acipenseridae
 Acipenseroidei
+acıq
 açiq
+açıq
 açiq iş
 açiq şəkildə
+açıqaşkar
 açiq-aydin
+açıqaydın
 aciqca
 aciqlama
 açiqlama
@@ -811,6 +840,7 @@ acle
 acleidian
 Aclemon
 acliq
+aclıq
 acliq aksiyasi
 acloud
 ACLS
@@ -834,20 +864,26 @@ Ad günü
 ad günü oğlani
 ada
 adaçayi
+adam
 adamuşka
 adamych
+Adana
 adana
 adaptasiya
 adapter
 adaş
 adasha
 addim
+addım
+addımlama
 addimlamaq
+addımlamaq
 addimlar
+Adektiv
 adekvat
 adeline
-adəm
 Adəm
+adəm
 Adəmin almasi
 adət
 adət deyil
@@ -952,6 +988,7 @@ adipozuriya
 adipsik
 adipsiya
 adipsous
+adıq
 Adirondack
 Adirondacks
 Adis
@@ -959,6 +996,7 @@ adital
 aditio
 aditus
 Aditya
+Adıyaman
 ADIZ
 adj
 adjag
@@ -972,6 +1010,7 @@ adjutrix
 Adkins
 Adlai
 adlandirmaq
+adlandırmaq
 adlanmaq
 Adlar
 Adlare
@@ -985,6 +1024,7 @@ adlet
 Adley
 ad-lib
 adliq
+adlısanlı
 adlumidin
 adlumin
 adlümin
@@ -1012,8 +1052,8 @@ administrator
 administratorun
 administratrices
 administratrix
-admiral
 Admiral
+admiral
 admiralin
 admirallar
 Admiralties
@@ -1024,8 +1064,8 @@ admrx
 ADN
 Adna
 Adnah
-adnan
 Adnan
+adnan
 Adne
 adnefrin
 adneksit
@@ -1044,8 +1084,8 @@ adobo
 adobos
 adoksiya
 adoksoqrafiya
-adolf
 Adolf
+adolf
 adolfhitler
 Adolfo
 Adolph
@@ -1142,6 +1182,7 @@ adrenosteron
 adrenotrofin
 adrenotropik
 adrenoxrom
+adres
 Adrestus
 adret
 Adria
@@ -1157,8 +1198,9 @@ Adrianne
 Adriano
 Adrianople
 Adrianopolis
-adriatik
 Adriatik
+adriatik
+Adriatikdənizi
 Adriel
 Adriell
 Adrien
@@ -1308,6 +1350,7 @@ afebrile
 Afenil
 afer
 afernan
+afət
 afetal
 aff
 affaat
@@ -1368,11 +1411,11 @@ AFI
 afibrinogenemiya
 Afifi
 afikomen
-afina
 Afina
+afina
 AFIP
-afişa
 Afişa
+afişa
 află
 aflagellar
 aflat
@@ -1401,6 +1444,8 @@ afrete
 Afridi
 afrika
 Afrika
+afrikaans
+afrikaansdili
 afrikaanslar
 Afrikaçiliq
 Afrikalaşdirmaq
@@ -1506,6 +1551,7 @@ agalaxy
 Agalena
 Agalenidae
 Agalinis
+ağalıq
 agalit
 agalloch
 agallochs
@@ -1583,12 +1629,14 @@ agarisinik
 Agaristidae
 agarita
 ağarmiş
+ağarmış
 agaroid
 agaroz
 agarozlar
 agars
 Ağartala
 ağarti
+ağartı
 ağartma
 ağartmaq
 Ağarum
@@ -1634,12 +1682,14 @@ Ağavam
 Agave
 agavlar
 agavose
+ağayı
 Ağaz
 agba
 Ağboğla
 ağbulaq
 AGC
 AGCA
+Ağcabədi
 ağcabədi
 ağcaqanad
 ağcaqanadlar
@@ -1649,8 +1699,12 @@ ağcaqayinlar
 ağciyər
 AGCT
 AGD
+Ağdam
 ağdam
 ağdaş
+Ağdaş
+Ağdəniz
+Ağdərə
 Agdistis
 ageist
 Agelacrinitidae
@@ -1707,14 +1761,18 @@ Agib
 Agiel
 agies
 ağil
+ağıl
 agilawood
 ağildan sonra
 ağilli
+ağıllı
 ağilli eşşək
 agilmente
 ağiloyunlari
 ağilsiz
+ağılsız
 ağilsizliq
+ağılsızlıq
 ağilsizliqlar
 agin
 Agincourt
@@ -1727,6 +1785,7 @@ agiornamenti
 agiornamento
 agios
 ağir
+ağır
 ağir atlet
 ağir çəki
 ağir əmək
@@ -1741,6 +1800,7 @@ ağirlaşdirmaq
 ağirlaşma
 ağirlaşmalar
 ağirliq
+ağırlıq
 agirofobiya
 agist
 agistator
@@ -1754,8 +1814,9 @@ agitprop
 agitpropist
 agitprops
 agitpunkt
-ağiz
 Ağiz
+ağiz
+ağız
 ağizliq
 agizm
 agizmlər
@@ -1938,6 +1999,8 @@ Agregatae
 agremens
 Agretha
 ağri
+ağrı
+Ağrı
 ağridan sonra
 ağridi
 ağrilar
@@ -1950,6 +2013,8 @@ agrippitch
 ağriyan
 ağsaqqal
 ağstafa
+Ağstafa
+Ağsu
 ağsu
 agur
 agy
@@ -1965,10 +2030,12 @@ ahenokarp
 ahəstə
 Aheulian
 ahil
+ahıl
 ahtapot
 ahu
 aida
 aiddir
+aidiyyət
 ailə
 ailə adami
 ailələr
@@ -1985,8 +2052,8 @@ akademik performans
 akademikdir
 akademiklər
 akademiklik
-akademiya
 Akademiya
+akademiya
 akademiyalar
 akademiyanin
 akademizm
@@ -2115,6 +2182,7 @@ akkreditə olunmuşdur
 akkreditəli
 akkton
 akkulturasiyaçi
+Akkumlyasiya
 akkumlyator
 akkumulyasiya
 akkumulyativ
@@ -2179,6 +2247,7 @@ aksyunya
 aksyusha
 aksyuta
 aksyuxa
+akt
 Akt
 aktau
 aktiv
@@ -2207,9 +2276,14 @@ akvatoriya
 al
 ala
 alabaliq
+Alabama
 alabama
+alacadimdik
 alacakaranliq
+alaçıq
+alaf
 Alan
+Alandadaları
 alaq
 alaq otlari
 alarmist
@@ -2217,8 +2291,8 @@ alay
 alba
 albali
 albali gavali
-albaniya
 Albaniya
+albaniya
 albanli
 albatros
 albertaqarunov
@@ -2246,6 +2320,8 @@ aldehid
 Aleka
 Aleksandrin
 Aleksandrina
+aleksandrit
+Aleksandropolqəzası
 aleksandrpuşkin
 aleksandrsolijenitsin
 Aleksey
@@ -2281,16 +2357,18 @@ alexyukha
 alfa
 alfaromeo
 alfredadler
-ali
 Ali
+ali
 alibaşkomandan
 alibi
 Alice
 alicənab
 alici
+alıcı
 alim
 aliment
 alin
+alın
 alina
 alineredlips
 alinka
@@ -2299,13 +2377,14 @@ alisa
 alişan
 aliska
 alişqan
+alışqan
 aliş-veriş
 alkaloid
 alkoqolizm
 alkoqollu
 alla
-allah
 Allah
+allah
 allah anasi
 allah axtaran
 allahverdibağirov
@@ -2314,15 +2393,17 @@ alleqorik
 alleqoriya
 allergiya
 alliluyeva
+Allüvial
 alma
 alma ağaci
+almacıq
 almamaq
 alman
 Alman
 almanax
 almanca
-almaniya
 Almaniya
+almaniya
 almaq
 almati
 almaz
@@ -2336,11 +2417,14 @@ alovlar
 alovlu
 alp
 alpaçino
+Alpdağları
 alpinist
 alpinizm
 Alplar
 alqiş
+alqış
 alqişlamaq
+alqışlamaq
 alqişlanmaq
 alqoritm
 alsancak
@@ -2353,20 +2437,32 @@ alt paltar
 Altay
 alternativ
 alti
+altı
 altin
-altinda
+altın
 altinda
 altliq
+altmış
+altmışaltı
+altmışbeş
+altmışbir
+altmışdoqquz
+altmışdörd
+altmışiki
 altmişli
+altmışsəkkiz
+altmışüç
+altmışyeddi
 altqrup
 Altuxov
 alüminium
 alunya
 alusya
+alver
 alyaska
 Alyaska
-alyona
 Alyona
+alyona
 alyoxin
 alyssasutherland
 AM
@@ -2375,23 +2471,29 @@ amal
 amaliya
 amaliyapənahova
 amansiz
+amansız
 amansizliq
-amazon
+Amasya
 Amazon
+amazon
 amea
 ameba
 amelyan
 americano
 Amerika
+AmerikaBirləşmişŞtatları
+AmerikaSamoası
+AmerikaVirginadaları
 amersfort
 amfetamin
+Amfiteatr
 amidopirin
 amiens
 amil
 amit
 Amma
-amman
 Amman
+amman
 ammonit
 ammonium
 ammonyak
@@ -2414,8 +2516,8 @@ ana
 ana açar
 anabioz
 anadan olub
-anadolu
 Anadolu
+anadolu
 Anadoluevna
 anahaym
 anakonda
@@ -2443,13 +2545,14 @@ anatoli
 anatolix
 anatomiya
 anaxronizm
-anbar
 Anbar
+anbar
 ancaq
 and
 and içmək
 anda
 andea
+Andorra
 andorra
 Andreich
 Andrey
@@ -2476,9 +2579,11 @@ Angelica
 angelina
 angeline
 angelinich
+Angilya
 angina
 angola
 anhel
+anhidrit
 ani
 anika
 anikita
@@ -2489,8 +2594,8 @@ anilin
 anim mərasimi
 animasiya
 Anişenko
-ankara
 Ankara
+ankara
 anket
 ankrakt
 anlama
@@ -2498,6 +2603,7 @@ anlamaq
 anlaşilmazliq
 anlatmaq
 anlayiş
+anlayış
 anlayişi
 anliq görüntü
 anmaq
@@ -2524,10 +2630,14 @@ anormallik
 anormallikler
 anormalliq
 anqar
+Anqara
 anqola
+Anqola
 anqut
+Ansambl
 ansambl
 antalya
+Antalya
 Antananarivo
 antanta
 antaqonist
@@ -2555,6 +2665,7 @@ antipatiya
 antipod
 antipsikotik
 antiqua
+AntiquavəBarbuda
 antisemit
 antisemitizm
 antiseptik
@@ -2567,8 +2678,8 @@ anton
 antonid
 antonida
 antonin
-antonina
 Antonina
+antonina
 antoninich
 antoniobanderas
 antoniya
@@ -2611,6 +2722,7 @@ apellyasiya
 apelyasiya
 apendiks
 apia
+Apia
 apikal
 apis
 aplikator
@@ -2626,6 +2738,7 @@ apolliner
 Apollon
 apostrof
 apoteoz
+appendisit
 applikasiya
 appstore
 aprel
@@ -2634,6 +2747,8 @@ apreldöyüşləri
 aproksimal
 aprosinha
 aptek
+Aqaba
+Aqabakörfəzi
 aqastrik
 aqatakristi
 Aqatiya
@@ -2645,6 +2760,7 @@ aqlikonlar
 aqlobulizm
 aqlomerant
 aqlomerasiya
+Aqlomerasiya
 aqlomerasiyalar
 aqlomerat
 aqlomeratik
@@ -2702,6 +2818,7 @@ aqrestian
 aqrestis
 aqri
 aqrippik
+Aqrometeoroloji
 aqronom
 aqronomluq
 aqşinyenisey
@@ -2718,9 +2835,13 @@ aradan qaldirmaq
 aradüzəldən
 aralamaq
 arali
+aralı
 araliq
+aralıq
+Aralıqdənizi
 aram
 aramsizliq
+Aran
 aran
 aranjirovka
 aranli
@@ -2728,21 +2849,30 @@ arap
 araq
 ararat
 araşdirmaq
+araşdırmaq
 arasinda
+arasında
 arat
+Arazçayı
 arba
 arbat
+Arçindili
+ard
+ardıc
 ardicil
+ardıcıl
 ardicilliq
 ardinca
+ardınca
 areal
 arena
 arfa
 argentina
 Argentina
+argentit
 argun
 ari
-ari
+arı
 Ari şani
 ariçi
 arid
@@ -2750,28 +2880,35 @@ arif
 Arina
 arinka
 ariq
+arıq
 ariqlamaq
+arıqlamaq
 ariş
 arisha
 aristotel
 aritmiya
 arixana
 ariya
+Arizona
 arizona
+Arkanzas
 arktik tülkü
 arktika
 Arktika
 arlequin
 arles
 armada
+armadil
 armatur
 armenych
 armud
 arnhem
 arnoldschwarzenegger
 arpa
+Arpaçay
 arqon
 arqument
+Arran(tarixitoponim)
 ars
 arsa
 arsen
@@ -2782,7 +2919,6 @@ arseny
 Arsenya
 arsenych
 arsenyushka
-arşin
 arşin
 arşinmalalan
 arsuşa
@@ -2802,8 +2938,8 @@ artem
 artemchik
 artemey
 artemich
-artemis
 Artemis
+artemis
 artemka
 artemon
 artemonka
@@ -2814,21 +2950,27 @@ arthurian
 artikl
 artilleriya
 artim
+artım
 artiq
+artıq
 artiqliq
 artir
 artirmaq
+artırmaq
 artist
 artmaq
 artrit
 Artur
 arturkonandoyl
+Artvin
 artya
 artyom
 artyunya
 artyusha
 artyuxa
+Aruba
 arvad
+arx
 arxa
 arxa bağ
 arxa hissə
@@ -2847,11 +2989,13 @@ arxaizm
 Arxangelsk
 Arxarovets
 arxasinca
+arxasınca
 arxeologiya
 arxeoloq
 arxeoqraf
 arxierey
 arximed
+Arxipelaq
 arxipelaq
 arxitektor
 arxitektura
@@ -2864,10 +3008,12 @@ aryuxa
 arzamalar
 arzu
 arzu edirəm
+arzuetmək
 arzulamaq
 aş
 asa
 aşaği
+aşağı
 aşaği ayaqqabi
 aşaği gelgit
 aşaği salin
@@ -3130,6 +3276,7 @@ asilib
 Aşilid
 asilidir
 asililiq
+asılılıq
 asililiq yaradan
 asilin
 asilinlər
@@ -3138,6 +3285,7 @@ asilogen
 asiloksi
 asiloksimetan
 asilqan
+asiman
 aşimiya
 aşina
 aşindi
@@ -3157,6 +3305,7 @@ asinotubular
 asinoz
 asipenserin
 asipenseroid
+aşiq
 aşirim
 asitləşdirici
 asitləşdiricilər
@@ -3166,6 +3315,7 @@ aşkar edən
 aşkarlama
 aşkarlamaq
 aşkarliq
+Askensonadası
 aski
 aslan
 aslan baliği
@@ -3175,26 +3325,32 @@ asma kilid
 asmaq
 aşmaq
 asmera
+aşna
 asp
 aşpaz
 aspekt
 aspirant
 aspirantura
 aspirin
-aşqabad
 Aşqabad
+aşqabad
 asqi
+asqı
 asqilar
 asqirmaq
+asqırmaq
 aşram
 assasinlər
 assimilyasiya
+Assimmetriya
 assistent
+Assosiasiya
 asta
 astana
 Astana
 astar
 astara
+Astara
 astarlama
 astarlamaq
 astarli
@@ -3245,14 +3401,17 @@ atət
 atibahutchinson
 atici
 atilmaq
+atılmaq
 atiriq
 atiş
+atış
 atiş məsafəsi
 atişma
 atlanmaq
 atlant
-atlantik
 Atlantik
+atlantik
+Atlantikokean
 Atlantis
 atlar
 atlas
@@ -3261,6 +3420,7 @@ atlet
 atletik
 atletika
 atli
+atlı
 atmaq
 atmaq, yerə salmaq
 atmosfer
@@ -3283,23 +3443,27 @@ audit
 auditor
 auditoriya
 auksion
+aul
 aura
 Aurora
 Austin
 autizm
 avadanliq
+avadanlıq
 avam
 avanqard
+Avanqard
 avans
 avansçilar
 avanslar
 avantürist
-avar
 Avar
+avar
 avara
 avarçəkən
 avarçəkmə
 avatar
+avaz
 avdoha
 Avdokea
 avdokim
@@ -3315,13 +3479,16 @@ aviasiya
 aviator
 avignon
 avitaminoz
+avokado
 avqust
 Avqust
 Avrasiya
 Avropa
+Avropaİttifaqı
 Avstraliya
-avstriya
+AvstraliyavəOkeaniya
 Avstriya
+avstriya
 avtobaza
 avtobus
 Avtobus dayanacaği
@@ -3363,18 +3530,24 @@ Axilles
 axime
 Aximelek
 axin
+axın
 axinyushka
 axir
+axır
 axirda
 axirət
 axirinci
+axırıncı
 Axirodlar
+axırzaman
 axitmaq
+axıtmaq
 Axitofel
 axlamid
 axluofobiya
 axmaq
 axmaqliq
+axmaqlıq
 Axmetha
 Axras
 axrodekstrin
@@ -3399,12 +3572,14 @@ axşam
 axşam yeməyi
 axsamaq
 axşamçaği
+axşamçağı
 axşamüstü
 axsaq
 axtaran
 axtarir
-axtariş
 Axtariş
+axtariş
+axtarış
 axtariş yeri
 axtarmaq
 axtehalber
@@ -3414,7 +3589,9 @@ axullu
 axund
 axundov
 axundovşünasliq
+axur
 ay
+Ay
 ayaks
 ayalla
 ayanka
@@ -3423,40 +3600,60 @@ ayaq basmaq
 ayaq bezi
 ayaq biləyi
 ayaqalti
+ayaqçı
 ayaqda
 ayaqqabi
 Ayaqqabi
+ayaqqabı
 ayaqqabi laki
 ayaqqabi ustasi
 Ayaqyolu
 ayasofiya
+ayaz
+Aydaho
 aydin
+aydın
+Aydın
 aydin şəkildə
 aydinlanma
 aydinlaşdirilmaq
+aydınlaşdırılmaq
 aydinlaşdirilmasi
 aydinliq
 ayə
+ayət
 ayğir
 ayi
+ayı
 ayib
+ayıb
 ayibsiz
+ayıbsız
 ayilmaq
+ayılmaq
 ayin
 ayiq
+ayıq
 ayiqlama stansiyasi
 ayiqliq
 ayirici
 ayirmaq
+ayırmaq
+aykido
+ayna
 aynabənd
 ayova
+Ayova
 aypara
 ayran
 ayri
+ayrı
 ayriliq
+ayrılıq
 ayriliq sözləri
 ayrilma
 ayrilmaq
+ayrılmaq
 ayrilmaz
 ayri-seçkilik
 aysberq
@@ -3465,8 +3662,9 @@ aytmatov
 az
 azad
 azad edən
-azadliq
 Azadliq
+azadliq
+azadlıq
 azadliq çatişmazliği
 azadrəhimov
 azal
@@ -3478,45 +3676,58 @@ azalmaq
 azaltmaq
 azar
 azarkeş
-azərbaycan
 Azərbaycan
+azərbaycan
 Azərbaycan dili
 azərbaycanca
+Azərbaycandili
 azərbaycandir
+azərbaycanlı
+AzərbaycanSovetSosialistRespublikası
+AzərbaycanXalqCümhuriyyəti
 azəri
 azğin
+azğın
 azğinliq
 azimut
 azixantrop
 azliq
+azlıq
 azmaq
 azmiş
 azmiu
+Azoradaları
 azot
 azov
+Azovdənizi
 aztu
 aztv
+azuqə
 azur
 b
+B
 baba
 Baba
 babaminbavulu
 babapünhan
 babat
 babay
+Babək
 babəksəmidli
 babil
 Babil
 babun
 baca
 baca təmizləyən
+bacanaq
 bacardi
 bacariq
-bacariq
+bacarıq
 bacariq var
 bacariqla
 bacariqlar
 bacariqli
+bacarıqlı
 bacariqli düşüncə
 bacariqsiz
 bacariqsizliq
@@ -3525,26 +3736,32 @@ bacarmaq
 bacarmir
 Bacchanalia
 baci
+bacı
+baçi
 badam
 badambura
 badan
 badə
 badenbaden
 badimcan
+badımcan
 badin
 badminton
 badyan
 bağ
 bağayarpaği
+bağayarpağı
 bağban
 bağçiliq
 bağdad
 Bağdad
 bağirmaq
 bağirsaq
+bağırsaq
 bağirsaq hərəkəti
 bağirsaqlar
 bağişlamaq
+bağışlamaq
 bağişlandi
 bağişlayan
 bağişlayanlar
@@ -3559,17 +3776,23 @@ bağlanma
 bağlanmaq
 bağlatmaq
 bağlayici
+bağlayıcı
 bağlayir
 bağli
+bağlı
 bağliliq
+baha
 bahaçiliq
 bahadir
+bahadır
 bahali
+bahalı
 bahaliq
 baham
+Bahamadaları
 bahamalar
-bahar
 Bahar
+bahar
 bahəm
 bahis
 baht
@@ -3581,10 +3804,13 @@ bakaldin
 bakan
 bakelit
 Baki
+Bakı
 bakili
+Bakıquberniyası
 bakirə
 bakirə torpaq
 bakirəlik
+Bakıxanlığı
 bakixanov
 bakmil
 bakteriologiya
@@ -3610,21 +3836,30 @@ balaca otaq
 balaca qiz
 balaclava
 balakən
+Balakən
 balalayka
 balans
 balaşova
 balast
 balaxani
 balaxontsev
+baldır
+baldız
+Baleardənizi
 balerina
 balet
 balikçi
+Balıkəsir
 balina
 baliq
+balıq
 baliq baliği
 baliqçi
+balıqçı
 baliqçiliq
+balıqçılıq
 baliş
+balış
 balkan
 Balkanlar
 ballada
@@ -3636,6 +3871,7 @@ baltaçi
 baltadimdik
 baltik
 baltika
+Baltikdənizi
 Baltikyani ölkələr
 balya
 balyoz
@@ -3679,6 +3915,7 @@ barak
 barama
 baraşkin
 barbados
+Barbados
 barbar
 barbarapalvin
 barbarliq
@@ -3688,14 +3925,18 @@ barbell
 bard
 barel
 barelyef
+Barensdənizi
 bariş
 barişdirici
 barişdiriciliq
 barişdirmaq
+barışdırmaq
 barişiq
 barişmaq
+barışmaq
 barişmazliq
 barit
+barıt
 bariton
 baritxana
 bariy
@@ -3722,6 +3963,7 @@ barselona
 barsizliq
 barter
 barxan
+Barxudarlı
 baryer
 bas
 baş
@@ -3746,9 +3988,11 @@ başa düş
 başagəlmək
 basaraq
 başçi
+başçı
 başdansovma
 başdaşi
 basdirmaq
+basdırmaq
 başgicəllənmə
 bash
 bashibuzuk
@@ -3766,36 +4010,48 @@ başlamaq
 Başlamaq
 başlanğic
 Başlanğic
+başlanğıc
 başlanma
 başlatma
 başlica
 başliq
+başlıq
 basma
 basmaq
+başmaq
 başqa
 başqa millətlər
 başqa yerdə
+BaşQafqazsilsiləsi
 başqalari
 basqin
+basqın
 basqinçi
+başqırd
 başqirdca
+başqırdca
 başsağliği
+başsağlığı
 bast
 bast ayaqqabi
 baştağ
 basurman
 batalyon
 bataqliq
+bataqlıq
 batareya
 bate
 batirmaq
+batırmaq
 batken
 batman
+Batman
 batmaq
 batmiş
+batmış
 batog
-batumi
 Batumi
+batumi
 baul
 baulin
 bavariya
@@ -3806,6 +4062,7 @@ baxici
 baxilmasi
 baxin
 baxiş
+baxış
 baxiş-icmal
 baxişmaq
 baxma
@@ -3815,6 +4072,7 @@ baxmayaraq
 bayağilaşdirma
 bayağiliq
 bayati
+Bayburt
 bayilmaq
 Baykal
 bayquş
@@ -3822,6 +4080,7 @@ bayraktar
 bayram
 bayramov
 bayraq
+bayraqdar
 bayronizm
 baytar
 baza
@@ -3829,6 +4088,7 @@ bazar
 Bazar
 Bazar ertəsi
 bazar yeri
+Bazel
 bazel
 bazilina
 bazilinka
@@ -3838,6 +4098,8 @@ bd
 bdu
 beatles
 beau monde
+bəbə
+bəbək
 bəbir
 becərmə
 becid
@@ -3859,11 +4121,14 @@ bədii
 bədii yaziçi
 bədiilik
 bedlam
+begemot
 bəhanə
 behlül
 bəhr
+bəhrə
 bəhreyn
 Bəhreyn
+bəhs
 bəkir
 bel
 bəla
@@ -3873,8 +4138,8 @@ belarusca
 belarusiya
 Belarusiya
 belching
-belçika
 Belçika
+belçika
 belə
 belə ki
 bələdçi
@@ -3886,17 +4151,19 @@ bəlğəm
 bəli
 Bəli
 Belichenko
+bəlim
 Beliz
 bəlkə də
 Bella
 belladonna
 belləmək
 belmes
+Belmopan
 belmopan
 Belomor
 Belqorod
-belqrad
 Belqrad
+belqrad
 beluga
 Belusenko
 ben
@@ -3904,12 +4171,14 @@ bənd
 Benedikt
 benefis
 Benin
+bəniz
 benjamin
 Benjamin
 benjaminbutton
 benkingsley
 bənna
 benny
+bənövşə
 bənövşəyi
 Bənövşəyi
 benqal
@@ -3934,22 +4203,26 @@ bəraət
 bərbər
 berdanka
 bərdə
+Bərdə
 berdyansk
 bərə
+bərəkət
 berendey
 beret
 berezkin
 bergen
 berger
 bəri
+Berinqdənizi
 bərk
 bərkimək
-berlin
 Berlin
+berlin
 berlindivari
 berlinromatokiooxu
 berluskoni
 bermud
+Bermudadaları
 Bern
 bernard
 bərpa
@@ -3958,6 +4231,7 @@ bərpaçi
 bərpaetmək
 bərpasi
 bərq
+Berqştrix
 berqştrix
 bərxudarov
 berzin
@@ -3967,6 +4241,7 @@ beşbarmaq
 beşbucaq
 bəsdir
 bəşər
+bəşəriyyət
 beşik
 beşiktaş
 beşillik plan
@@ -3974,6 +4249,7 @@ beşinci
 beşinci sinif şagirdi
 beşincielement
 bəsirət
+bəsit
 bəsləmək
 bəsrə
 bəstəkar
@@ -4004,6 +4280,8 @@ beyin
 beyin məhsulu
 Beyinlər
 bəyinoğurlanmasi
+Beykeradası
+Beyləqan
 beyləqan
 bəylik
 beynəlmiləl
@@ -4030,12 +4308,17 @@ bəzəyir
 bəzi
 bəzz
 biabirçi
+biabırçı
 bibər
+bibi
 bibiheybət
+Bibiheybətməscidi
+bibioğlu
 bibliofil
 biblioqrafiya
 biblo
 biçaq
+bıçaq
 biçaqlamaq
 biceps
 biçici
@@ -4047,6 +4330,7 @@ bidon
 biftek
 bifurkasiya
 biğ
+bığ
 bigwigs
 bihter
 bikar
@@ -4055,11 +4339,13 @@ bildirçin
 bildiriş
 bildirmək
 biləcəri
+Biləcik
 bilək
 bilər
 Bilər
 bilərdi
 bilərəkdən
+Biləsuvar
 biləsuvar
 bilet
 bilgəh
@@ -4077,6 +4363,7 @@ binalar
 bindyug
 binge
 binladen
+binom
 biocari
 biofild
 biohackers
@@ -4135,6 +4422,7 @@ bir yaşinda
 bir zaman
 biraz
 birbaşa
+bircür(ə)
 birdəfəlik
 birdən
 birə
@@ -4151,6 +4439,8 @@ birləşdirmək
 birləşmə
 birləşmək
 Birləşmiş
+BirləşmişƏrəbƏmirlikləri
+BirləşmişMillətlərTəşkilatı
 birlik
 Birlik
 birlikdə
@@ -4159,10 +4449,12 @@ birlikdə yaşamaq
 Birmingham
 birtəhər
 biryuk
+birzaman
 Bisau
 bişirin
 bişirmək
 biskay
+Biskaykörfəzi
 bişkek
 Bişkek
 bişüur
@@ -4183,12 +4475,14 @@ bitişiklik
 bitki
 bitki örtüyü
 bitkilər
+Bitlis
 bitlz
 bitmə müddəti
 bitməmiş
 bitug
 bivec
 bixəbər
+biyan
 biysk
 biz
 Biz
@@ -4214,8 +4508,8 @@ bloknot
 blooper
 blur
 bluza
-bmt
 BMT
+bmt
 bmu
 bmw
 boa
@@ -4226,6 +4520,7 @@ bobble
 bobi
 bobin
 Bobruisk
+böcək
 böcəy
 bocharnikov
 bochum
@@ -4253,22 +4548,27 @@ boksçu
 bol
 bola
 bolca
+bölən
 boletus
 bölgə
+bölgü
 bolid
-boliviya
 Boliviya
+boliviya
 bolluq
 Bolluq
 bölmə
 bölmək
 Bolqar
 bolqarca
-bolqaristan
+Bolqardili
 Bolqaristan
+bolqaristan
+Bolqarıstan
 Bolşevik
 Bolşevizm
 bolt
+Bolu
 bölük komandiri
 bölükpörçük
 Bölünmə
@@ -4291,6 +4591,7 @@ boqota
 Boqota
 bor
 bora
+boran
 borani
 borax
 borc
@@ -4300,8 +4601,8 @@ borçali
 borclar
 borclu
 borcluyuq
-bordo
 Bordo
+bordo
 bordobereliler
 boris
 borisca
@@ -4331,9 +4632,11 @@ boşaltmaq
 boşamaq
 boşanma
 boşanmaq
+boşbeyin
 boşluq
 boşnakca
 bosniya
+BosniyavəHerseqovina
 boşqab
 boss
 bosslar
@@ -4343,8 +4646,10 @@ Boston
 bot
 botanik
 botanika
-botsvana
+Botnikkörfəzi
+Botniyakörfəzi
 Botsvana
+botsvana
 bottegaveneta
 bowler papaq
 boy
@@ -4367,9 +4672,11 @@ Böyük Britaniya
 böyük dane
 böyük nəvə
 böyük oğlan
+BöyükBritaniya
 böyüklər
 böyüklər kimi
 böyüklük
+BöyükQafqaz
 böyükqardaş
 böyümə
 böyümək
@@ -4377,8 +4684,10 @@ böyümələr
 böyümüş
 boyun
 boyunbaği
+boyunbağı
 boyunca
 boyunduruq
+böyür
 böyürtkən
 böyütmək
 böyüyüb
@@ -4388,6 +4697,7 @@ Boz
 Boz saç
 bozarmaq
 bozartma
+bozbaş
 bozqurd
 bradpitt
 Braga
@@ -4404,10 +4714,10 @@ brauzer
 bravado
 bravenewworld
 bravo
-braziliya
 Braziliya
-brazzavil
+braziliya
 Brazzavil
+brazzavil
 brejnev
 brendi
 brest
@@ -4424,6 +4734,7 @@ briqantin
 Bristol
 Britaniya
 britaniyamuzeyi
+BritaniyaVirginadaları
 britneyspears
 Brno
 brom
@@ -4442,8 +4753,8 @@ bruney
 Bruney
 brunofernandes
 brunomars
-brüssel
 Brüssel
+brüssel
 bryansk
 bryony
 bsu
@@ -4459,6 +4770,7 @@ buckhot
 bud
 budapeşt
 Budapeşt
+budaq
 budaqlar
 büdcə
 budda
@@ -4472,14 +4784,18 @@ buenos
 buenosayres
 bufer
 bufet
+buğ
 buğa
 buğda
 buğda otu
 bugger
 buğlama
+buğlanma
 buğlanmaq
 bugler
 Bugreev
+buğum
+buğumayaqlılar
 bujumbura
 buket
 bükmək
@@ -4487,9 +4803,12 @@ bükücülər
 bükük
 bükülmək
 bükülmüş
+büküm
 bulamaq
 bulaniq
+bulanıq
 bulaniqliq
+bulaq
 bülbül
 bülbüloğlu
 buldakov
@@ -4519,29 +4838,34 @@ bung
 bungalov
 bunker
 bunks
-bunlar
 Bunlar
+bunlar
+bünövrə
 buqələmun
 bura
 burada
 buraxiliş
+buraxılış
 buraxilişlar
 buraxilma
 buraxin
 buraxmaq
 bürc
 burda
+Burdur
 burger
 burgomaster
 burjua
 burjuaziya
 burka
+BurkinaFaso
 burmaq
 büro
 Büro
 bürokrat
 bürokratiya
 burr
+Bursa
 bursa
 burulğan
 burulmaq
@@ -4554,17 +4878,20 @@ burundi
 Burundi
 burxutmaq
 Buryat
+Buryatiya
 büst
 busya
 busygin
 büt
 butan
+Butan
 buterbrod
 bütöv
 Bütöv ay
 bütövlük
 bütövlükdə
 bütpərəst
+bütpərəstlik
 butulkalar
 bütün
 bütün dinləmə
@@ -4576,8 +4903,10 @@ buxar otaği
 Buxara
 buxarest
 Buxarest
+buxarı
 buxarlanma
 buxarlanmaq
+buxta
 buxur
 buynuz
 buynuzlu
@@ -4591,12 +4920,15 @@ buz sürüşməsi
 buz toplama
 buzlamaq
 buzlaq
+buzov
 buzovna
 buzqiran
 byashka
 byçevski
+C
 c
 ç
+Ç
 cab
 cabalpur
 çacha
@@ -4606,14 +4938,18 @@ cadar
 caddə
 çadir
 cadiz
+çadra
 cadu
 cadugər
 çağ
+çağa
 çağdaş
 çağiriş
+çağırış
 çağirişçi
 çağirişdan kənar
 çağirmaq
+çağırmaq
 çağlaşikel
 çağri cihazi
 cahandar
@@ -4621,13 +4957,20 @@ cahil
 cakarta
 Cakarta
 çakra
+çala
+çalağan
+calaq
 çalği
 calida
 californium
 çalişan
 çalişdirmaq
+çalışdırmaq
+çalışma
 çalişmaq
+çalışmaq
 çalişqan
+çalışqan
 çalişqanliq
 çalma
 çalmaq
@@ -4640,9 +4983,11 @@ camilla
 camillacabello
 camille
 camiş
+camış
 can
 çanaq
 çanaqqala
+Çanaqqala
 canavar
 cangüdən
 cani
@@ -4652,18 +4997,22 @@ caniyev
 canlandirici
 canlandirmaq
 canli
+canlı
 canlilar
 canliliq
 canna
 cansağliği
 cansixiciliq
 cansiz
+cansız
 çanta
 çantalar
 çap
 çap et
 çapa
+çapacaq
 çapiq
+çapıq
 caponier
 çapraz
 çaqqal
@@ -4672,6 +5021,7 @@ caravel
 çarbombasi
 çardaq
 cardib
+çarə
 çarəsiz
 çarəsizlik
 çarhovuz
@@ -4682,11 +5032,16 @@ cariyə
 çarmixa çəkilmək
 Caroline
 çarpayi
+çarpayı
 çarpaz
 çarpişmaq
+çarpışmaq
 carr
+ÇarRusiyası
 carter
 cartoonnetwork
+Carvisadası
+çarx
 casemate
 çaşmaq
 çaşqinliq
@@ -4697,8 +5052,11 @@ catapult
 çatdirici
 çatdirilma
 çatdirmaq
+çatdırmaq
 Catherine
 çatirdamaq
+çatırdamaq
+çatırtı
 çatişmazliq
 çatlama
 çatmaq
@@ -4711,12 +5069,15 @@ cavab vermək
 cavabdeh
 cavabdehdir
 cavabdehlik
+cavabvermək
 cavan
 cavanlar
 cavanşirdadaşov
+Cavanşirqəzası
 çavuş
 çavuş mayor
 çaxir
+çaxır
 çaxirli
 çaxmaq
 çaxmaq çaxmaq
@@ -4729,8 +5090,11 @@ cavanşirdadaşov
 çayçiliq
 çaydan
 çaydan-təbil
+çaydaşı
 çayli
+caynaq
 çaynik
+çaytikanı
 çayxana
 caz
 cazibe
@@ -4738,21 +5102,27 @@ cazibə
 cazibə qüvvəsi
 cazibədar
 cc
+CəbəliTariq
+Cəbəllütariqboğazı
 cəbhə
 cəbhəçi əsgər
 cəbr
 cəbrayil
+Cəbrayıl
+Cəbrayılqəzası
 Çeçen
 Çeçen qadin
-çeçenistan
 Çeçenistan
+çeçenistan
 çeçenka
+cədd
 cedric
 cədvəl
 cəfəngiyat
 cəfəngiyyat
 cəfərabad
 cəfərcabbarli
+cəfəri
 Cəfəri
 cəftə
 çegevara
@@ -4760,11 +5130,14 @@ cəhalət
 cəhd
 cəhd edin
 cəhənnəm
+cəhət
 cehiz
 çəhrayi
+çəhrayı
 çəhrayi somon
 çəki
 çəki itirmək
+çəkic
 çəkiliş
 çəkilmək
 çəkin
@@ -4774,6 +5147,7 @@ cehiz
 çəkinmək
 çəkisizlik
 çekist
+çəkmə
 çekmece
 çəkmək
 çekməlipişik
@@ -4789,10 +5163,13 @@ cəldlik.
 çələng
 cəlil
 cəlilabad
+Cəlilabad
 cəllad
 çəllək
 Celtic
+çəltik
 cem
+cəm
 çəmən
 cəmi
 cəmiyyət
@@ -4805,8 +5182,9 @@ cənabət
 cənazə
 çənbər
 çənə
-cenevrə
 Cenevrə
+cenevrə
+cəng
 cəngavər
 cəngavərlik
 çəngəl
@@ -4814,8 +5192,8 @@ cəngavərlik
 cəngəllik
 cenktosun
 çənlibel
-cənnət
 Cənnət
+cənnət
 Cenova
 centaur
 çentik
@@ -4823,32 +5201,49 @@ centlmen
 cənub
 Cənubi Afrika
 cənubi koreya
+CənubiAfrika
+CənubiAmerika
+CənubiDakota
+CənubiKarolina
+CənubiOsetiya
+CənubiQafqaz
+CənubiSudan
 cənublu
+cənubqərb
+cənubşərq
 CEO
+çəpər
+çəpiş
 çərçivə
 çərəkən
 çərənləmək
+cərəyan
+çərəz
 cərgə
 çərik
 cərimə
 Çərkəz
-çernobil
+çərkəz
 Çernobil
+çernobil
 çernoqoriya
 çərpələng
 cərrah
 cərrahiyyə
 Cərrahiyyə
 Çərşənbə
-çərşənbə axşami
 Çərşənbə axşami
+çərşənbə axşami
 cersi
 Cersi
+Çertyej
 çertyoj
 cəsarət
 cəsarətli
 cəsəd
+çeşid
 çeşidləmə
+çeşmə
 cəsur
 cəsurürək
 çətən
@@ -4868,11 +5263,13 @@ cəvahirəsədova
 çeviklik
 çevirici
 çevirmək
+çevrə
 çevriliş
 çevrilmə
 çevrilmək
 Çex
 çexcə
+Çexiya
 çexiya
 Çexiya Respublikasi
 çexoslovakiya
@@ -4899,13 +5296,15 @@ chicha
 chipmunk
 chna
 chomp
-Chp
 CHP
+Chp
 Christchurch
 ci
 cib
+çiban
 cibgir
 ciblər
+Cibuti
 cibuti
 cicada
 çiçək
@@ -4920,6 +5319,7 @@ ciddiyət
 cidir
 ciğalçi
 çiğirmaq
+çığırmaq
 çiğirti
 cihaz
 çikan
@@ -4928,6 +5328,7 @@ cihaz
 cilalama
 cilalama yastiği
 çilçiraq
+çilçıraq
 cild
 çilğinliq
 çili
@@ -4949,8 +5350,8 @@ cimbom
 Çimərlik geyimi
 çimmək
 cin
-çin
 Çin
+çin
 çinar
 cinayət
 cinayət başinda
@@ -4965,6 +5366,8 @@ cingiltili
 çini
 cinnabar
 çinqil
+çınqıl
+ÇinRespublikası
 cins
 cinsi
 cinsiyyət
@@ -4973,10 +5376,13 @@ cinslər
 cip
 çip
 cir
+cır
 cira
+çıraq
 çiraquz
 cir-cindir
 circirama
+cırcırama
 cirilti
 çirkin
 çirkinlik
@@ -4987,8 +5393,10 @@ cirilti
 çirkli it
 çirkli oyun
 cirmaq
+cırmaq
 cirmaqlamaq
 cirnamaq
+çırpı
 çirpici
 çirpildi
 çirpinir
@@ -5003,17 +5411,23 @@ cisimiyyət
 çita
 civə
 çixariş
+çıxarış
 çixarma
 çixarmaq
+çıxarmaq
 çixartmaq
+çıxartmaq
 çixdi
+çıxıbgetmək
 çixilma
 çixinti
 çixiş
 Çixiş
+çıxış
 çixiş yoxdur
 çixma
 çixmaq
+çıxmaq
 çixmaz
 çiy
 çiyələk
@@ -5040,13 +5454,16 @@ cob
 çoban oğlan
 çobanbəyi
 çobanyastiği
+çobanyastığı
 çobanzadə
 cod
 coğrafi
 coğrafiya
 coğrafiyaşünas
 çökdü
+cökə
 Cökə
+çökək
 çökmə
 çökmək
 cokonda
@@ -5055,6 +5472,7 @@ cokonda
 çölçü
 çöldə
 Columbine
+çomaq
 çömbəlmək
 çömçə
 compienne
@@ -5064,12 +5482,15 @@ conbut
 conlenon
 conormcgregor
 Constance
+Constonrifi
 conta
+çöp
 çöpçatanliq
 çöpçəkən
 coquetry
 corab
 çörçil
+Corciya
 corciya
 corcluis
 corcoruell
@@ -5087,6 +5508,7 @@ coreldraw
 cornilius
 corolla
 corral
+Çorum
 çorum
 coşdurmaq
 coşğu
@@ -5095,20 +5517,23 @@ coşmaq
 coşqun
 coulir
 çovdar
+çovğun
 cövhərdudayev
-çox
 Çox
+çox
 çox gözəl
 çoxalma
+çoxayaqlılar
 çoxbucaqli
 coxdur
-çoxdur
 Çoxdur
+çoxdur
 çoxillik
 çoxlu
 çoxluq
 çoxmillətli
 çoxsayli
+çoxzaman
 çpa
 CPAP
 cpsu
@@ -5124,17 +5549,21 @@ CSKA
 çubuq
 cücə
 cücərmək
+cücü
 cudgel
 cüdo
 çudo
 çuğundur
 Çukçi
 çukot
+Çukotdənizi
 culfa
+Culfa
+cüllüt
 cülyetta
 çum
-cümə
 Cümə
+cümə
 Cümə axşami
 cümhuriyyət
 cümlə
@@ -5142,6 +5571,7 @@ cümlə
 Cupid
 çuqun
 cur
+cür
 curlers
 curtsy
 çürük
@@ -5149,6 +5579,7 @@ curtsy
 çürümək
 curva
 cüt
+cütləşmə
 çuval
 cuvarli
 çuvaşca
@@ -5161,6 +5592,8 @@ cüzamli koloniya
 cüzdan
 cüzi
 cyrus
+çоvdаr
+D
 d
 daba
 daban
@@ -5173,22 +5606,33 @@ dachshund
 dad
 dadaş
 daddan sonra
+dadınabaxmaq
 dadli
+dadlı
 dadmaq
 dadsiz
+dadsız
 dağ
 dağa
 daği
 dağilmaq
+dağılmaq
 dağinti
+dağıntı
 dağistan
 Dağistan
 dağitma
 dağitmaq
+dağıtmaq
+dağlaləsi
 dağlardadöyüş
 dağli
+DağlılarRespublikası
 dağliq
 Dağliq
+dağlıq
+DağlıqQarabağ
+DağlıqQarabağMuxtarVilayəti
 daha
 daha böyük
 daha çox
@@ -5219,15 +5663,20 @@ dalğalanma
 dalğalanmaq
 dalğalar
 dalğali
+dalğalı
 dalğic
+dalğıc
+dalğınlıq
 dalmaq
 dam
 dam plitələri
 dama
+damaq
 damar
 damazliq
 damci
 damcilamaq
+damcılamaq
 damğa
 damitma
 damla
@@ -5245,13 +5694,15 @@ danila
 Danilka
 Danilo
 Danilych
-danimarka
 Danimarka
+danimarka
 danişan
 danişdi
+danışıq
 danişiqlar
 danişiqlar aparmaq
 danişmaq
+danışmaq
 danlamaq
 danlanmaq
 dantealleqyeri
@@ -5262,15 +5713,19 @@ darağaci
 daralma
 daraq
 darçin
+darçın
 dardanel
 dareha
 daresha
 dari
+darı
 Daria
 Darina
 darius
 darixdirici
+darıxdırıcı
 darixmaq
+darıxmaq
 dark
 darkcrocodile
 darliq
@@ -5290,13 +5745,17 @@ dashunya
 dashuta
 daşima
 daşimaq
+daşımaq
 daşinma
 daşiyici
+daşıyıcı
 Daşkənd
 daşkəsən
+Daşkəsən
 daşlama
 daşqalaq
 daşqin
+daşqın
 dastan
 dastançi
 daşulya
@@ -5322,6 +5781,7 @@ davidgarrett
 davinçişifrəsi
 davos
 davraniş
+davranış
 daxil edin
 daxil etmək
 daxil ol
@@ -5338,12 +5798,16 @@ dayandirildi
 dayandirilma
 dayandirin
 dayandirmaq
+dayandırmaq
 dayanmaq
 dayaq
 dayaqlar
 dayaz
+dayça
 dayə
 dayi
+dayı
+daylaq
 dazlaşmaq
 dəb
 debatist
@@ -5355,14 +5819,17 @@ decal
 Dəccal
 dəcəl
 Decembrinka
+Dəclə
 dedektiv
 dədəli
+dediqodu
 deev
 dəf
 dəfə
 dəfələrlə
 dəfinə
 defis
+deflyasiya
 dəfn
 dəfnə
 defolt
@@ -5390,6 +5857,7 @@ dekembrin
 dekembrina
 dəkkə
 dekon
+Delaver
 dələ
 dələduz
 delfin
@@ -5401,7 +5869,9 @@ dəlik
 dəlikür
 dəlil
 dəlilik
+Dəliməmmədli
 deliryum
+dəllək
 dəlmək
 delta
 dem
@@ -5413,6 +5883,7 @@ demək
 deməkdir
 deməli
 dəməşq
+Dəməşq
 demian
 dəmir
 dəmir mişar
@@ -5422,6 +5893,7 @@ dəmir yolu
 dəmir yolu vaqonu
 dəmirağac
 dəmirçi
+dəmirçixana
 dəmirgünbəz
 dəmirledi
 dəmiryolu
@@ -5437,6 +5909,8 @@ demokratik
 demokratikləşmə
 demokratiya
 demokrit
+dən
+dənə
 denis
 Denis
 denisca
@@ -5449,7 +5923,10 @@ dəniz aslani
 dəniz kənari
 dəniz komandiri
 dənizçi
+Dənizli
+Denudasiya
 denusya
+departament
 deportasiya
 depozit
 depressiya
@@ -5461,8 +5938,8 @@ deqradasiya
 der
 dərc etmək
 dərd
-dərə
 Dərə
+dərə
 dərəcə
 dərəcələri
 dərəcəsi
@@ -5475,16 +5952,21 @@ dərindən
 dərinin dərisi
 dərinləşmək
 dərinlik
+dərk
 dərk etmək
+dərketmək
 dərman
 dermatin
 dermatit
 dərmək
 dərnəgül
+dərnək
 dərrakə
 dərs
 dərs kitabi
+dərslik
 dərviş
+dəryaz
 dərzi
 desant
 desert
@@ -5506,6 +5988,7 @@ dəsti
 detal
 detektiv
 detektor
+determinizm
 deuce
 devalvasiya
 devalyasiya
@@ -5514,9 +5997,13 @@ dəvə
 dəvəçi
 deventer
 dəvəquşu
+dəvət
 dəvət etmək
+dəvətetmək
 dəvətnamə
 devirmək
+dəyanət
+dəyənək
 dəyər
 dəyəri
 dəyərli
@@ -5562,12 +6049,14 @@ diametr
 Diametr
 Diana
 dianka
+diapazon
 diaqnostika
 diaqnoz
 diaqonal
 diaqram
 diaspora
 diatez
+dib
 dibçək
 dicaprio
 didərgin
@@ -5599,6 +6088,7 @@ dilemma
 dilənçi
 diler
 dili
+Dili
 dilim
 dillənmək
 dilotuyemək
@@ -5624,6 +6114,7 @@ dinamo
 dinar
 dinc
 dincəlmək
+dinclik
 dindirici
 dindirmə
 dindirmək
@@ -5633,6 +6124,7 @@ dinləmə
 dinləmək
 dinləyici
 dinozavr
+diod
 dionisius
 dionisiya
 diplom
@@ -5657,14 +6149,19 @@ dirilik
 dirilmə
 dirk
 dirmanmaq
+dırmanmaq
 dirmaşmaq
+dırmaşmaq
 dirmiq
+dırmıq
 dirnaq
+dırnaq
 Dirnaq işarəsi
 dirsək
 diş
 diş daşlari
 Diş həkimi
+disfagiya
 dişi
 Dişi canavar
 disk
@@ -5676,6 +6173,7 @@ dişlə
 dişləmək
 dişlər
 dişli
+dişliçarx
 disneylend
 dispanser
 dispepsiya
@@ -5706,6 +6204,7 @@ diviziya
 diya
 diyar
 diyarbakir
+Diyarbəkir
 diyirlətmək
 diyirləyin
 diz
@@ -5738,7 +6237,9 @@ dogru
 doğru
 doğruluq
 dogtrot
+doğulma
 doğulmaq
+doğum
 doğum xəstəxanasi
 doğuş
 doğuş anasi
@@ -5746,6 +6247,7 @@ doğuş səhnəsi
 doğuşçu
 doğuşdan sonra
 doğuşlar
+Doha
 doha
 dok
 doker
@@ -5756,6 +6258,7 @@ dol
 döl
 dolanişiq
 dolanmaq
+dolaşa
 dolaşmaq
 dolça
 Dolça
@@ -5776,6 +6279,7 @@ dominant
 dominika
 Dominika
 dominikan
+DominikanRespublikası
 domino
 don
 Don
@@ -5788,10 +6292,12 @@ donbas
 döndərmək
 dondu
 dondurma
+dondurmaçı
 dondurmaq
 dönər
-donetsk
 Donetsk
+donetsk
+döngə
 donma
 donmaq
 dönmək
@@ -5811,9 +6317,11 @@ dopinq
 dopyo
 doqqaz
 doqquz
+dor
 Dora
 dörd
 dördbucaq
+dördbucaqlı
 dörddəbir
 dördüncü
 dördüncü rəhbər
@@ -5836,10 +6344,13 @@ dost
 dostlaşmaq
 dostluq
 dostluq etdi
+dostluqetmək
+dostolmaq
 dostoyevski
 dostum
 doşulu
 douching
+dovdaq
 dovğa
 dövlət
 Dövlət
@@ -5857,6 +6368,7 @@ dövlətdən sonra
 dövlətli
 dövlətzadə
 dövr
+dövran
 dövrə
 dövri
 dövri nəşrlər
@@ -5865,6 +6377,16 @@ Dövriyyə
 dövrləşdirmə
 dövrü
 dovşan
+doxsan
+doxsanaltı
+doxsanbeş
+doxsanbir
+doxsandoqquz
+doxsandörd
+doxsaniki
+doxsansəkkiz
+doxsanüç
+doxsanyeddi
 doydurmaq
 doyma
 doymaq
@@ -5884,6 +6406,7 @@ doza
 dozaj
 dözmək
 dözüm
+dözümlülük
 dözümsüzlük
 dr
 dram
@@ -5893,7 +6416,9 @@ dramatik
 dramaturgiya
 dramaturq
 dratva
+Drenaj
 drenaj
+Dreyf
 drezden
 Drezden
 driblinq
@@ -5903,12 +6428,14 @@ dron
 dronqo
 drujina
 dtx
+dua
 dua etmək
 dubay
+Dubay
 dubinka
 dublikat
-dublin
 Dublin
+dublin
 dublyaj
 duboylar
 Dubrovka
@@ -5923,6 +6450,7 @@ duet
 duffyduck
 dugin
 duka
+dükan
 dükançi
 dukat
 duklid
@@ -5937,8 +6465,8 @@ dumanlar
 dumanliq
 dumbbell
 dumka
-dunay
 Dunay
+dunay
 dunce
 dune
 dünən
@@ -5960,6 +6488,7 @@ dürənglik
 durğu
 durğunluq
 durmaq
+durna
 durov
 duru
 durulama
@@ -6006,7 +6535,9 @@ düymələmək
 düymələr
 düyməsini basin
 düyü
+düyüm
 düyün
+düyünləmə
 düyünləmək
 duz
 düz
@@ -6014,6 +6545,7 @@ düz ayaqlari
 düz deyil
 duz qabi
 düzbucaqli
+Düzcə
 düzəldici
 düzəldilmişdir
 düzəliş
@@ -6023,6 +6555,7 @@ düzəltmə
 düzəltmək
 düzəltməsöz
 düzəngah
+düzənlik
 düzgün
 düzgün şəkildə
 düzgünlük
@@ -6037,27 +6570,35 @@ dwaynejohnson
 dybenko
 dyp
 dyusya
+Dzonqxa
 e
+E
 ə
+Ə
 ead
 əbdürrəhmanli
 əbəd
 əbədi
 əbədilər
+əbədilik
 əbədiyyət
 əbəs
 ebonit
 Əbu
 Əbu-Bəkr
+ƏbuDabi
 Əbülfədə
 əbülfəz
 ecazkar
 ecazliq
 əcdad
+əcəl
 əcəlzəngi
 əclaf
+Eçmiədzinqəzası
 əcnəbi
 əczaçi
+əczaçı
 ədalət
 ədalətli
 ədalətsizlik
@@ -6074,12 +6615,14 @@ edə bilən ciblər
 ədəbiyyatşünasliq
 ədəbsiz
 ədəbsizlik
+ədəd
 ədədi
 edelweiss
 ədib
 edici
 edilli
 edilməsi
+Ədirnə
 edişə
 edison
 ədliyyə
@@ -6095,16 +6638,19 @@ eec
 effekt
 effektiv
 effektor
+Effuziv
+Effuziya
 efimova
+Efiopiya
 efiopiya
 efir
 Əfq
 əfqan
 Əfqan
 Əfqanilər
-əfqanistan
-əfqanistan
 Əfqanistan
+əfqanistan
+Əfqanıstan
 Əfqanlar
 efrosim
 efrosimych
@@ -6118,11 +6664,14 @@ efrozin
 əfsanə
 əfsanəvi
 Əfşar
+Əfşarlarimperiyası
 əfv
 əfv edilmişdir
+əfvetmək
 Ege
 əgər
 egey
+Egeydənizi
 ego
 egon
 Egor
@@ -6131,10 +6680,12 @@ egorych
 əğyar
 egzoz
 əhali
+əhatə
 əhatə dairəsi
 əhatə etmək
 əhatələmək
 əhd
+Əhəhəh
 Əhəməndi
 Əhəmənilər
 Əhəmənlər
@@ -6146,12 +6697,14 @@ egzoz
 əhəmiyyətsiz
 əhəmiyyətsizlik
 əhəng
+əhəngdaşı
 əhilləşdirmək
 ehmalliliq
 əhməd
 əhmədcavad
 əhmədli
 ehorich
+ehram
 ehtikarliq
 ehtimal
 ehtiramliliq
@@ -6166,9 +6719,12 @@ ehtiyatla
 ehtiyatliliq
 ehtiyatsiz sürücü
 ehtiyatsizliq
+əhval
+əhvalat
 əhval-ruhiyyə
 eider
 əjdaha
+əjdəha
 ejendelakrua
 Ekaterinburg
 Ekaterinka
@@ -6219,8 +6775,10 @@ ekstrim
 ekstrovert
 Ekvador
 ekvator
+EkvatorialQvineya
 ekvatorxətti
 ekvivalent
+Ekzarasiya
 ekzema
 ekzotik
 əl
@@ -6234,6 +6792,7 @@ ekzotik
 əla tələbə
 əlac
 əlacsiz
+əlacsız
 Əlahəzrət
 əlamət
 əlamətdar
@@ -6256,8 +6815,11 @@ elastiklik
 əlavə ödəniş
 əlavə olaraq
 əlavə qazanc
+əlavəetmək
 əlavələr
 elaziğ
+Elazığ
+Elba
 əlbəttə
 elcamino
 əlçatan
@@ -6267,8 +6829,8 @@ elcamino
 əlçatmazliq
 əlcək
 əlcək bölməsi
-əlcəzair
 Əlcəzair
+əlcəzair
 elçi
 elçibəy
 əldə edildi
@@ -6277,6 +6839,7 @@ elçibəy
 əldə etmə
 əldə etmek
 əldə etmək
+əldəetmək
 eldorado
 elə
 ələ keçirmək
@@ -6312,6 +6875,7 @@ elf
 əlfəcin
 elfin
 əli
+əliaçıq
 əliağaşixlinski
 əliağavahid
 əliəsədov
@@ -6338,14 +6902,24 @@ elk
 elladium
 əllər
 əlli
+əllialtı
+əllibeş
+əllibir
+əllidoqquz
+əllidörd
+əlliiki
 ellips
 ellipsis
+əllisəkkiz
+əlliüç
+əlliyeddi
 elm
 Elm
 elmi
 elmi fantastika
 elnur
 elonmusk
+əlvan
 əlverişli
 əlverişlidir
 əlverişlilik
@@ -6356,6 +6930,8 @@ elyusha
 ema
 emal
 emalatxana
+emaletmək
+əmanət
 əmanət banki
 əmanətçi
 emaye
@@ -6369,7 +6945,9 @@ embrion
 əməkdar
 əməkdaş
 əməkdaşliq
+əməkdaşlıq
 əməkhaqqi
+əməl
 əməliyyat
 əməliyyatçilar
 əməllər
@@ -6380,6 +6958,7 @@ emelyanka
 emelyanych
 emelyasha
 emfatiklik
+əmi
 emici
 emicilər
 emiliya
@@ -6402,7 +6981,9 @@ emissiya
 emitent
 əmiuşaği
 əmlak
+Əmman
 emmanuel
+əmmək
 emosional
 emosionalliq
 empatiya
@@ -6412,6 +6993,7 @@ emrecan
 əmtəə
 emulsiya
 əmzik
+en
 ən az
 ən böyük
 ən çox
@@ -6435,6 +7017,7 @@ enerji
 enerji mühəndisi
 enerji təchizati
 enfilade
+əng
 əngəl
 eni
 eninə
@@ -6445,6 +7028,7 @@ enlik
 enmə
 enmək
 enrique
+ənsə
 ensest
 ensiklopediya
 ensiz
@@ -6455,6 +7039,7 @@ enyaha
 enyusha
 enyuxa
 ənzəli
+Eol
 epi
 epidemiya
 epidermis
@@ -6478,8 +7063,8 @@ epos
 epoxa
 Epsepus
 əqidə
-əqiq
 Əqiq
+əqiq
 eqoist
 eqoizm
 əqrəb
@@ -6487,28 +7072,39 @@ eqoizm
 ər
 era
 ərazi
-ərəb
+Ərdəbil
 Ərəb
+ərəb
 ərəbcə
 ərəbistan
+Ərəbistandənizi
+Ərəbistanyarımadası
 ərəfə
 ereksiya
 Eremkin
+Ərəşqəzası
 erhanufak
 əridilmiş yamaq
 ərik
 ərimək
+ərincəklik
+ərinti
 əriştə
 əritmək
+Eritreya
 eritrosit
+ərizə
+erkək
 erkən
 erkən uşaqliq
 ərköyün
 erkülpuaro
-erməni
 Erməni
+erməni
 ermənilər
 Ermənistan
+ErmənistanDemokratikRespublikası
+ErmənistanSovetSosialistRespublikası
 ermitaj
 ernestheminquey
 ernestocheguevara
@@ -6516,10 +7112,15 @@ eroin
 eroshin
 erotika
 eroziya
+ərp
 ərsin
 erüpsiyon
 əruz
 erysipelas
+ərz
+ərzaq
+Ərzincan
+Ərzurum
 əsa
 əsarət
 eşarp
@@ -6527,14 +7128,17 @@ eşarp
 Əsas
 əsasən
 əsaslandirma
+əsassız
 eschylus
 əsəb
 əsəbi
 əsəbilik
 əsəblər
 əsəbləşmək
+əsər
 əsgər
 əsgər yoldaşi
+Əsgəran
 əsgərlər
 eşik
 əsil
@@ -6547,8 +7151,11 @@ eskadrilya
 eskadron
 eskalator
 eskarp
+əski
+əskik
 eskinit
 eskinlər
+Əskişəhər
 eskiz
 eskova
 eskulapiya
@@ -6560,6 +7167,7 @@ eskulin
 əslixan
 eşmək
 əsmək
+əsmər
 əsna
 əsnəmək
 espresso
@@ -6568,14 +7176,16 @@ eşqbaz
 əsr
 esse
 eşşək
+eşşəkarısı
 Essentuki
 estafet yarişi
+estakada
 estakada yataği
 ester
 estet
 Estetes
-estetik
 Estetik
+estetik
 estetik cəhətdən
 estetika
 estetikləşdirən
@@ -6585,12 +7195,15 @@ estetizm
 estezio-
 estiologiya
 estofiziologiya
-estoniya
+eston
 Estoniya
+estoniya
+Estuari
 estuari
 esvatini
 esxinomen
 esxinomenoz
+əşya
 əşyalar
 et
 ət
@@ -6638,6 +7251,7 @@ etiraf etdi
 etiraf etmək
 etirafla
 etiraz
+ətirli
 ətirşah
 etitreya
 etmək
@@ -6645,6 +7259,7 @@ etməlidir
 Etna
 etnik
 etnoqraf
+etnoqrafiya
 etnos
 etogen
 etosaurian
@@ -6653,6 +7268,7 @@ etosaurian
 ətrafinda
 ətrafinda qaçmaq
 ətrafli
+ətraflı
 etrioskop
 ətriyyat
 etude
@@ -6688,6 +7304,7 @@ Evdunya
 Evdusha
 evdya
 evelinagəmisi
+Everest
 everest
 əvəz
 əvəzetmə
@@ -6738,12 +7355,15 @@ evtrof
 əxlaqsiz
 əxlaqsizliq
 əyalət
+əyan
 əyani
 əyar
 eybəcər
 eyforiya
 eyham
 eyhamli
+eyhamlı
+eyib
 əyilmə
 əyilmək
 əyirici
@@ -6780,6 +7400,7 @@ ezamiyyət
 əzbərləmək
 əzələ
 əzəmət
+əzəmətli
 əzgil
 əzik
 əziyyət
@@ -6791,6 +7412,7 @@ ezamiyyət
 əziyyətli
 əziyyətsiz
 Əziz
+əziz
 əzizim
 əzizləmək
 əzm
@@ -6800,7 +7422,10 @@ ezamiyyət
 Ezopiya
 əzrail
 əzrayil
+ƏzZərqa
+F
 f
+fabrik
 fabrika
 facebook
 faciə
@@ -6825,6 +7450,7 @@ falsetto
 fanat
 fanatik
 fanatizm
+fani
 fant
 fanta
 fantasmagoria
@@ -6836,12 +7462,14 @@ fapsi
 far
 farağat
 farenheyt
+Fareradaları
 faringit
 farmazon
 fars
 Fars
 farsca
 Farsca
+Farskörfəzi
 fasad
 fashiontv
 fasilə
@@ -6860,13 +7488,16 @@ favela
 fayda
 faydalanan
 faydali
+faydalı
 faydalidir
 faydaliliq
 faydasiz
+faydasız
 faydasizliq
 fayl
 faysalməscidi
 fayton
+faytonçu
 faza
 fəal
 fəaliyyət
@@ -6887,8 +7518,8 @@ fəlakət
 fəlalət
 feldmarşal
 feldşer
-fələstin
 Fələstin
+fələstin
 Fələstinli
 fəlsəfə
 felyeton
@@ -6900,6 +7531,7 @@ Fənər
 fənərbağça
 fənərbaxça
 feniks
+fənn
 fenol
 fenomen
 fenya
@@ -6913,9 +7545,12 @@ fəqərə
 fəqət
 fərari
 fərarilik
+Fərat
+fərd
 fərdi
 fərdiləşdirmə
 fərdilik
+fərəh
 Fərisey
 ferma
 fərman
@@ -6932,7 +7567,9 @@ fərqli
 fərqli olaraq
 fərqlilik
 fərrux
+fərz
 fərz etmək
+fərzetmək
 fərziyyə
 fəsad
 fəsahət
@@ -6953,19 +7590,21 @@ fəxrəddinmanafov
 fəxri qulluqçu
 fəxriyyə
 feyenoord
+fəza
 fəzail
 fəzilət
 Fiat
 fibonaççi
-fici
 Fici
+fici
+Ficidili
 fidan
 fidelkastro
 fidippid
 fidyə
 fiend
-fifa
 FIFA
+fifa
 fifthharmony
 figenevren
 fightclub
@@ -6975,6 +7614,7 @@ fikir ayriliqlari
 fikirləşdi
 fikirləşmək
 fikirli
+fikirvermək
 fikrətməmmədov
 fiksasiya
 fikus
@@ -6986,6 +7626,7 @@ filatelist
 Filatova
 filial
 filial borusu
+Filippin
 filippin
 Filippinlər
 filippkirkorov
@@ -7011,11 +7652,14 @@ fincan
 fincan tutucusu
 fincə
 finch
+findili
 findiq
+fındıq
 findiqqiran
 finiş
-finlandiya
+Finkörfəzi
 Finlandiya
+finlandiya
 finna
 fint
 fiqaro
@@ -7025,19 +7669,28 @@ fira
 firament
 firavan
 firavanliq
+firavanlıq
 firça
+fırça
 firfirlar
+fırıldaqçı
 firildaqçilar
 firildaqçiliq
+fırlanğıc
 firlanma
+fırlanmaq
 firlatmaq
 firon
 Firon
+firqə
 firtina
+fırtına
 firtina palto
 firtinaçi
+firuzə
 firuzəyi
 fişəng
+fiskal
 fissur
 fistiq
 fistula
@@ -7070,8 +7723,8 @@ Flora
 florakərimova
 florensiya
 Florensiya
-florida
 Florida
+florida
 flört etmək
 flotilla
 flusher
@@ -7084,8 +7737,8 @@ follikül
 folqa
 Fomenko
 fon
-fond
 Fond
+fond
 fonem
 fonendoskop
 fonetika
@@ -7107,6 +7760,7 @@ forza
 forzaneftçi
 fosfor
 fossa
+foto
 fotoeffekt
 fotoemissiya
 fotofobi
@@ -7132,6 +7786,8 @@ Fransiz
 Fransiz dili
 Fransiz qadin
 fransizca
+fransızca
+fransızdili
 franzkafka
 fraqment
 Frau
@@ -7165,8 +7821,10 @@ futbol
 futbolçu
 futurist
 füzuli
+Füzuli
 fyodordostoyevski
 g
+G
 ğ
 gable
 gaborone
@@ -7174,6 +7832,7 @@ gadfly
 galatasaray
 gali
 galla
+gallery
 galyusha
 galyusya
 gameloft
@@ -7187,6 +7846,7 @@ garyoldman
 gat
 Gateway
 gavali
+gavalı
 gayer
 gazapizm
 GB
@@ -7202,6 +7862,7 @@ gecəqondu
 gecikmə
 gecko
 gədəbəy
+Gədəbəy
 gediş
 gedişat
 gel
@@ -7231,10 +7892,13 @@ gen
 genaşa
 gənc
 gənc xanim
+Gəncə
 gəncə
 gəncəli
 gəncəvi
+Gəncəxanlığı
 gənclik
+gəndalaş
 gənə
 general
 general agent
@@ -7271,10 +7935,14 @@ geoloq
 geometrikpillə
 geometrikqradiyent
 geomorfologiya
+Geomorfologiya
+Geomorfoloji
 George
 georgewalkerbush
 georgewashington
 georgich
+Geosinklinal
+Geoxronologiya
 gerasimovka
 gərayli
 gerb
@@ -7332,7 +8000,9 @@ gil
 gilas
 gilder
 gildiya
+gilə
 giləmeyvə
+gilənar
 giliz
 gilyotin
 gimnast
@@ -7343,8 +8013,9 @@ ginekoloq
 gips
 girdap
 girdə
-giriş
+Girəsun
 Giriş
+giriş
 giriş dəftəri
 giriş imkanlari
 girişlər
@@ -7402,13 +8073,15 @@ gombullar
 gomel
 gömrük
 Gömrük işçisi
+gön
 gonbul
 Goncharenko
 Goncharova
 göndər
 göndərən
-göndərmə
+göndəriş
 Göndərmə
+göndərmə
 göndərmə haqqinda
 göndərmək
 gondola
@@ -7417,13 +8090,16 @@ gong
 goo
 goof
 google
+gopçu
 gopher
 goplamaq
+Goranboy
 goranboy
 gorazilli
 gördüm
 görə
 gorin
+görkəm
 görkəmli
 görmə
 görmək
@@ -7460,19 +8136,23 @@ gövdə
 göy
 göy öskürək
 göy qurşaği
+Göyçay
 göyçay
 göyçə
 göydələn
+göyəm
 göyərçin
 göyərçinveysəlli
 göyərtə
 göyərtədə
 göyərti
 göygöl
+Göygöl
 göygöz
 göylər
 göyqurşaği
 göyşaban
+Göytəpə
 göz
 göz oxu
 göz qapaği
@@ -7483,8 +8163,8 @@ göz yuvasi
 gözalici
 gözəl
 gözəl qiz
-gözəllik
 Gözəllik
+gözəllik
 gözətçi
 gözətçi evi
 gözətçi qülləsi
@@ -7527,8 +8207,10 @@ gül itburnu
 gulag
 gulaş
 gulba
+güldan
 güldürmək
 güləş
+güləşçi
 güləşmək
 gulin
 gulko
@@ -7537,6 +8219,7 @@ güllə keçirməyən jilet
 güllələnmək
 gulliver
 güllü
+güllük
 gülmək
 gülməli
 gültəkinəməliyyati
@@ -7545,6 +8228,7 @@ gülünc
 gülüş
 güman
 güman edilir
+gümanetmək
 gümrah
 gümüş
 gümüşü
@@ -7563,6 +8247,7 @@ gündəmlər
 gündəmsizlik
 gündən sonra
 gündoğumu
+gündüz
 günəbaxan
 günel
 günəş
@@ -7578,8 +8263,11 @@ günün qəhrəmani
 gunya
 gürcü
 Gürcü
-gürcüstan
+gürcüdili
 Gürcüstan
+gürcüstan
+GürcüstanDemokratikRespublikası
+GürcüstanSovetSosialistRespublikası
 gürkanuygun
 gurme
 gurney
@@ -7596,27 +8284,33 @@ guta
 gutionts
 gutorov
 guvd
+güvə
 güvən
 güvənmək
+güz
 güzəşt
 güzgü
 gvozdetsky
 h
+H
 ha
 Haaqa
 haci
 hacili
 haciqabul
+Hacıqabul
 haciyev
 hack
 hadera
 hadisə
 Hadisə
 hadrut
+hafizəsizlik
 hag
 haifa
 haiti
 Haiti
+Haitikreoldili
 hake
 haker
 hakim
@@ -7652,6 +8346,7 @@ hamilə
 hamiləlik
 hamilton
 hamisi
+hamısı
 hamlet
 hamster
 hamuru
@@ -7665,6 +8360,7 @@ haqq
 haqq qazandirmaq
 haqqa
 haqqinda
+haqqında
 haqsizliq
 hara
 harada
@@ -7693,32 +8389,43 @@ Harun
 hasar
 hasarlamaq
 hasil
+hasilat
 haşiyə
 haski
-hava
+Hatay
+Haulendadası
+Hausadili
 Hava
+hava
 hava əleyhinə vasitə
 hava hücumundan müdafiə
 hava limani
 hava qaçiran
 hava qüvvələri
+havadar
 havalandirmaq
 havan
 Havana
+Havay
 havay
 havayi
+havayı
 hawaii
 Hayd
 haydka
+Hayfa
 hay-küy
 hazard
 hazing
 hazir
+hazır
 hazirdir
 hazirlamaq
 hazirlanmasi
 hazirlaşmaq
+hazırlaşmaq
 hazirliq
+hazırlıq
 heather
 həb
 həb qutusu
@@ -7735,9 +8442,11 @@ heç vaxt
 heca
 həcc
 həcəz
+heçheçə
 heck
 heçlik
 həcm
+heçzad
 hedcinq
 hədd
 həddindən artiq
@@ -7747,8 +8456,9 @@ həddindən artiq yemək
 həddindən artiq yük
 hədəf
 hədələmək
-hədiyyə
+hədəqə
 Hədiyyə
+hədiyyə
 hədiyyələr
 hədsiz
 heels
@@ -7764,6 +8474,7 @@ həkimin
 hektar
 hela
 hələ
+Hələb
 hələb
 hələlik
 Helena
@@ -7791,6 +8502,7 @@ həmfikir insan
 həmişə
 həmişəlik
 həmişəyaşil
+həmişəyaşıl
 həmkar
 həmkarlar ittifaqi komitəsi
 həmmüəllif
@@ -7828,6 +8540,7 @@ herakl
 hərarət
 hərarətlə
 herbarium
+hərbçi
 hərbi
 hərbi həkim
 hərbi komissar
@@ -7836,6 +8549,7 @@ hərbiçi
 hərəkat
 hərəkət
 hərəkət et
+hərəkətəgətirmək
 hərəkətli
 hərəkətlilik
 hərəkətsizlik
@@ -7851,6 +8565,7 @@ Hermann
 Hermes
 herodot
 heron
+heroqlif
 herpes
 herr
 hərrac
@@ -7875,6 +8590,7 @@ hesablaşmalar
 hesablaşmaq
 hesablayici
 hesablayicilar
+həsəd
 həsən
 həsənağaturabov
 həsənli
@@ -7882,11 +8598,13 @@ həsənməmmədov
 həsənqorxmaz
 həşərat
 həşimov
+həsir
 həsr edin
 həsrət
 həssas
 həssasliq
 həştərxan
+Həştərxanvilayəti
 hetro
 hətta
 həvari
@@ -7899,6 +8617,7 @@ həvva
 Həvva
 hex
 hey
+həyacan
 həyasiz
 həyasizliq
 həyat
@@ -7907,6 +8626,7 @@ həyat sonrasi
 həyat tərzi
 həyat yoldaşi
 həyata keçirmək
+həyatakeçirmək
 həyati
 heydelberq
 heydər
@@ -7917,8 +8637,8 @@ heyecanla
 həyəcanla
 həyəcanli
 heyət
-həyət
 Həyət
+həyət
 heyət zabiti
 heyəti
 heyif
@@ -7927,6 +8647,7 @@ heykəlcik
 heykəltaraş
 heykəltəraş
 heykəltəraşliq
+heykəltəraşlıq
 heyran
 heyran edir
 heyran etmək
@@ -7942,6 +8663,7 @@ heyrətamiz
 heyrətləndirici
 heyva
 heyvan
+heyvandarlıq
 heyvanistan
 həzi
 həziaslanov
@@ -7952,9 +8674,12 @@ həzz
 hibrid
 hicab
 hiçqiriq
+hicrət
 hidayət
+hiddət
 hiddətlənmək
 hidra
+hidrodinamik
 hidrogen
 hidrogen sulfid
 hidrokortizon
@@ -7964,14 +8689,16 @@ hikmət
 hikməthaciyev
 hikroskopik
 hilal
+Himalay
 Himalaylar
 himayə
 himmler
 himn
 himsha
 hindenburq
-hindistan
 Hindistan
+hindistan
+Hindokeanı
 Hindu
 hinduizm
 hinduşka
@@ -7995,6 +8722,8 @@ hipotermiya
 hipotrofiya
 hippi
 hippokrat
+hiqrometr
+hiqroqraf
 hirohito
 hirs
 hirsləndi
@@ -8018,14 +8747,17 @@ hizalama
 hizbullah
 hobbi
 hobbit
+höcət
 hodgepodge
 hökm
 hökmdar
 hökmən
 hökmranliq
+hökmranlıq
 hökumət
-holland
+hökümət
 Holland
+holland
 Hollandiya
 Hollandiyali qadin
 hollivud
@@ -8041,9 +8773,10 @@ hominy
 homo
 homoseksual
 homoseksualizm
-honduras
 Honduras
+honduras
 honiara
+Honkonq
 honkonq
 hönkürmək
 hönkürtü
@@ -8054,22 +8787,27 @@ hop
 hopdurucu
 hopmaq
 hoqqabaz
+Horadiz
 horadiz
 hörgü
 horizontal
 hörmə
 hörmək
-hörmət
 Hörmət
+hörmət
+hörmətetmək
 hörmətli
 hörmətsiz
 hörmətsizlik
 hormon
+Hörmüzboğazı
 horovlu
 horseradish
+hörük
 Hörüm
 hörümçək
 hörümçək toru
+hörümçəktoru
 hospital
 hota
 hotel
@@ -8082,7 +8820,9 @@ hubbub
 hüceyrə
 hüceyrəli
 hücum
+hücumçu
 hücumlar
+hüdud
 hüdudsuz
 hudzon
 hulk
@@ -8090,10 +8830,12 @@ humanist
 humanitar
 humanizm
 humanoid
+Hüms
 hunchback
 hündür
 hündür kreslo
 hündürlük
+hünər
 hunk
 hüqo
 hüquqşünas
@@ -8105,6 +8847,7 @@ hürkütmək
 hürmək
 hürr
 hürrəm
+hürriyyət
 Huş ağaci
 huş meşəsi
 huş qabiği
@@ -8118,7 +8861,9 @@ huşsuzluq
 hustle
 hustler
 huşunu itirmək
+I
 i
+İ
 ianə
 ianikit
 iaşə
@@ -8127,18 +8872,22 @@ ibadət etmək
 ibadətgah
 ibarə
 ibarətdir
+iblis
 ibrahim
 İbrahim
 İbrahim kişi
 ibrahimov
 İbram
 ibtidai
+iç
+icad
 icant
 icarə
 icarəyə verilir
 icarus
 icazə
 icazə verin
+icazəvermək
 içdi
 içən yoldaş
 içəri
@@ -8157,6 +8906,7 @@ icmal
 içmək
 icra
 icraçi
+icraçı
 icraçilar
 icraedici komitə
 ictimai
@@ -8173,11 +8923,13 @@ idarəçilər
 idarəedici
 idarəedicilər
 idarəetmə
+idarəetmək
 idarələr
 idarəolunan
 idbar
 iddia
 iddiaçi
+iddiaçı
 iddiali
 ideal
 idealist
@@ -8189,6 +8941,7 @@ ideoloq
 ideya
 idi
 idil
+İdlib
 idman
 idman ayaqqabisi
 idman çantasi
@@ -8196,13 +8949,16 @@ idman meydançasi
 idman zali
 idman zali müəllimi
 idmançi
+idmançı
 idrak
 idxal
 ifaçi
+ifaçı
 ifade
 ifadə
 ifadə etmək
 ifadə vermək
+ifadəetmək
 ifadəli
 iffət
 iffətli
@@ -8213,6 +8969,7 @@ ifritə
 ifşa
 ifşa etmək
 iftira
+İğdır
 igid
 Igloo
 igorek
@@ -8247,25 +9004,32 @@ ilahi
 ilahiyyat
 ilahiyyatçi
 ilan
+ilanbalığı
 ilbiz
 ilçe
 ildirim
+ildırım
 ildönümü
 ilə
 ilə əlaqəli
+ilgək
 ilham
 ilhamzəkiyev
 ilik
 iliq
+ilıq
+ilişdirmək
 ilk növbədə
 ilk oğlan
 ilk yardim dəsti
 ilka
 ilkin
 illik
+İllinoys
 illüstrasiya
 illüzionist
 illüziya
+ilmə
 iltihab
 ilxi
 ilya
@@ -8290,6 +9054,7 @@ imarət
 iməcilik
 iməkləmək
 imişli
+İmişli
 imkan
 imkan verir
 imkani var
@@ -8315,6 +9080,7 @@ imtina
 imtina edildi
 imtina et
 imtina etmək
+imtinaetmək
 imtiyaz
 imza
 imzalamaq
@@ -8330,6 +9096,7 @@ inamli
 inamsizliq
 inandiriciliq
 inandirmaq
+inandırmaq
 inanilmaz
 inanin
 inanmaq
@@ -8342,6 +9109,7 @@ incəsənət.
 inci
 inci arpa
 incidir
+incik
 inciklik
 İncil
 incimək
@@ -8351,6 +9119,7 @@ indeks
 indi
 İndi
 indiana
+İndiana
 indigo
 indiki
 indila
@@ -8366,6 +9135,7 @@ infeksiya
 inflyasiya
 informasiya
 informasiya qutusu
+informatika
 infrastruktur
 infuziya
 İngilis
@@ -8394,6 +9164,7 @@ inkubator
 inkvizisiya
 inləmək
 inna
+innab
 innushka
 inqilab
 inqilabi
@@ -8402,8 +9173,12 @@ inşaat
 inşaat batalyonu
 inşaat briqadasi
 inşaatçi
+inşaetmək
+insaf
 insafli
+insaflı
 insafsiz
+insafsız
 insan
 İnsan
 insan haqlari müdafiəçisi
@@ -8416,6 +9191,7 @@ insitat
 insizial
 insomnia
 instagram
+instansiya
 instinkt
 instinktiv
 institusional
@@ -8443,6 +9219,7 @@ intibah
 intihal
 intihar
 intiqam
+intizam
 intizar
 intonasiya
 intreatment
@@ -8470,6 +9247,7 @@ ionca
 ionia
 ionlu
 iordaniya
+İordaniya
 ip
 ip çəkən
 ipək
@@ -8481,6 +9259,7 @@ iplik çarxi
 iplik üstü
 ipoteka
 ipucu
+iqbal
 iqlim
 iqlimləndirici
 iqlimləndirmə
@@ -8502,6 +9281,7 @@ iran
 İran
 iraq
 İraq
+İrbid
 irəli
 irəli gəz
 irəliləyərək
@@ -8511,6 +9291,9 @@ irəliləyişlər
 irene
 irəvan
 İrəvan
+İrəvanqəzası
+İrəvanquberniyası
+İrəvanxanlığı
 irfan
 iri
 irin
@@ -8522,12 +9305,14 @@ iris
 irisha
 irishman
 İrkutsk
+İrkutskvilayəti
 İrland
 irlandca
 irlandiya
 İrlandiya
 İrlandiyali
 irma
+irq
 irqçi
 irqçilik
 irqi
@@ -8562,10 +9347,13 @@ işə qəbul
 isəaul
 işəgötürən
 işəmə
+işəsalmaq
 isfahan
 işğal
 işğal etmək
 işğalçi
+işğalçı
+işğaletmək
 işgəncə
 isgəndər
 İsgəndəriyyə
@@ -8577,18 +9365,23 @@ işiğin sonu
 isim
 isinmaq
 işiq
+işıq
+isiqamət
 işiqfor
 işiqlandirici
 işiqlandirma
 işiqlanmaq
 işiqli
+işıqlı
 işiqötürən
 isitmək
 iskele
 İskəndər
 iskəndəriyyə
+iskənə
 iskit
 İskit
+İskolatRespublikası
 islah
 islahat
 islahatçi
@@ -8602,6 +9395,7 @@ islandiya
 islanmaq
 islatmaq
 Isle
+işlədici
 işlək
 işləmə
 işləmək
@@ -8612,32 +9406,39 @@ işləyir
 ismael
 ismaric
 ismayil
+İsmayıllı
 İspan
 ispanca
 ispaniya
 İspaniya
 ispanqripi
+İsparta
 israf
 israfilməmmədov
 israil
 İsrail
 israr
 israr et
+İssıkKul
 işsizlik
 iştaha
 istanbul
 İstanbul
 istedad
 istedadli
+istedadlı
 istefa
 istehlak
 istehlak etmək
 istehlak mallari
 istehlakçi
+istehlakçı
 istehsal
 istehsal etmək
 istehsal olunmuş məhsullar
+istehsalat
 istehsalçi
+istehsalçı
 istehza
 istehza edənlər
 istehzaçi
@@ -8653,15 +9454,21 @@ istəyirik
 isti
 isti boşqab
 istibdad
+istifadə
 istifadə edilmişdir
 istifadə edin
 istifadə etmək
 istifadəçi
+İstifadəçi:Turkmen/Qaralama
+istila
+istilaçı
+istilaetmək
 istiləşmə
 istilik
 istinad
 istinad nöqtəsi
 istintaq
+istiot
 istiqamət
 istiqamətində
 istiqlal
@@ -8676,6 +9483,7 @@ iştirak etmək
 iştirak etməmək
 iştirak etməyənlər
 iştirakçi
+iştirakçı
 istiridye
 istismar
 istismarçi
@@ -8704,6 +9512,7 @@ itburnu
 itdami
 itələmək
 iti
+itibucaqlıüçbucaq
 itiləmək
 itiləyici
 itirdi
@@ -8749,8 +9558,18 @@ ixtisas
 ixtiyar
 ixtiyari
 iy
+iydə
 iyerarxiya
 iyirmi
+iyirmialtı
+iyirmibeş
+iyirmibir
+iyirmidoqquz
+iyirmidörd
+iyirmiiki
+iyirmisəkkiz
+iyirmiüç
+iyirmiyeddi
 iyləmək
 iynə
 iynələr
@@ -8766,21 +9585,27 @@ iyun
 İyun
 iz
 İzabel
+izah
 izah et
 izahat
 izdiham
+izin
 izləmə
 izləmə kağizi
 izləmək
+izləncə
 izləyici
 izləyin
 İzmailovo
 izmir
+İzmir
 izolyasiya
 izolyator
+izoqamin
 iztirab
 izzət
 j
+J
 jackboot
 jackdaw
 jackiechan
@@ -8803,8 +9628,8 @@ Janusya
 janvaljan
 jarqon
 jasonstatham
-java
 Java
+java
 jay
 jeanclaudevandamme
 Jeanne
@@ -8821,8 +9646,8 @@ jet
 jeveux
 ji
 jilet
-jiquli
 Jiquli
+jiquli
 jlo
 joanna
 johannsebastianbach
@@ -8848,19 +9673,22 @@ jurnal
 jurnalist
 jurnalistika
 justintimberlake
+K
 k
 kabab
 kabare
 kabel
-kabil
 Kabil
+kabil
 kabin
 kabin oğlan
 kabinə
 kabinet
+KaboVerde
 kabus
 kadillak
 kadmiyum
+kadr
 kafe
 Kafe
 kafedra
@@ -8869,9 +9697,12 @@ kafi
 kafir
 kafka
 kaftan
+kaftar
 kağir
 kağiz
+kağız
 kağiz parçasi
+kahı
 kahin
 kahramanmaraş
 kainat
@@ -8888,11 +9719,13 @@ kalça
 kaleydoskop
 kalibr
 kalibrli
+Kaliforniya
 kaliforniya
 kalininqrad
 Kalininqrad
 kalinka
 kalium
+kalkulyasiya
 kalkulyator
 Kalmik
 kalori
@@ -8903,16 +9736,18 @@ kalvinkulic
 kalya
 Kama
 kamakura
+kamal
 kaman
 kamaz
 kambala
-kamboca
 Kamboca
-kamçatka
+kamboca
 Kamçatka
+kamçatka
 kamelka
 kamera
 kamera yoldaşi
+kamerton
 Kamerun
 kamikaze
 kamil
@@ -8932,19 +9767,21 @@ kanal
 kanalizasiya
 kanarya
 kanat
-kanberra
 Kanberra
+kanberra
+kandar
 Kanevski
 kaniş
 kanoe
 kanon
 kansler
 kantata
+kanton
 Kanton
 kantor
 kanyon
-kanzas
 Kanzas
+kanzas
 kapiçino
 kapilyar
 kapital
@@ -8965,7 +9802,9 @@ Karaçi
 karakas
 Karakas
 karalyok
+Karaman
 karamel
+karandaş
 karantin
 karat
 karate
@@ -8983,6 +9822,7 @@ kardioqram
 Kareliya
 karenina
 karib
+Karibdənizi
 karides
 karikatura
 karimbenzema
@@ -9000,6 +9840,7 @@ karma
 karmiel
 karnaval
 karniz
+Karpatdağları
 Karpenko
 kart
 kartagena
@@ -9015,9 +9856,11 @@ karxana
 karyatid
 karyera
 karyerist
+kasa
 kasablanka
 kaset
 kasib
+kasıb
 kaskad
 kaskadyor
 kaspi
@@ -9027,6 +9870,7 @@ kassir
 kassiterit
 kassok
 kast
+Kastamonu
 kastellan
 kastor yaği
 kataklizm
@@ -9035,6 +9879,7 @@ katal
 katalizat
 katalizator
 kataloniya
+kataloq
 kataloqu
 katarakt
 katarina
@@ -9050,6 +9895,7 @@ katet
 kateter
 katib
 katiblik
+Katmandu
 katmandu
 katod
 katolik
@@ -9067,10 +9913,12 @@ kauqulyator
 kawasaki
 kaxovka
 kayak
+Kaymanadaları
 kayseri
+Kayseri
 Kazak
-kazan
 Kazan
+kazan
 kazarma
 kazbek
 kazino
@@ -9099,7 +9947,9 @@ kədərli
 kədərsiz
 keel
 kəfən
+kəfgir
 kefir
+kefiyyət
 kefli
 kefsizcəsinə
 kəhrəba
@@ -9112,7 +9962,9 @@ kəkiltmək
 kəklik
 kəklikotu
 kəlağayi
+kəlağayı
 kəlbəcər
+Kəlbəcər
 kəlbətin
 kəlbətinlər
 kələ
@@ -9120,6 +9972,7 @@ kələm
 kələm başi
 kələm rulosu
 kələm şorbasi
+kələz
 Kəlküttə
 kəllə
 kəllə qapaği
@@ -9138,21 +9991,25 @@ kənara
 kənarda
 kənarlaşdirma
 kənarlaşdirmaq
+kənarlaşdırmaq
 kənd
 kənd şurasi
 kənd təsərrüfati
 Kənd təsərrüfati
 kənd yoldaşi
 kənddəsonuncuyəhudi
+kəndir
 kəndirbaz
 kəndli
 kəndxuda
-keniya
+Kəngərli
 Keniya
+keniya
 kennetbranagh
 kenquru
 kent
 kentukki
+Kentukki
 kəpək
 kəpənək
 kepenk
@@ -9164,7 +10021,10 @@ keratit
 kərbəla
 kerch
 kərə yaği
+kərənti
+kərəviz
 kərgədan
+Kərki
 kərkük
 kerosin
 kerosin sobasi
@@ -9175,16 +10035,19 @@ kerub
 kəşf
 kəşf edən
 kəşf etmək
+kəşfetmək
 kəşfiyyat
 kəşfiyyat xidməti
 kəşfiyyatçi
 kesha
 kəsici
+keşik
 kəsik
 kəsilmə
+kəsilmək
 kəsir
-keşiş
 Keşiş
+keşiş
 kəskin
 kəskinləşdi
 kəskinləşmə
@@ -9193,9 +10056,11 @@ kəsmə
 kəsmək
 kəsmik
 kəşmir
+keşniş
 kəsr
 kətan
 ketçup
+kəvər
 kevin
 keyfiyyət
 keylik
@@ -9223,6 +10088,7 @@ kiçik qayiq
 kiçik səs
 kiçik şey
 kiçik təsərrüfat
+KiçikQafqaz
 kif
 kifayət
 kifayət qədər
@@ -9232,14 +10098,16 @@ kiflənmək
 kikimora
 kikirdama
 kiler
+kilid
 kilidləmək
 kilif
 kilina
+Kilis
 kilo
 kilokalori
 kilometr
-kiloqram
 Kiloqram
+kiloqram
 kilovat
 kilsə
 kilsə həyəti
@@ -9253,6 +10121,7 @@ kimirsen
 kimono
 kimsə
 kimsəsiz
+kimsəsizlik
 kimya
 kimyaçi
 kimyagər
@@ -9267,9 +10136,11 @@ kinematoqrafiya
 kineskop
 kinizm
 kink
+kino
 kinofilm
 kinoteatr
 kinoxronika
+Kinqmenrifi
 kinqston
 Kinşasa
 kippu
@@ -9281,6 +10152,7 @@ kir
 kira
 kirayə
 kirayəçi
+kirə
 Kirienko
 kiril
 Kiril
@@ -9288,6 +10160,7 @@ Kirila
 Kirilka
 Kirill
 Kirillich
+kırımtatarca
 Kirkenes
 Kirov
 Kirovograd
@@ -9296,6 +10169,7 @@ Kirpi
 kirpik
 kirşə
 kiruha
+Kirundidili
 kirunya
 Kirya
 kiryasha
@@ -9311,6 +10185,7 @@ Kişinev
 kişinyov
 kislovodsk
 kişmiş
+kişnəmək
 kist
 kitab
 kitabça
@@ -9318,12 +10193,13 @@ kitabə
 kitabliq
 kitabxana
 kitabxanaçi
+kitabxanaçı
 kito
 Kitty
 kiv
 kivi
-kiyev
 Kiyev
+kiyev
 kizlyar
 klaipeda
 klan
@@ -9357,7 +10233,9 @@ kobud
 Kobudcasina
 kobudluq
 koca
+Kocaeli
 köçəri
+köçmə
 köçmək
 köçürmə
 köçürmək
@@ -9393,8 +10271,10 @@ kökəlmək
 köklər
 kokorin
 kokos
+Kokosadaları
 kokoshnik
 kokpit
+köks
 koksiks
 kokteyl
 kol
@@ -9418,15 +10298,16 @@ kollektivləşdirmə
 kollektor
 kollokvium
 kolluq
-köln
 Köln
+köln
 Kolombo
 koloniya
+Kolorado
 kolorado
 kolorit
 kolumb
-kolumbiya
 Kolumbiya
+kolumbiya
 kolxoz
 kolxozçu
 Kolya
@@ -9441,14 +10322,17 @@ kombinator
 kombinezon
 komediya
 komediyaçi
+kömək
 kömək edin
 kömək etmək
 köməkçi
 köməkçi maddələr
 köməkçilər
+köməketmək
 komendant
 komendantliq
 kometa
+Komidili
 komidin
 komik
 Komintern
@@ -9465,8 +10349,8 @@ kommunal mənzil
 kommunal otaq
 kommunikasiya
 kommunist
-kommunist partiyasi
 Kommunist Partiyasi
+kommunist partiyasi
 kommunizm
 komor
 Komorlar
@@ -9509,13 +10393,15 @@ konki sürmək
 konkret
 konkretlik
 konkurs
+Konnektikut
 konon
 kononych
 konor
 konotop
 konqo
-konqres
+KonqoRespublikası
 Konqres
+konqres
 konsensus
 konsentrasiya
 konsentrasiya düşərgəsi
@@ -9527,11 +10413,13 @@ konservatoriya
 Konservləşdirilmiş qida
 konsol
 konstable
+Konstansa
 Konstantin
 konstantinapol
 konstantinich
 konstantinopol
 konstitusiya
+konstruksiya
 konsul
 konsulluq
 kontakion
@@ -9540,9 +10428,11 @@ Kontekst
 konteyner
 köntöy
 kontrabas
+kontrakt
 kontrol
 kontrplak
 kontur
+könül
 könüllü
 könülsüzlük
 konus
@@ -9550,6 +10440,7 @@ konvensiya
 konveyer
 konvoy
 konya
+Konya
 konyak
 konyunktura
 kooperasiya
@@ -9558,20 +10449,24 @@ kooperator
 koordinasiya
 koordinat
 koordinator
+köpək
 köpək baliği
-kopenhagen
 Kopenhagen
-köpük
+kopenhagen
 Köpük
+köpük
 kopyalama
 kor
 kor adam
+koramal
 kordilyer
 kordon
 korelina
 Koreya
 koreyaca
 koreyali
+KoreyaRespublikası
+KoreyaXalqDemokratikRespublikası
 körfəz
 korkuluk
 korkuluklar
@@ -9622,6 +10517,7 @@ kosmopolitizm
 kosmos
 kosovo
 kosta
+KostaRika
 köstəbək
 Kostyleva
 kostyum
@@ -9629,13 +10525,15 @@ kostyum dizayneri
 koşucu
 koşucular
 kotangens
+Kotd'İvuar
 kotlet
+Kotonu
 kottec
 kötük
 kovalenko
 kovboy
-koventri
 Koventri
+koventri
 kövrək
 kövsər
 kovy
@@ -9653,6 +10551,7 @@ kral
 kralartur
 kraliça
 kralliq
+krallıq
 kran
 krasnodar
 Krasnodar
@@ -9667,8 +10566,8 @@ kreditor
 kredo
 krem
 krematorium
-kreml
 Kreml
+kreml
 kreslo
 krestovski
 kreyser
@@ -9679,13 +10578,14 @@ Krim
 krim tatarca
 kriminal
 kriminalist
+krımtatarca
 kripteks
 kripton
 kriptoqraf
 kristal
 kristallaşma
-kristina
 Kristina
+kristina
 kristoferişervud
 kristofernolan
 krit
@@ -9703,8 +10603,8 @@ krujeva
 krup
 krupskaya
 krutikova
-kseniya
 Kseniya
+kseniya
 ksenon
 ksenyusha
 ksesha
@@ -9713,10 +10613,10 @@ ksyura
 ksyusha
 ksyuta
 kub
-kuba
 Kuba
-kuban
+kuba
 Kuban
+kuban
 kubanka
 kubar
 kübar
@@ -9728,9 +10628,11 @@ Kubok
 kübra
 küçə
 küçə uşaği
+küçük
 kufə
 küflənmiş şeylər
 küfr
+küftə
 kukla
 Kukla
 küknar
@@ -9749,6 +10651,8 @@ kulichok
 kuliminasiya
 kulinariya
 külli
+külliyat
+kulon
 külot
 külqabi
 kult
@@ -9759,7 +10663,10 @@ kumaç
 kuna
 künc
 küncsüz
+küncüd
+kündə
 kündələmək
+künə
 kung
 kungalar
 kungfupanda
@@ -9768,12 +10675,17 @@ kuntsevo
 küp
 kupa
 küpeşte
+Kür
 kür
+KürArazovalığı
 kurator
 kürdcə
+kürddili
+Kürdəmir
 kürdəmir
 kurdeşen
 kürdəxani
+Kürdistan
 kürə
 kürək
 kürəkçay
@@ -9790,9 +10702,11 @@ kürsü
 kurta
 kurtcobain
 kürü
+kuryer
 Kuryer
 küsmək
 kustanai
+Kütahya
 kütahya
 kutaisi
 kütlə
@@ -9824,6 +10738,7 @@ kvota
 kW
 KXDR
 Kyoto
+L
 l
 la
 labirent
@@ -9833,6 +10748,7 @@ laboratoriya
 labüd
 lacasadepapel
 laçin
+Laçın
 lada
 ladin
 ladin budaqlari
@@ -9862,8 +10778,9 @@ lancer
 landgrave
 landşaft
 lanita
-laos
+Laodili
 Laos
+laos
 lapdog
 lapina
 laplas
@@ -9885,26 +10802,31 @@ lateral
 Latin
 latsio
 latte
-latviya
 Latviya
+latviya
 Laura
 laureat
 lav
+lava
 lavabo
 lavaş
 lavman
 lavrentiberiya
 laxtalanma
+lay
 layihə
+layihələndirmək
 layiq
 layiq olmaq
 layiqincə
 laylama
 layman
 layner
+laz
 lazarenko
 lazer
 lazim
+lazım
 lazimsiz
 lb.
 ld
@@ -9930,6 +10852,7 @@ ləğv etmə
 ləğv etmək
 ləğv olunur
 ləğvçi
+ləğvetmək
 ləhcə
 lehimləmə
 lehimleme dəmir
@@ -9952,6 +10875,7 @@ lələtəpə
 ləlöyün
 lelya
 lelystad
+Lena
 lənət
 lənətə gəlmək
 lənətlə
@@ -9969,6 +10893,7 @@ Leninizm
 Leninqrad
 Leninsk
 lənkəran
+Lənkəran
 lenovo
 lenqrad
 Lensovet
@@ -9978,16 +10903,19 @@ leonardodicapiro
 ləpə
 ləpir
 leqallaşdirma
-ləqəb
 Ləqəb
+ləqəb
+Lerik
 lerik
 leş
 Lesha
 lesina
-lesoto
 Lesoto
+lesoto
+lətifə
 letta
 leva
+ləvazimat
 ləvəngi
 leventülgen
 leviathan
@@ -9997,8 +10925,10 @@ lex
 lexa
 lexus
 ləyaqət
+ləyaqətli
 leykemiya
 leylək
+leysan
 leytenant
 leytmotiv
 lezbiyen
@@ -10006,14 +10936,15 @@ ləzgi
 lezva
 lezyon
 ləzzət
+ləzzətli
 lia
 liana
 lianca
 liberal
 liberalizm
 liberallaşma
-liberiya
 Liberiya
+liberiya
 librevil
 lida
 lider
@@ -10031,6 +10962,7 @@ lill
 liloandstitch
 lilongwe
 Lima
+Liman
 liman
 liman şərabi
 Limassol
@@ -10056,14 +10988,17 @@ linza
 lion
 Lipetsk
 liqasi
+Liquriyadənizi
 lira
+lirə
 lirik
 lirika
 lisenziya
 lisey
 lisey şagirdi
-lissabon
 Lissabon
+lissabon
+Litologiya
 litota
 litr
 litsey
@@ -10074,12 +11009,13 @@ litvak
 livan
 Livan
 Liverpool
-liviya
 Liviya
-lixtenşteyn
+liviya
 Lixtenşteyn
+lixtenşteyn
 liyka
 lizasimpson
+lizinq
 lLayiq
 loach
 loaferlər
@@ -10101,8 +11037,8 @@ lökosit
 lökositoz
 lolipop
 lombard
-london
 London
+london
 londonyanğini
 lopa
 lora
@@ -10121,6 +11057,7 @@ lövbər
 Lovelace
 lovğa
 lovğalanmaq
+lovğalıq
 lövhə
 lövhələr
 Lozanna
@@ -10140,16 +11077,19 @@ luiskerrol
 luissuarez
 luizana
 luiziana
+Luiziana
 lujniki
 Luka
 lukeskywaller
 lukoyl
-lüksemburq
 Lüksemburq
+lüksemburq
 lülə
 lümpen
 lusaka
+Lusaka
 lustrat edin
+lüt
 lute
 lütf
 lütfizadə
@@ -10169,6 +11109,7 @@ Lyubertsi
 lyublyana
 lyuk
 lyulya
+M
 m
 maa
 maarifləndirmə
@@ -10176,10 +11117,12 @@ maaş
 maasluis
 Maastrichtian
 maçalka
+macar
 Macar
 macarca
-macaristan
 Macaristan
+macaristan
+Macarıstan
 macaw
 mace
 macəra
@@ -10191,14 +11134,15 @@ macərali
 macun
 maçupikçu
 madambovari
-madaqaskar
 Madaqaskar
+madaqaskar
 maddə
 maddi
 mademoiselle
 madonna
 madrid
 Madrid
+madyan
 mafia
 mafiya
 mağara
@@ -10217,6 +11161,7 @@ mahiyyəti
 mahmiz
 mahmudlu
 mahni
+mahnı
 mahur
 mail
 mailməmmədov
@@ -10228,29 +11173,37 @@ makaron
 makedon
 makedonca
 makedoniya
+Makedoniya
 makintoş
 makiyaj
 makiyato
 makqreqor
+makroiqtisadiyyat
 maksilla
 maksimal
 maksimgalkin
 maksimgorki
 maksimum
+mal
+Mal
 mal əti
 malabo
 malakan
 Malaqa
 malaşa
-malavi
+Malatya
 Malavi
-malayziya
+malavi
+malaxit
 Malayziya
+malayziya
 malaziya
 malcəhət
 maldiv
+Maldivadaları
 Maldivlər
 mali
+Mali
 malibu
 malikanə
 malikanələr
@@ -10261,19 +11214,21 @@ maliyyələşdirmə
 mall
 mallow
 mal-qara
-malta
 Malta
+malta
 maltster
 malyariya
 mama
 mamaloq
 mamed
 mamir
+mamır
 mamont
 mana
 manafov
 manama
 Manama
+Manaqua
 manat
 manço
 mandal
@@ -10285,17 +11240,21 @@ maneə
 manga
 mangal
 mango
+Maniken
 manikür
 manila
 manisa
+Manisa
 manna
 manpasi
 manqal
+manqo
 manqurt
 manşet
 mantis
 mantyor
 manyak
+Maoridili
 maotsedun
 maqadan
 maqnat
@@ -10315,14 +11274,18 @@ maraq
 maraqlandiran
 maraqlanmaq
 maraqli
+maraqlı
 maraqlidir
+Marathidili
 marcelo
+Mardin
 mare
 margin
 marigold
 marilynmonroe
 marius
 marka
+Market
 marketinq
 marksist
 marksizm
@@ -10333,18 +11296,23 @@ marmelad
 marmot
 marmotgünü
 marneuli
+Mars
 mars
+marş
 marşal
 marşall
 marsel
 marşrut
 mart
 martiniden
+Martinika
 martinlüter
 masa
+maşa
 masa üstü
 masaj
 masalli
+Masallı
 maşanli
 maseru
 maşin
@@ -10353,12 +11321,17 @@ maska
 maskalamaq
 maskot
 mason
+Massaçusets
 masson
 mastervəmarqarita
+masturbasiya
 mastürbasyon
+matah
 matç
+matəm
 material
 materiali
+materiya
 matkaplar
 matrix
 matros
@@ -10369,8 +11342,9 @@ mavibalina
 mavidənizinsahilində
 mavilər
 mavilik
-mavritaniya
+Mavriki
 Mavritaniya
+mavritaniya
 mavzoley
 maxe
 may
@@ -10387,6 +11361,7 @@ mayonez
 mayor
 maz
 mazaxist
+mazoxist
 mazoxizm
 mazut
 mcdonalds
@@ -10401,6 +11376,7 @@ məcburiyyət
 məcəllə
 məchul
 məcid
+məclis
 məcmu
 məcmu-
 məcmu olaraq
@@ -10409,10 +11385,12 @@ məcmuələr
 məcnun
 məcra
 medal
+medalyon
 mədə
 mədə sonrasi
 mədəalti
 mədəcik
+mədən
 mədənçi
 mədənçilik
 mədəni
@@ -10422,6 +11400,7 @@ mədətquliyev
 media
 median
 medison
+mədrəsə
 meduza
 meduzaqorqona
 məfhum
@@ -10429,14 +11408,17 @@ megafon
 megan
 məğlub etmək
 məğlubiyyət
+məğrur
 məğrurluq
 meh
 məharət
+məhbus
 mehdili
 məhduddur
 məhdudiyyət
 məhdudlaşdirici
 məhdudlaşdirilmaq
+məhdudlaşdırılmaq
 məhdudlaşdirmaq
 məhəbbət
 məhəlli
@@ -10452,6 +11434,7 @@ məhkəmə sonrasi
 məhkəməyə vermək
 məhkum
 məhkumluq
+məhlul
 mehman
 mehmandarov
 mehrab
@@ -10465,14 +11448,19 @@ məhşərindördatlisi
 məhsəti
 məhsul
 Məhsuldarliq
+mehtər
 məhv
 məhv edən
 məhv etmək
 məhz
 meinkampf
+məkan
+Məkkə
+Məkkəməscidi
+məkr
 məkrli
-meksika
 Meksika
+meksika
 məktəb
 məktəbdən sonra
 məktəbəqədər
@@ -10480,11 +11468,13 @@ məktəbli
 məktub
 məktublar
 melanxolik
+Melburn
 mələk
 melekbaykal
 mələklər
 məleykə
 məleykəəsədova
+mələz
 məlhəm
 məlikcanli
 meloman
@@ -10497,6 +11487,7 @@ memar
 memarliq
 membran
 məmə
+məməlilər
 memento
 məmləkət
 məmmədağa
@@ -10504,10 +11495,13 @@ məmmədəmin
 məmmədibrahim
 məmmədquluzadə
 məmnun
+məmnuniyyət
 məmnunluq
 memo
-məmur
+məmulat
 Məmur
+məmur
+Men
 mən
 Mən
 Mən hərəkət edirəm
@@ -10518,7 +11512,9 @@ məna
 mənafe
 menagerie
 mənali
+mənalı
 mənasiz
+mənasız
 mənasizliq
 mənbə
 mendeleyev
@@ -10529,6 +11525,7 @@ mənəviyyat
 mənfəət
 mənfi
 mənfur
+məngənə
 mənim
 mənim dostum
 mənimadimqirmizi
@@ -10545,10 +11542,11 @@ məntiq
 məntiqçi
 mentor
 menyu
-mənzərə
 Mənzərə
+mənzərə
 mənzil
 məqalə
+məqam
 məqbərə
 məqbul
 məqbul şəkildə
@@ -10560,14 +11558,15 @@ məqsədəuyğunluq
 məqsədyönlülük
 mer
 Merac
-mərakeş
 Mərakeş
+mərakeş
 meraklilar
 mərasim
 mərasimsizlik
 mərc
 mərcan
 mərcani
+mərcanı
 mercedes
 mərd
 mərhələ
@@ -10576,7 +11575,9 @@ mərhəmət
 mərhəmətsiz
 mərhum
 meridian
+mərifət
 mərifətsiz
+Merilend
 merilinmonro
 meriya
 mərkəz
@@ -10584,15 +11585,20 @@ Mərkəz
 mərkəzəqaçma
 mərkəzi
 mərkəzi bank
+MərkəziAfrikaRespublikası
+Merkuri
 merlin
 mərmər
+Mərmərədənizi
 mərmi
 mersin
 mərsiyə
 mərtəbə
+məruzə
 məsafə
 mesaj
 məsamə
+məsarif
 məscid
 məsdər
 meşə
@@ -10602,10 +11608,14 @@ meşəbəyilik
 meşəçi
 məşədi
 məşəl
+məsələ
 meşələr
 meşəlik
+məşğələ
 məşğul
+məşğuliyyət
 məşğulluq
+məşğulolmaq
 mesh
 məshəti
 məşhur
@@ -10630,6 +11640,7 @@ məşq
 məşq etmək
 məşqçi
 məsqət
+məsrəf
 messi
 messiah
 məştağa
@@ -10641,6 +11652,7 @@ mesutözil
 metafor
 metal
 Metal
+Metamorfizm
 metan
 mətanət
 mətbəə
@@ -10659,13 +11671,16 @@ məxfi
 mexiko
 məxluq
 məxmər
+məxmərək
 məxrəc
 məxsus
 meyar
 meyarlar
+meydan
 meydan oxumaq
 meydança
 meydantv
+meyil
 meyl
 meyllər
 meymun
@@ -10680,6 +11695,7 @@ meyxanaçi
 məzar
 məzdəkilər
 məzəli
+məzənnə
 məzhəb
 məzhəbçi
 məzhəkə
@@ -10689,15 +11705,18 @@ məzmun
 mezolit
 məzrə
 məzun
+məzuniyyət
 mhat
 miami
 michaelhirst
 michaeljackson
+Miçiqan
 miçiqan
 midas
 midge
 midget
 midsagital
+Midueyrifi
 mif
 mifik
 mignonette
@@ -10708,16 +11727,21 @@ mikayilmüşviq
 mikepence
 mikhaillermontov
 mikroavtobus
+mikrob
 mikrocərrahiyyə
 mikroqrafia
 mikroskop
 mil
+milad
 Milad
+Miladadası
 milan
+milçək
 milçəklərtanrisi
 milçəköldürən
 milis
 Millət
+millət
 millət vəkili
 millətçi
 millətçilik
@@ -10733,18 +11757,25 @@ mina
 minaaxtaran
 minalan
 minarə
+minbər
 mineral
+Mingəçevir
 mingəçevir
+Mingəçevirsuanbarı
 mini
 miniatür
+minik
 minillik
 minimal
 mink
+Minnesota
 minnət
 minnətdar
 minoqa
 minsk
+Minsk
 miopiya
+miqdar
 miqrant
 miqren
 miqyas
@@ -10755,26 +11786,34 @@ mircəfərbağirov
 mirələsgər
 mirilti
 mirqasimov
+mirvari
 mirzə
 misal
+mişar
 mişar dəyirmani
-misir
 Misir
+misir
 miskin
+mismar
 misra
+Missisipi
 missisipi
 missiya
 missmarpl
 missuri
+Missuri
 mistika
+Misurata
 mitinq
 mitsubishi
 mitten
 mix
+mıx
 mixaylo
 mixək
 miyagi
 miyavlamaq
+mizrab
 mm-hmm
 möcüzə
 möcüzə işçisi
@@ -10796,32 +11835,44 @@ möhür mumu
 möhürləndikdən sonra
 mokka
 moldova
+Moldova
 molekul
 molla
 molotov
 mömin
+Monako
 monako
 monaliza
 monarxiya
+monetizasiya
+monitor
 monitorinq
 monmartr
 monolit
 monoloq
 monoqram
 monotonluq
+Monqoldili
 monqollar
 monqolustan
+Monqolustan
 montaj
 montana
+Montana
 monteneqro
+Monteneqro
 montyor
 moonshine
 moonspell
 Moose
 mop
+Moqadişo
+Moqilyov
 mordant
 more
 morel
+Morfoskulptur
+Morfostruktur
 morganfreeman
 morq
 mortification
@@ -10829,6 +11880,7 @@ moruq
 mosha
 moskovski
 moskva
+Moskva
 Moskva bölgəsi
 moskvagözyaşlarinainanmir
 mossad
@@ -10848,8 +11900,10 @@ movidiq
 mövla
 mövqe
 Mövsüm
-mövzu
+mövsüm
 Mövzu
+mövzu
+Mozambik
 mozambik
 mrbean
 mts
@@ -10857,6 +11911,7 @@ mu
 müalicə
 müalicə etmək
 müalicədən sonra
+müalicəetmək
 müasir
 müasirlik
 müavin
@@ -10902,22 +11957,27 @@ müəllimə
 müəllimlər şurasi
 müəmma
 müəmmali
+müəmmalı
 müəmmaliliq
 müəssisə
 müəssisələr
 müəyyən
 müəyyəndir
 müəyyənləşdirmək
+müəzzin
 müfəttiş
 müflis
+müflislik
 mufta
 müftə
 müftil
 müğənni
 muğla
+Muğla
 mühacir
 mühacirət
 mühafizə
+mühafizəçi
 mühafizəkar
 mühafizəkarliq
 mühakimə
@@ -10948,7 +12008,10 @@ müjdəçi
 mükafat
 mükafatlandirildi
 mükafatlandirilmaq
+mükafatlandırılmaq
 mükafatlandirmaq
+mükafatlandırmaq
+mükəlləfiyyət
 mükəmməl
 mükəmməllik
 mukor
@@ -10956,10 +12019,12 @@ mülahizə
 mülahizəyə
 mulat
 mülayim
+mülk
 mülkədar
 mülki
 multikulturalizm
 multimediya
+multiplikator
 multivitamin
 mum
 mumbay
@@ -10975,8 +12040,8 @@ münasibət
 münasibətilə
 münbit
 muncuq
-mündəricat
 Mündəricat
+mündəricat
 münəccim
 münhen
 Münhen
@@ -10990,10 +12055,10 @@ müqavimət göstərmək
 müqayisə
 müqayisə et
 müqəddərat
-müqəddəs
 Müqəddəs
-müqəddəslik
+müqəddəs
 Müqəddəslik
+müqəddəslik
 müqəddəsyelena
 müqəddimə
 müqədərrat
@@ -11003,6 +12068,7 @@ mura
 müraciət
 müraciət edən
 müraciət edin
+murad
 murdar
 murdarliq
 mürəbbə
@@ -11019,6 +12085,7 @@ murovqartali
 mürtəd
 murza
 mus
+Muş
 musabəyli
 müsabiqə
 müsadirə
@@ -11027,6 +12094,7 @@ müşahidə
 müşahidə etmək
 müşahidəçi
 müşavir
+müşavirə
 müşavirlər
 müşayiət
 müşayiət edən
@@ -11038,11 +12106,13 @@ müşayiətçilər
 müşayiətedici
 müsbət
 müsbətdir
-müsəlman
 Müsəlman
+müsəlman
+müşəmbə
 musha
 musher
 mushketyor
+müsibət
 musiqi
 musiqi stendi
 musiqiçi
@@ -11067,21 +12137,23 @@ muta
 mutant
 mutasiya
 mütəfəkkir
+mütəkkə
 mütəmadi olaraq
 mütəşəkkil
 mütəxəssis
 mütləq
-mütləqdir
 Mütləqdir
+mütləqdir
 mütləqiyyət
-mütləqlər
 Mütləqlər
+mütləqlər
 mütləqləşdirmə
 mütləqləşdirmək
 mütləqlik
 müttəfiq
 müttəhim
 müvafiq
+müvazinət
 müvəffəqiyyət
 müvəkkil
 müvəqqəti
@@ -11099,16 +12171,20 @@ müxtəliflik
 muz
 müzakirə
 müzakirə etmək
+müzayidə
 muzdlu
 müzəffərabad
 muzey
 Muzey
 myanma
+Myanma
 mymra
 myna
 mytischi
 n
+N
 na
+nabələd
 nabob
 nacre
 nadan
@@ -11117,25 +12193,30 @@ nadir
 nadir hallarda
 nadirlik
 nadirşah
+Naftalan
 naftalin
 nag
 nağara
 nağd pul
 nağil
+nağıl
 nağillar
 nahaq
 nahar
 nahar sonrasi
 Nahardan sonra
+nahiyə
 nail olan
 nail olmaq
 nail olur
 nailiyyət
 nailiyyətlər
+nailolmaq
 Nairobi
 nakavt
 nal
 nalə
+nam
 namaz
 naməlum
 namərd
@@ -11152,11 +12233,13 @@ nansen
 napaleon
 napoleon
 Naqasaki
+naqil
 nar
 narahat
 narahat et
 narahatçi
 narahatliq
+narahatlıq
 narazi
 naraziliq
 narcos
@@ -11164,6 +12247,7 @@ nardina
 nargilə
 narin
 narinci
+narıncı
 naringi
 narkotik
 narkotika
@@ -11177,6 +12261,7 @@ narzan
 nasa
 nasazliq
 naşi
+naşı
 naşir
 Nasist
 Nasizm
@@ -11191,21 +12276,28 @@ natamam
 natəvan
 natiq
 natiqlər
-nato
 NATO
+nato
 natrium
 natural
 naturalist
 natürmort
 Naumova
 nauru
+Nauru
 nav
+Navassaadası
 naviqasiya
 naviqator
 naxçivan
+Naxçıvan
+NaxçıvanMuxtarRespublikası
+Naxçıvanqəzası
+Naxçıvanxanlığı
 naxichevan
 naximov
 naxiş
+naxış
 naypyido
 nayrobi
 nazadi
@@ -11217,6 +12309,7 @@ nazir
 nazir müavini
 Nazirlər Kabineti
 nazli
+nazlı
 nazofarenks
 ncamena
 nə
@@ -11227,6 +12320,7 @@ neapol
 Neapol
 nəbi
 nəbixəzri
+Nebraska
 nebraska
 nebula
 nəbz
@@ -11238,17 +12332,21 @@ nəcəf
 nəciblik
 nəcis
 necromancer
+nəfər
 nəfəs
 nəfəs al
+nəfəsalmaq
 nəfəslik
 nəfis
 nefrit
 nəfs
 neft
 neft məhsulu
+Neftçala
 neftçala
 neftçi
 neftçilər
+nəğmə
 nəhayət
 nəhəng
 nəhəng qadin
@@ -11270,8 +12368,8 @@ neologizmlər
 neon
 neoplazma
 NEP
-nepal
 Nepal
+nepal
 Nepman
 neptun
 Neptun
@@ -11289,6 +12387,7 @@ nərilti
 nərimannərimanov
 nərimanov
 nescafe
+nəşə
 nəsibəzeynalova
 nəsihət
 nəsihətamiz
@@ -11298,6 +12397,7 @@ nəsihətlər
 nəsil
 nəsimi
 nəsirəddin
+nəsnə
 nəsr
 nəşr
 nəşriyyat
@@ -11308,6 +12408,8 @@ nəticə
 nəticə çixarmaq
 nəticələr
 Neva
+Nevaçayı
+Nevada
 nevada
 nəvaziş
 nəvə
@@ -11319,6 +12421,7 @@ nevrit
 nevropatoloq
 nevrotik
 nevroz
+ney
 neymar
 neyron
 neytral
@@ -11328,15 +12431,19 @@ nəzakətlə
 nəzarət
 nəzarət nöqtəsi
 nəzarətçi
+nəzər
 nəzərdə tutmaq
 nəzərdən qaçirmaq
 nəzəriyyə
 nəzəriyyəçi
+nəzəryetirmək
 nəzir
 nəzm
 niamey
 nida
+Niderland
 niderland
+NiderlandAntiladaları
 niderlandca
 nifaq
 nifrət
@@ -11345,8 +12452,8 @@ nigahdan sonra
 nigar
 nigella
 Niger
-nigeriya
 Nigeriya
+nigeriya
 nihilist
 nihilizm
 nii
@@ -11359,23 +12466,30 @@ nike
 nikel
 Nikolaev
 nikotin
-nil
 Nil
+nil
 nimbus
 nimdər
 nimengen
 nirvana
 niş
+Niş
 nisa
 nişan
+nişanə
+nişangah
 nişani
+nişanlamaq
+nişanlanmaq
 nişasta
 nisbət
 nisbətən
 nisbi
 nissan
+nisvan
 nitq
 nitrat
+Nitrofil
 nitroqliserin
 nitsşe
 niva
@@ -11385,6 +12499,7 @@ niyə
 niyyət
 nizami
 nizam-intizam
+nizamlamaq
 nizamli
 nizamnamə
 nizə
@@ -11394,6 +12509,7 @@ nkvd
 nobel
 nobelbitqi
 nodejs
+nökər
 nokia
 noma
 nomenklatura
@@ -11403,10 +12519,15 @@ nömrələndi
 nömrəsi
 nonusya
 noosfer
+Noqaydili
+nöqsan
 nöqsansiz
+nöqsansız
 nöqtə
 nöqtəli xətt
+nöqteyinəzər
 Nora
+Norfolkadası
 norilsk
 norma
 normal
@@ -11416,9 +12537,10 @@ normallaşma
 normandca
 normandiya
 nöropati
-norveç
 Norveç
+norveç
 norveçcə
+not
 notarius
 noton
 notredam
@@ -11462,6 +12584,7 @@ nümayiş etdirmək
 nümayişçi
 numlock
 nümunə
+nur
 nurbala
 nurməhəmmədov
 nürnberg
@@ -11473,9 +12596,16 @@ nüvə
 nüvə stansiyasi
 nüvəli
 nuxa
+Nuxaqəzası
+NyuCersi
+NyuHempşir
+NyuMeksiko
 nyuta
 nyuton
+NyuYork
 o
+O
+Ö
 ö
 o biri
 o öləcək
@@ -11495,6 +12625,7 @@ obyektiv
 obyektivlik
 ocaq
 oçerk
+od
 öd
 odan
 odekolon
@@ -11505,12 +12636,14 @@ odekolon
 ödəniş
 ödənişlər
 odense
-odessa
+Oderçayı
 Odessa
+odessa
 Odessa vətəndaşi
 ödəyə bilər
 odissey
 Odisseya
+ödkisəsi
 odun
 oduncaq
 oduncaqçi
@@ -11537,13 +12670,16 @@ oğrular '
 oğul
 oğurlamaq
 oğurluq
+Oğuz
 oğuzhanözyakup
 oğuznamə
 oh
+Ohayo
 öhdəlik
 öhdəsindən gəlmək
 okaber
 okean
+Oklahoma
 oklend
 okroşka
 Oksford
@@ -11562,6 +12698,7 @@ oktyabr
 ola bilər
 olacaq
 olardi
+olay
 ölçmə
 ölçmək
 ölçü
@@ -11577,8 +12714,8 @@ oliqarx
 oliqarxiya
 Olitolia
 Olivie
-ölkə
 Ölkə
+ölkə
 olmadan
 olmalidir
 olmamasi
@@ -11592,14 +12729,16 @@ Olsztyn
 ölü
 ölü şəxs
 olub
+Ölüdəniz
 ölülər
 ölüm
 ölümcül
 ölümsüzlük
 olur
 Olympus
-oman
 Oman
+oman
+Omankörfəzi
 ombudsman
 omdurman
 Omen
@@ -11622,16 +12761,22 @@ on il
 ön söz
 ön uc
 Ona
+onaltı
 onay işarəsi
 onay qutusu
 onbaşi
+onbeş
+onbir
 öncəsi
 öndə
 öndər
+ondoqquz
+ondörd
 onega
 oneminute
 oneredebalzak
 öngörmə
+oniki
 onillik
 onlar
 onlara
@@ -11640,12 +12785,15 @@ onlarin
 onlayn
 online
 önlük
+onsəkkiz
 onsuz da
 onubağişlamaqolarmi
+onüç
 onun
 onuncu sinif şagirdi
 onurğa
 onya
+onyeddi
 opal
 opel
 opera
@@ -11661,6 +12809,7 @@ optima
 optimist
 optometrist
 opus
+öpüş
 oqtayağayev
 oqtaykazimov
 oqtayşirəliyev
@@ -11672,13 +12821,18 @@ orbit
 ördək
 ördək balasi
 ördək otu
+ördəkburun
 ördəklər
 orden
 order
 ordu
+Ordu
 ordu komandiri
 ordubad
+Ordubad
+ordugah
 orenburq
+Oreqon
 orfoepiya
 orfoqrafiya
 orgiya
@@ -11693,6 +12847,7 @@ orkide
 orlandobloom
 ornament
 örnək
+örpək
 orqan
 orqan grinder
 orqanist
@@ -11717,18 +12872,21 @@ ortaya çixmaq
 örtülü
 örtün
 oruc
+örüş
 orxonyenisey
 osaka
 Oscar
-osetiya
 Osetiya
+osetiya
 osh
 Osipova
 öskürək
 öskürəkotu
 öskürmək
 Oslo
+Osmaniyə
 osmanli
+osminoq
 oşo
 osprey
 ossian
@@ -11747,9 +12905,10 @@ otel
 otit
 ötkəm
 otlaq
+otluq
 ötmək
-ottava
 Ottava
+ottava
 ottofanbismark
 oturacaq
 oturmaq
@@ -11757,15 +12916,26 @@ oturmaq
 oturucu
 ötürücü
 otuz
+otuzaltı
+otuzbeş
+otuzbir
+otuzdoqquz
+otuzdörd
 otuzdurmaq
+otuziki
+otuzsəkkiz
+otuzüç
+otuzyeddi
 otyeyən
 ov
 ov tüfəngi
 oval
 ovaliq
+ovalıq
 ovation
 ovçu
 ovçuluq
+övlad
 övladliğa götürən
 övladliğa götürənlər
 övladliğa götürmə
@@ -11784,6 +12954,7 @@ oxatan
 Oxatan
 oxlov
 oxot
+Oxotdənizi
 oxra
 oxşar
 oxşarliq
@@ -11800,11 +12971,13 @@ oyaniş
 oyanma
 oyanmaq
 oyaqliq
+oyar
 oyatmaq
 oylaq
 oyma
 öymək
 oynamaq
+oynaq
 oynaqliq
 oynayan
 öyrənmək
@@ -11818,6 +12991,7 @@ oyun sonrasi
 oyuncaq
 oyunçu
 öyünmək
+oyuq
 öz
 öz iradəsi
 öz müqəddəratini təyinetmə
@@ -11827,7 +13001,9 @@ ozan
 özbaşinaliq
 Özbək
 özbəkcə
+Özbəkistan
 özbəkistan
+özək
 özəl
 özəlləşdirmə
 özəlləşdirmək
@@ -11841,6 +13017,7 @@ ozon
 öz-özünə təlim kitabi
 özü
 özü ilə sona çatir
+özül
 özüm
 özümüz
 özün
@@ -11866,6 +13043,7 @@ ozon
 özünütənqid
 özünütəsdiq
 özüyeriyən silah
+P
 p
 pablo
 pablopikasso
@@ -11876,8 +13054,8 @@ pafos
 paillette
 pak
 paket
-pakistan
 Pakistan
+pakistan
 pakt
 paladin
 palankin
@@ -11885,10 +13063,12 @@ palata
 Palata
 palav
 palçiq
+palçıq
 paleolit
 Palermo
 paleya
 palid
+palıd
 palid ağaci
 palikir
 palisade
@@ -11904,20 +13084,23 @@ palun
 palune
 palya
 pambiq
+pambıq
 pambiq yun
 pamflet
 Pamir
 pampa
 panache
-panama
 Panama
+panama
 pancake
+panda
 pandemiya
 pandemonium
 pandora
 panel
 panevezys
 pankreatit
+panno
 panorama
 panqay
 pansion
@@ -11935,6 +13118,7 @@ papillon
 papiros
 papua
 Papuan
+PapuaYeniQvineya
 paqoda
 parabellum
 parabola
@@ -11954,8 +13138,8 @@ paranormal
 paranoya
 paranoyak
 parapet
-paraqvay
 Paraqvay
+paraqvay
 paraşa
 paraşüt
 paraşütçü
@@ -11971,8 +13155,11 @@ parçalayici
 parezi
 parik
 parildamaq
+parıldamaq
 parilti
+parıltı
 pariltili
+parıltılı
 paris
 Paris
 Parisli
@@ -12043,12 +13230,15 @@ Pavlodar
 Pavlovsk
 paxil
 paxilliq
+paxıllıq
 paxlava
 pay
 payiz
+payız
 paylama
 paylamaq
 paylaşdirmaq
+paylaşdırmaq
 paylayici
 paytaxt
 paz
@@ -12062,8 +13252,8 @@ pedaqoji institut
 pediatr
 pəhləvan
 pəhriz
-pekin
 Pekin
+pekin
 pələng
 pələng balasi
 pelerin
@@ -12075,12 +13265,16 @@ penalti
 pəncə
 pencək
 pəncələr
+pencər
 pəncərə
 pəncərə sarği
 Pendir
+pendir
+penis
 penisilin
 pennysylvania
 pensilvaniya
+Pensilvaniya
 pentaqon
 penza
 pepsi
@@ -12123,9 +13317,10 @@ personal
 personal zabiti
 perspektiv
 pərt
-peru
 Peru
+peru
 pervane
+pərvanə
 pərvizşahbazov
 peşə
 peşəkar
@@ -12148,6 +13343,7 @@ petrozavodsk
 peyğəmbər
 peyğəmbəri
 peyğəmbərlik
+peyin
 peyk
 peyvənd
 peyvəndlər
@@ -12172,6 +13368,7 @@ pikap
 pike
 piket
 piknik
+pillə
 pilləkən
 pilləkənlər
 pilot
@@ -12195,6 +13392,7 @@ piramida
 piranya
 pirat
 pirəhmədli
+Pireneyyarımadası
 pirinç mixlar
 pirogue
 pirouette
@@ -12226,8 +13424,10 @@ pitekantrop
 piterpen
 piti
 piton
+pitsa
 pitta
 pivə
+piy
 piyada
 piyada əsgər
 piyalə
@@ -12264,13 +13464,14 @@ plevrit
 Plotkin
 plov
 plüralizm
-pluton
 Pluton
+pluton
 Plymouth Rock
 plyonka
 pnevma
 pnevmoniya
 png
+Pnompen
 poçt
 poçt şöbəsi
 poçtalyon
@@ -12281,6 +13482,8 @@ podolsk
 podpolkovnik
 podqorica
 podqoritsa
+Podqoritsa
+podrat
 podratçi
 poema
 poeziya
@@ -12296,6 +13499,7 @@ polimer
 polinariya
 polinka
 polip
+poliqon
 poliqraf
 polis
 polis rəisi
@@ -12305,8 +13509,8 @@ polka
 polkovnik
 pollyanna
 polotsk
-polşa
 Polşa
+polşa
 poltava
 polyakca
 polynya
@@ -12331,9 +13535,12 @@ pörlharbor
 pornoqrafiya
 porsche
 porsuq
+portağal
 portfel
 portiko
+PortoNovo
 portret
+Portu
 Portuqal
 portuqalca
 Portuqaliya
@@ -12352,6 +13559,7 @@ potensial
 potensial olaraq
 potsdam
 povest
+pozan
 pozğun
 pozğunluq
 pozmaq
@@ -12395,6 +13603,7 @@ printer
 prioritet
 pripyat
 prisonbreak
+Priştina
 prizma
 problem
 problem kitabi
@@ -12429,11 +13638,11 @@ proscenium
 prosedur
 proses
 prosessual
-prospekt
 Prospekt
+prospekt
 prostil
-protestant
 Protestant
+protestant
 protez
 protokol
 protoplazma
@@ -12458,6 +13667,7 @@ psixopatiya
 psixoterapevt
 psixoterapiya
 psixoz
+psixrometr
 pskov
 ptu
 pubg
@@ -12490,6 +13700,7 @@ Puşkinist
 püskül
 püskürmə
 pusqu qurmaq
+püstə
 putch
 Putin
 püxtə
@@ -12500,6 +13711,7 @@ pyes
 pyoderma
 pyotr
 python
+Q
 q
 qab
 qaba
@@ -12511,18 +13723,23 @@ qabaqcil
 qabaqcilliq
 qabaqda
 qabaqlamaq
+qabar
 qabariq
+qabarıq
 qabartmaq
 qabil
 Qabil
 qabiliyyət
 qabiliyyətli
 qabiq
+qabıq
 qabiqlamaq
+qabırğa
+Qabırrıçay
 qablaşdirma
 qablaşdirmaq
-qabon
 Qabon
+qabon
 Qabyuyan maşin
 qaç
 qaçanlar
@@ -12534,23 +13751,28 @@ qaçilmazliq
 qaçiran
 qaçirma
 qaçirmaq
+qaçırmaq
 qaçiş
+qaçış
 qaçmaq
 qaçqin
+qaçqın
 qadağa
 qadağan
 qadin
+qadın
 qadin qadini
 qadinliq
 qadolin
 qafiyə
-qafqaz
 Qafqaz
+qafqaz
 qağayi
+qağayı
 qağayilar
 Qahirə
-qala
 Qala
+qala
 qalaktika
 qalan
 qalangal
@@ -12561,11 +13783,14 @@ qaldirici
 qaldirin
 qaldirma
 qaldirmaq
+qaldırmaq
 qalereya
 qalib
 qalib gəlmək
 qalibgəlmək
+qalibiyyət
 qalin
+qalın
 qalina
 qalinka
 qalinlaşma
@@ -12591,10 +13816,12 @@ qalx
 qalxan
 qalxmaq
 qalya
-qambiya
 Qambiya
+qambiya
 qamçi
+qamçı
 qamiş
+qamış
 qamma
 qan
 qan axini
@@ -12605,6 +13832,7 @@ qan təchizati
 qan tökdü
 qan tökən
 Qana
+qanacaq
 qanad
 qanadli
 qanaxma
@@ -12613,11 +13841,14 @@ qanciq
 qanciqlar
 qandal
 qandi
+Qanıxçay
 qanlizəmi
+qanqal
 qanqren
 qanqster
 qanun
 qanun layihəsi
+qanunauyğun
 qanunauyğunluq
 qanunçuluq
 qanuni
@@ -12627,12 +13858,15 @@ qanunsuzluq
 qanunverici
 qanunvericilik
 qapali
+qapalı
 qapaq
 qapi
 Qapi
+qapı
 qapi evi
 qapi klapani
 qapiçi
+qapıçı
 qapilar
 qapmaq
 qaprindaşvili
@@ -12652,20 +13886,24 @@ qara bağ
 Qara insan
 qara qadin
 qara torpaq
-qarabağ
 Qarabağ
+qarabağ
 qarabağazərbaycandir
+Qarabağxanlığı
 qarabaşaq
 qarabaşaq yarmasi
+qarabatdaq
 qaracali
 qaracəngavər
-qaraçi
 Qaraçi
+qaraçi
 qaraciyər
 qaracol
 qaradag
 qaradağli
+Qaradağxanlığı
 qaradastan
+Qaradəniz
 qarağac
 qarağat
 Qaragilə
@@ -12677,11 +13915,13 @@ qaraldir
 qaralma
 qaralmaq
 qaranliq
+qaranlıq
 qaranquş
 qaraqan
 Qaraqanda
 qaraqorum
 qaraqoyunlu
+qaratoyuq
 qarcon
 qardaş
 qardaşi oğlu
@@ -12690,28 +13930,38 @@ qardaşliq
 Qardaşqizi
 qarderob
 qarderob gövdəsi
+qarət
 qarğa
 qarğidali
+qarğıdalı
 qarğidali tarlasi
+qarğış
 qarin
+qarın
 qarinqilti
 qarinqulu
 qariş
+qarış
 qarişdirici
 qarişdiricilar
 qarişdirilib
 qarişdirin
 qarişdirir
 qarişdirmaq
+qarışdırmaq
 qarişiq
 qarişiqdir
 qarişiqlar
 qarişiqliq
 qarişiqliqlar
 qarişqa
+qarışqa
 qarişqa yuvasi
+qarışqayeyən
 qariştirmaq
+qarıştırmaq
 qarli
+qarlı
 qarmaq
 qarmaqarişiq
 qarmaqarişiqliq
@@ -12720,23 +13970,33 @@ qarmonçu
 qarnir
 qarnizon
 qarnizon qapaği
+qarovul
+qarovulçu
 qarpiz
+Qars
 qarşi
+qarşı
 qarşi çixmaq
 qarşidan
 qarşidurma
+qarşılama
 qarşilamaq
+qarşılamaq
 qarşilandi
 qarşilaşdi
 qarşilaşma
+qarşılaşma
 qarşilaşmaq
+qarşılaşmaq
 qarşiliqli
+qarşılıqlı
 qarşiliqli əlaqə
 qarşiliqli yardim
 qarşiliqliliq
 qarşisini almaq
 qarşisinin alinmasi
 qartal
+qartmaq
 qartopu
 qaş
 qaşa
@@ -12746,16 +14006,20 @@ qasid
 qaşinma
 qasiq
 qaşiq
+qaşıq
 Qasirğa
 qaşqabaqli
+qaşqaldaq
 qastarbayter
 qastrit
+qastrol
 qat
 qatar
 qatçina
 qatil
 qatilaşdirilmiş süd
 qatiq
+qatıq
 qatir
 qatlamaq
 qatlanmaq
@@ -12764,35 +14028,46 @@ qatmaq
 qatqi
 qatqilar
 qatran
+qaval
 qavramaq
 qavrayiş
+Qax
 qax
 qaya
 Qaya
 Qayana
 qayaqrupu
 qayçi
+qayçı
 qayda
 qaydada
 qaydalar
+qayə
 qayğanaq
 qayği
+qayğı
+qayğısınaqalmaq
 qayib
 qayibov
 qayin
 qayinana
 qayinata
 qayiq
+qayıq
 qayiqçi
+qayış
 qayit
 qayitmaq
+qayıtmaq
+qayka
 qaymaq
 qaynadilmiş
-qaynamaq
 Qaynamaq
+qaynamaq
 qaynana
 qaynaq
 qaynaqçi
+qaynaqçı
 qaynar
 Qaynar su
 qaynatmaq
@@ -12813,11 +14088,12 @@ qazanmaq
 qazax
 Qazax
 qazaxca
-qazaxistan
 Qazaxistan
+qazaxistan
+Qazaxıstan
 qazdi
 qazi
-qazi
+Qaziantep
 qaziantep
 qazici
 qazik
@@ -12831,6 +14107,7 @@ qazprom
 qdansk
 qəbahət
 qəbələ
+Qəbələ
 qəbilə
 qəbilə adami
 qəbir
@@ -12858,6 +14135,7 @@ qəçrəş
 qəddafi
 qəddar
 qəddarliq
+qədəh
 qədər
 qədim
 qədimdən
@@ -12877,15 +14155,22 @@ qəhvə qazani
 qəhvəyi
 qəhvəyi paltar
 qəhvəyi saçli qadin
+qəlb
 qələbə
 qələm
 qələm qutusu
 qələvi
+qəlpə
+qəlsəmə
+qəlyan
 qəlyanalti
+qəlyanaltı
+qəm
 qəmgin
 qəmli
 qənaət
 qənaətcil
+qənd
 qəndqabi
 qənnadi
 qəpik
@@ -12897,6 +14182,10 @@ qərarlar
 qərarlaşmaq
 qərb
 Qərb
+QərbiAzərbaycan
+QərbiAzərbaycanostanı
+QərbiSahara
+QərbiVirciniya
 Qərbli
 qərənfil
 qərəz
@@ -12907,13 +14196,15 @@ qəribəlik
 qərinə
 qəsb etmək
 qəsbkar
+qəsd
 qəsəbə
 qəşəng
 qəşəng adam
 qəsidə
+qəsr
 qəssab
-qətər
 Qətər
+qətər
 qəti
 qəti şəkildə
 qətiyyən
@@ -12937,12 +14228,17 @@ qeyrət
 qeyrətsiz
 qeyri
 qeyri-adekvatliq
+qeyriadi
 qeyri-adi
 qeyri-adilik
+qeyriciddi
 qeyri-ciddilik
 qeyri-dəqiqlik
+qeyriiradi
+qeyriixtiyari
 qeyri-müəyyənlik
 qeyri-mümkün
+qeyriqanuni
 qeyri-realliq
 qeyri-rezident
 qeyri-sabitlik
@@ -12960,66 +14256,101 @@ qəzəl
 qəzəlxan
 qəzet
 qəzvin
+Qəzza
 qffodillorum
 qiblə
+qıç
 qiciqlandi
 qiciqlandirici
 qiciqlandirmaq
 qiciqlanma
 qicolma
+qıcqırma
 qicqirmaq
+qıcqırmaq
 QİÇS
+qida
 qidalandirici
 qidalanma
 qidalanmaq
 qidiqlamaq
 qif
+qıf
+qıfıl
 qiğilcim
 qiğirdaq
 qiji
 qilinc
+qılınc
 qilincoynatma
 qinama
 qinamaq
 qinaq
 qiraət
 qiraq
+qıraq
 qirat
+qırğı
 qirğin
+qırğız
 qirğizca
-qirğizistan
+qırğızca
 Qirğizistan
+qirğizistan
+Qırğızıstan
 Qirğizlar
 qirici
+qırıcı
 qirildi
 qirilir
 qirilma
 qirilmaq
+qırılmaq
 qirinti
 qirintilar
 qirintili
 qiriq
+qırıq
 qiriş
+qırış
 qirişmaq
 qirmaq
+qırmaq
 qirmizi
+qırmızı
 qirmizi atəş
 qirmizi lent
 Qirmizi Ordu əsgəri
 qirmizi qurğuşun
 qirmizi qvardiya
+Qırmızıdəniz
 qirmiziqəsəbə
 qirmizisariqli
+qırov
 qirpma
 qirqovul
+qırqovul
 qirtlaq
+qırx
+qırxaltı
 qirxayaq
+qırxbeş
+qırxbir
+qırxdoqquz
+qırxdörd
+qırxiki
 qirxmaq
+qırxmaq
+qırxsəkkiz
+qırxüç
+qırxyeddi
 qiş
+qış
 qiş daxmasi
 qiş yuxusu
 qisa
 Qisa
+qısa
 qisa hekayə
 qisa müddətdə
 qisaca
@@ -13034,53 +14365,70 @@ qisaltmaq
 qisaqapanma
 qisas
 qisasçi
+qisim
 qişlama
 qişlaq
 qişlayan
 qismən
+qismət
 qisqac
+qısqac
 qisqanc
+qısqanc
 qisqancliq
 qisqanmaq
+qısqanmaq
 qişqiriq
 qişqirmaq
+qışqırmaq
 qitə
 qivrilmiş süd
 qivrim
+qıvrım
 qivrimlar
 qivrimsaç
+qıvrımsaç
 qiyabi
 qiyabi kurs
 qiyabi tələbə
 qiyam
 qiyamət
 Qiyamət
+qiyməkeş
 qiymət
 qiymət cədvəli
 qiymət etiketi
 qiyməti
+qiymətiolmaq
 qiymətləndirici
 qiymətləndirilməsi
 qiymətləndirmə
 qiymətləndirmək
 qiymətli
 qiymətsiz
-qiz
 Qiz
+qiz
+qız
 qizarmaq
 qizarti
 qizartmaq
+qızartmaq
 qizdirici
 qizdirmaq
+qızdırmaq
 qizğin
+qızğın
 qizi
 qizil
+Qızıl
+qızıl
 qizil baliq
 qizil qartal
 qizilağac
 qizilaxtaran
 qizilbaşlar
 qizilca
+qızılca
 qizilordu
 qizilqol
 qizilquş
@@ -13091,8 +14439,8 @@ qladiator
 qladiolus
 qlamur
 qlaukoma
-qlazqo
 Qlazqo
+qlazqo
 qlebych
 qlikozid
 qliserol
@@ -13103,6 +14451,7 @@ qlükoza
 qlyasologiya
 qobi
 qobustan
+Qobustan
 qoç
 Qoç
 qoca
@@ -13130,11 +14479,15 @@ qoltuqağaci
 qolu
 qom
 qomel
+Qomel
 qonaq
 Qonaq
 qonaq ifaçi
 qonaqliq
 Qonaqpərvərlik
+qönçə
+qondarma
+qondarmaq
 qonokok
 qonorar
 qonoreya
@@ -13143,6 +14496,7 @@ qonşuluq
 qonur
 qoparmaq
 qopartmaq
+qoqarca
 qorbaçov
 Qorbaçov
 qorilla
@@ -13150,6 +14504,7 @@ qorqud
 qoruma
 qorumaq
 qorunma
+qoruq
 qoruyucu
 qorxaq
 qorxaqliq
@@ -13192,6 +14547,7 @@ qoyun
 qoyun dərisi
 qoyun əti
 qoz
+qoza
 qozbel
 qrafik
 qrafika sənəti
@@ -13202,13 +14558,15 @@ qram
 qrammafon
 qrammatika
 qran
+qranat
 qranit
 qrant
 qranulyasiya
 qravitasiya
 Qrenada
-qrenlandiya
 Qrenlandiya
+qrenlandiya
+Qrenlandiyaadası
 qreyder
 qrifin
 qrim
@@ -13219,8 +14577,8 @@ qrivna
 qrodno
 qrossmeyster
 qrunya
-qrup
 Qrup
+qrup
 qruplaşdirma
 qruşin
 qu
@@ -13229,13 +14587,17 @@ quaresma
 quaş
 quasimodo
 quatrain
+Quba
 quba
 qubad
 qubadli
+Qubadlı
+Qubaməscidi
 qubernator
 quberniya
 qucaqlamaq
 qucaqlayir
+quda
 qudermes
 qüdrət
 qüds
@@ -13245,7 +14607,9 @@ quduzluq
 quinoa
 quintessence
 Quito
+qul
 qulağciq
+qulan
 qulançar
 qulaq
 qulaq asmaq
@@ -13259,6 +14623,7 @@ qüllə
 qulluq
 qulluqçu
 qulluqçular
+qulp
 qum
 qum dənəsi
 qumarbaz
@@ -13268,12 +14633,16 @@ qumbara atici
 qumdaşi
 qumlaq
 qunduz
+ququşu
 quran
 Quran
 quraq
 quraqliq
+quraqlıq
 quraşdirma
+quraşdırma
 quraşdirmaq
+quraşdırmaq
 qurbağa
 qurban
 qurbangah
@@ -13284,10 +14653,12 @@ qurğu
 qurğuşun
 qurma
 qurmaq
+qursaq
 qurşaq
 qurtaracaq
 qurtardi
 qurtarilmaq
+qurtarılmaq
 qurtarmaq
 qurtuluş
 quru
@@ -13296,6 +14667,7 @@ quru meşə
 quru mina
 quru təmizləmə
 quru yük gəmisi
+qürub
 qurucu
 Quruducu
 qurudulmuş
@@ -13311,40 +14683,51 @@ qurutma
 qurutmaq
 quruyan yağ
 quruyur
-quş
 Quş
+quş
 quş albali
 quş əti
 quş evi
 quşa
+Qusar
 qusar
+quşbaz
 quşçu
+quşlar
 qusma
 Qusma
 qusmaq
+qüssə
 qüssələnmək
 qüsur
 qüsurlar
 qüsurlu
 qüsursuzluq
+quşüzümü
 quşxana
 qutab
+qutan
 qütb
 Qütb
 qütb tədqiqatçisi
 Qutu
 qutular
+qüvvə
+qüvvət
 quycaq
 quyruq
 quyruqlar
+quyu
 quzey
 quzğun
 quzu
 quzularinsəssizliyi
 qvardiya
 Qvatemala
-qvineya
 Qvineya
+qvineya
+QvineyaBisau
+R
 r
 rabbani ayin
 rabble
@@ -13409,6 +14792,9 @@ rasionalliq
 raskolnikov
 rasputin
 rast
+rastlaşma
+rastlaşmaq
+ratifikasiya
 rave
 ravvin
 raxit
@@ -13419,6 +14805,7 @@ rayon komitəsi
 rayon şurasi
 rayonlar
 razi
+razı
 razi deyiləm
 razidir
 razilaşanlar
@@ -13431,6 +14818,7 @@ razilaşma
 razilaşma var
 razilaşmalar
 razilaşmaq
+razılaşmaq
 raziliq
 raziliqla
 raziyam
@@ -13451,6 +14839,7 @@ redaksiya
 redaksiya heyəti
 redaktə
 redaktə etmək
+redaktor
 Redaktor
 redbull
 rədd
@@ -13466,6 +14855,7 @@ rəfiqə
 refleks
 reflektor
 rəflər
+rəftar
 refusenik
 reg
 regaliya
@@ -13481,6 +14871,7 @@ rəhbər
 rəhbərlik
 rəhbərlik etdi
 rəhbərliyin
+rəhmsiz
 reinkarnasiya
 rəis
 Rəis
@@ -13506,6 +14897,7 @@ reklamla
 reklamlar
 reklamveren
 rekonkista
+rekord
 rekord oyunçu
 rekordçu
 rektor
@@ -13523,8 +14915,12 @@ rəng
 rəng koru
 rəngarənglik
 rəngləmə
+rəngləmək
 rənglər
+rəngli
+rəngsaz
 rəngsiz
+rentgen
 rentgenoqrafiya
 rep
 repertuar
@@ -13543,8 +14939,10 @@ rəqəmsal
 rəqib
 rəqibin
 rəqqasə
+rəqs
 rəqs edin
 rəqs meydançasi
+rəqsetmək
 rəşadnəbiyev
 rəsədxana
 resepsiyonist
@@ -13558,13 +14956,15 @@ residivist
 rəsm
 rəsmi
 rəsmiyyət
+rəsmxət
 respirator
 respublika
 Respublikaçi
 rəssam
+rəssamlıq
 rəşt
-restoran
 Restoran
+restoran
 rəsulzadə
 resurs
 retina
@@ -13580,10 +14980,11 @@ Rəyasət
 rəyasət heyəti
 rəyçi
 reygan
-reyhan
 Reyhan
+reyhan
 reykyavik
 reyn
+Reyn
 reynhardheydrix
 reytinq
 Reyx
@@ -13591,7 +14992,9 @@ reyxstaq
 Reyxstaq
 rezekne
 rezervasiya
+Rezervasiya
 rezident
+rəzil
 rezin
 rezonans
 rezorbsiya
@@ -13599,6 +15002,7 @@ rf
 rhododendron
 rhubarb
 riayət etdi
+rica
 riçardfeynman
 ricardoquaresma
 richardalmedia
@@ -13614,8 +15018,9 @@ rikah
 rikşa
 rimini
 ripa
-riqa
 Riqa
+riqa
+Riqakörfəzi
 risalə
 risk
 Rita
@@ -13630,6 +15035,7 @@ riyazi
 riyaziyyat
 riza
 rize
+Rizə
 rmatasiya
 roach
 roberlewandowski
@@ -13640,6 +15046,7 @@ robinhood
 robinqud
 robot
 robotrəqsi
+RodAylend
 Rodos
 Roger
 rokçu
@@ -13654,8 +15061,9 @@ rom
 roma
 Roma
 romaha
-roman
+RomaKatolikkilsəsi
 Roman
+roman
 romançi
 Romanoviç
 romanpolanski
@@ -13674,8 +15082,9 @@ rorşax
 Rosalia
 rosinant
 Rosneft
-rostov
 Rostov
+rostov
+rotasiya
 rotor
 rotorua
 rotoseus
@@ -13695,8 +15104,8 @@ rozin
 rozo
 rsfsr
 rtr
-ruanda
 Ruanda
+ruanda
 rübənd
 rubl
 rubrika
@@ -13706,21 +15115,27 @@ ruh
 ruhani
 ruhiçenet
 ruhlandirmaq
+ruhlandırmaq
+rüku
 rulet
 rulo zəng
 rulon
 ruminca
-ruminiya
 Ruminiya
+ruminiya
+Rumıniya
 rumiya
 rumka
 rur
-rus
 Rus
+rus
 Rus inşaat
 rusca
-rusiya
+Rusdili
 Rusiya
+rusiya
+RusiyaFederasiyası
+Rusiyaimperiyası
 Ruslan
 Ruslana
 ruslanych
@@ -13742,25 +15157,34 @@ ryanbabel
 Ryazan
 rybnitsa
 Ryumin
+S
 s
 ş
+Ş
 saat
 saat ustasi
 saat üzü
 saatlar sonra
 saatli
+Saatlı
 saatliq
 sabah
 şabalid
+şabalıd
+şabalıdı
 şaban
 sabir
 sabirabad
+Sabirabad
 sabit
 Sabit
 sabitləşmə
 sabitlik
 sabitliyin pozulmasi
 şablon
+Şablon:Portal:Azərbaycan
+Şablon:Portal:Azərbaycan/Seçilmişməqalə
+Şabran
 sabun
 sabun opera
 sabun qabi
@@ -13774,6 +15198,7 @@ saçaq
 saçaqlar
 saçaqli
 saciçi
+şad
 sadalamaq
 Sadduqi
 sadə
@@ -13786,9 +15211,11 @@ sadiqcan
 sadiqdir
 sadist
 sadizm
+şadyanalıq
 saf
 safliq
 şaftali
+şaftalı
 sağ
 sağ əl
 sağ qal
@@ -13802,12 +15229,16 @@ sağda
 sağlam
 sağlamliğin yaxşilaşdirilmasi
 sağlamliq
+sağlamlıq
+sağlıq
 sago
 sağol
 sagopa
+sağqalmaq
 sağsağan
 şah
 sahara
+Şahbuz
 şahdamar
 sahə
 şahənşah
@@ -13815,6 +15246,7 @@ sahib
 sahib olmaq
 sahibə
 sahibi
+sahibkar
 sahibkarliq
 sahiblik
 şahid
@@ -13834,6 +15266,7 @@ saiga
 şair
 şairə
 sak
+Sakarya
 sakatat
 sakin
 sakini
@@ -13844,6 +15277,7 @@ sakitləş
 sakitləşdirici
 sakitləşdirmə
 sakitlik
+Sakitokean
 sakrum
 saksafon
 saksafonçu
@@ -13859,7 +15293,9 @@ salari
 salat
 salatin
 Salaxov
+şalban
 salce
+saldo
 saleh
 salehlik
 salem
@@ -13874,10 +15310,13 @@ salnaməçi
 salnamələr
 salon
 Salon
+Saloniki
 salto
-salvador
 Salvador
+salvador
 şalvar
+salxım
+Salyan
 salyan
 salyut
 salze
@@ -13895,21 +15334,27 @@ samar
 samara
 samarkand
 şamaxi
+Şamaxı
 sambo
 şamdan
 şamilbasayev
 samirşərifov
+şamisen
 samizdat
+Samoa
 samoa
 şamoni
 samosad
 samovar
 şampun
 samsun
+Samsun
 samsung
 samur
 samuray
+Samux
 samynaceri
+şanapipik
 sanatoriya
 sanballi
 sancaq
@@ -13917,6 +15362,7 @@ sanci
 sancmaq
 sandal
 sandbox
+sandıq
 Sanhedrin
 şani
 sanitar təlimatçi
@@ -13925,68 +15371,91 @@ saniyə
 saniyəölçən
 sanksiya
 şanli
+şanlı
 şanliurfa
+Şanlıurfa
+SanMarino
 sanmarino
 sanqvinik
 şans
+Sanskritdili
 şansli
 santafe
 şantaj
 santexnik
 santexnika
 santimetr
+SanTomevəPrinsipi
 santral
 santyaqo
+Santyaqo
 şanxay
 Şanxay
 sap
 sapand
 sapfir
 sapiens
+şapka
 saplamaq
+saplaq
 sapma
 saposeksual
 sapper
+saqi
 saqqal
 saqqalli adam
 saqqiz
+saqqız
 şaqrendərisi
+şaqul
 şaquli
 şar
 sarafan
 saralmaq
+Saraqosa
 Saratov
-saray
 Saray
+saray
 Sarayevo
 Sarayushko
 sardina
 sarği
+sarğı
 sari
 sariaşiq
 saricali
+Sarıdəniz
 sarigəlin
 sariliq
 sarilmaq
+sarılmaq
 sarimaq
+sarımaq
 sarimsaq
+sarımsaq
 sarisi
 sarişin
+sarışın
 sarkazm
 şarlatan
 şarlo
 şarlottaamaliya
 sarma
 sarmaşiq
+sarmaşıq
+Sarqasdənizi
 sarqassa
 sarsaq
 sarsaqliq
+sarsaqlıq
 sarsitmaq
+sarsıtmaq
 sarsmaq
 şassi
 satanist
 sataşmaq
 satici
+satıcı
 satici qadin
 satilan
 satira
@@ -13999,16 +15468,20 @@ satqin
 satrap
 Saturn
 sauna
+savad
 savadli
+savadlı
 savadliliq
 savadsizliq
 savalan
+Savalan
 savanna
 savaş
 savaşmaq
 savayi
 savralar
 Saxalin
+Saxara
 saxayakutiya
 saxlama
 saxlama çəni
@@ -14021,12 +15494,16 @@ saxtakar
 saxtakarliq
 saxtalaşdirici
 saxtalaşdirma
+say
 sayğac
+sayğı
 şayiə
 sayiq
+sayıq
 saymaq
 Sayt
 sazan
+saziş
 scarface
 schnapps
 scion
@@ -14035,6 +15512,7 @@ səadət
 seans
 səbəb
 səbəbdən sonra
+səbəbolmaq
 şəbəkə
 səbət
 səbir
@@ -14051,6 +15529,7 @@ Seçir
 seçki
 seçkilər
 seçmək
+səda
 sedan
 sədaqət
 sədaqətlə
@@ -14061,16 +15540,21 @@ sedef
 sədəqə
 sədəqə evi
 sədərək
+Sədərək
 şedevr
 sədr
 Sədr müavini
+səf
+şef
 şəfa
 şəfa verən
 şəfaət
 səfalət
 səfeh
 şəfəq
+səfər
 səfəvilər
+Səfəvilərimperiyası
 şəffaf
 şəffafliq
 səfil
@@ -14081,11 +15565,13 @@ səfirlik
 şəfqət
 segah
 seğirme
+şeh
 şeh damlasi
+səhabə
 şəhadət
 səhər
-şəhər
 Şəhər
+şəhər
 şəhər icraiyyə komitəsi
 şəhər məclisi
 şəhər sakini
@@ -14125,16 +15611,30 @@ səkdirmə
 şəkərbura
 səki
 şəki
+Şəki
 səki daşi
 şəkil
 Şəkil
 şəkil sonrasi
+şəkilçi
+Şəkixanlığı
 səkkiz
 seks
+səksən
+səksənaltı
+səksənbeş
+səksənbir
+səksəndoqquz
+səksəndörd
+səksəniki
+səksənsəkkiz
+səksənüç
+səksənyeddi
 şekspir
 sektor
 sekulyar
 sekundometr
+sel
 səlahiyyət
 səlahiyyətli
 səlahiyyətlidir
@@ -14167,6 +15667,7 @@ səmərəli
 səmərəlilik
 səmərəsizlik
 səmərqənd
+Səmərqənd
 semestr
 səmimi
 səmimiyyət
@@ -14175,31 +15676,37 @@ seminariya
 seminariyaçi
 Semipalatinsk
 semiramida
+Şəmkir
+səmt
 semum
 Sən
 şən
 səna
-senat
+Səna
 Senat
+senat
 senator
 sənaye
 sənayeçi
 sənayeləşmə
-şənbə
 Şənbə
+şənbə
 sendviç
 sənəd
 sənəd kabineti
 sənəd vermək
 sənədlər
 sənədli
-seneqal
 Seneqal
+seneqal
+sənət
 sənətkar
 sənətkarliq
 senets
 sənətşünas
+səngər
 sənin
+Sənisevirəm
 şənlik
 şənliklər
 şenolgüneş
@@ -14208,7 +15715,10 @@ sensasiya
 sensor
 sent
 sentimentalliq
+SentKitsvəNevis
+SentLüsiya
 sentner
+SentVinsentvəQrenadina
 sentyabr
 Sentyabr
 senura
@@ -14224,6 +15734,8 @@ səpməmək
 sepsis
 seqa
 seqment
+ser
+şər
 sərab
 şərab
 şərab şüşəsi
@@ -14233,6 +15745,7 @@ serbcə
 sərbəst
 sərbəstdüşmə
 şərbət
+Serbiya
 serbiya
 sərçə
 şərəf
@@ -14253,11 +15766,13 @@ sergioramos
 sərgüzəşt
 sərgüzəştlər
 sərgüzəştli
+şərh
 Şərh
 şərh etmək
 şərhçi
 sərhəd
 sərhəd gözətçisi
+sərhədçi
 sərhədlər
 şeri
 şerif
@@ -14267,13 +15782,19 @@ sərin
 səriştəlilik
 şerit
 seriya
+serjant
 sərkərdən
+sərmayə
 sərnişin
 serpantin
 şərq
 Şərq
+ŞərqiAzərbaycan
+ŞərqiSibirdənizi
+ŞərqiTimor
 şərqşünas
 sərt
+şərt
 şərti
 sertifikat
 sertifikatlaşdirma
@@ -14282,6 +15803,8 @@ sərtləşmə
 sərtlik
 şərtsiz
 serum
+Şərur
+ŞərurDərələyəzqəzası
 sərv
 server
 sərvət
@@ -14307,9 +15830,11 @@ səssizlik
 sətəlcəm
 sətəlcəm var
 səth
+sətir
 setonurometr
 səttarxan
 səudiyyəərəbistani
+SəudiyyəƏrəbistanı
 seul
 sevastopol
 sevənlər
@@ -14320,6 +15845,7 @@ sevgililər günü
 sevgilisi
 sevgisiz
 sevil
+Sevilya
 sevimli
 Sevimli
 sevimli oğul
@@ -14350,17 +15876,19 @@ səyahət satici
 şəybəy
 səylə
 şeylər
+seyr
 seyşel
+Seyşeladaları
 seyşellər
 seysmoqraf
-şeytan
 Şeytan
+şeytan
 şeyx
 şeyxşamil
 səyyah
 seyyid
-sezar
 Sezar
+sezar
 sezenaksu
 şezla
 şezlong
@@ -14381,19 +15909,21 @@ siccin
 Siciliya
 siçovul
 siçramaq
+sıçramaq
 siçrayan
 siçrayiş
 şiddət
 şiddətlə
 şiddətli
 sidik
-sidney
 Sidney
+sidney
 sidr
 şiə
 şifahi
 sifariş
 sifariş daşiyicisi
+sifarişçi
 şifer
 sifət
 sifət etibarilə
@@ -14403,18 +15933,23 @@ sifətlər
 sifətlidir
 sifilis
 sifir
+sıfır
 sifon
 şifrə
 şifrələmə
 şifrələmək
 şifrənin açilmasi
 siftə
+sığal
 siğallamaq
 siğinacaq
+sığırçın
 siğmazam
 sigmundfreud
 siğorta
+sığorta
 sik
+şikar
 şikayət
 şikayət karti
 şikəst
@@ -14439,7 +15974,14 @@ silsilə
 siluet
 silverstoun
 şimal
+ŞimaliAmerika
+ŞimaliDakota
+Şimaliİrlandiya
+ŞimaliKarolina
+ŞimaliKiprTürkRespublikası
 şimalikoreya
+şimalqərb
+şimalşərq
 simbaspride
 simbirsk
 simens
@@ -14464,24 +16006,34 @@ simurq
 simvol
 simvolizm
 sinamaq
-SINAQ
+sınamaq
 sinaq
+SINAQ
+sınaq
 sinaq borusu
 sinaqoq
 sinay
+Sinayyarımadası
+sincab
 sindirmaq
+sındırmaq
 şindler
 sindrom
 sinə
+Sinhaladili
+sini
 sinif
 sinif otaği
 sinif yoldaşi
 siniq
+sınıq
 sinir
+sinirsistemi
 sink
 sinker
 sinod
 sinonim
+Sinop
 sinoptik
 sinoptiklər
 sinqapur
@@ -14505,15 +16057,19 @@ siqaret otaği
 siqaret qutusu
 siqnal
 siqnalçi
+şıqqıldamaq
 şir
 sira
+sıra
 şiraz
 sirdaş
 şirə
 şirəli
 sirena
 Sirğa
+sırğa
 siri
+şırım
 şirin
 şirinlik
 Sirius
@@ -14523,11 +16079,15 @@ sirkə
 şirkət
 Şirkət
 şirkət zabiti
+sirkulyasiya
 sirli
 siroz
 sirr
 sirt çantasi
+Şirvan
 şirvan
+Şirvanşahlardövləti
+sis
 şiş
 şişirmək
 şişirtmə
@@ -14539,22 +16099,30 @@ sistem
 sistit
 şit
 sitat
+şitil
 siva
 sivas
+Sivas
 şivə
+sivil
 sivilizasiya
 six
+sıx
 şixəli
 sixildi
 sixilma
 sixilmiş
 sixlaşdirmaq
+sıxlaşdırmaq
 şixli
 şixlinski
 sixliq
+sıxlıq
 sixmaq
+sıxmaq
 sixron
 siyahi
+siyahı
 siyahiyaalma
 siyanoz
 siyasət
@@ -14570,6 +16138,7 @@ siyasi təlimatçi
 siyasi zabit
 siyənək
 siyənək sümüyü
+Siyəzən
 siyəzən
 siyiq
 siyirmaq
@@ -14577,6 +16146,7 @@ siyriqlar
 sizanaq
 sizif
 sizildamaq
+sızıldamaq
 sizin
 sizlamaq
 sizma
@@ -14590,6 +16160,7 @@ skandinaviya
 Skandinaviya
 skaner
 skapula
+Skaqenburnu
 skate
 skelet
 sket
@@ -14602,6 +16173,7 @@ sklera
 skleroz
 Sklifosovski
 skopye
+Skopye
 skotoma
 skripka
 skripkaçi
@@ -14623,9 +16195,10 @@ slovakiya
 Slovakiya
 sloven
 slovencə
-sloveniya
 Sloveniya
+sloveniya
 slug
+şlyapa
 smartfon
 smirnova
 smokehouse
@@ -14649,8 +16222,8 @@ soda
 sodom
 şofben
 soffit
-sofiya
 Sofiya
+sofiya
 şoför
 soğan
 söhbət
@@ -14671,16 +16244,18 @@ solist
 solitaire
 solmaq
 solo
+Solomonadaları
 soltanli
 solungaç
-somali
 Somali
+somali
 sombrero
 somnambulist
 son
 son dərəcə
 son tarix
 sona
+Şonadili
 sonata
 sonda
 söndür
@@ -14704,6 +16279,7 @@ sonra yetişmə
 sonra yuyulma
 sonradan
 sonraki
+sonrakı
 sonraki ad
 sonraki ağrilar
 sonraki bant
@@ -14753,6 +16329,7 @@ sopromat
 şor
 şoran
 şorba
+Şordili
 sörf
 sorğu
 sorğu-sual
@@ -14772,6 +16349,7 @@ sosiologiya
 sosioloq
 Şotland
 Şotlandiya
+Sotodili
 soundboard
 sous
 sövdələşmə
@@ -14779,11 +16357,13 @@ sovet
 Sovet
 Sovetləşmə
 sovetski
+SovetSosialistRespublikalarıİttifaqı
 şovinizm
 şövkət
 sövq edildi
 sovxoz
 soxmaq
+soxulcan
 soy
 soya
 soyad
@@ -14817,6 +16397,7 @@ sözdə
 sözdüzəldici
 sözləri
 Sözlük
+sözlük
 spagetti
 şpal
 şparqalka
@@ -14854,10 +16435,12 @@ srağagünkü
 sretenka
 şrift
 şrilanka
+ŞriLanka
 ssenari
 ssenari müəllifi
 ssri
 SSRİ
+ssuda
 St John's wort
 St. Bernard
 ştab
@@ -14894,6 +16477,7 @@ stepanakert
 stephenlang
 stereoskopik teleskop
 stereotip
+sterilizasiya
 sterlet
 sterlinq
 sternum
@@ -14966,15 +16550,18 @@ sualti qayiq
 şüar
 suarez
 şüari
+suayırıcı
 subay
 subbotnik
 subekvatorial
+sübh
 şübhə
 şübhə edən
 şübhəli
 şübhəsiz
 subkorteks
 subnival
+Subotitsa
 subsidiya
 subtropiklər
 sübut
@@ -14982,11 +16569,13 @@ sübut et
 sübutsuz
 subyekt
 subyektiv
+suç
 şücaət
+şücaətli
 sucre
 süd
-sudan
 Sudan
+sudan
 südçü
 sudo
 süet
@@ -15000,6 +16589,7 @@ suilani
 sui-qəsd
 sui-qəsd cəhdi
 sui-qəsdçi
+suiti
 süjet
 sükan
 Sükan
@@ -15024,6 +16614,7 @@ sum
 sümbül
 şumer
 sumqayit
+Sumqayıt
 sümük
 sümük başi
 sünbül
@@ -15049,6 +16640,8 @@ sur
 şura
 sürahi
 süranə
+surə
+surət
 sürət
 sürəthüseynov
 surəti
@@ -15070,13 +16663,17 @@ surğuc
 sürgün
 sürgün edildi
 surinam
+Surinam
 sürix
-suriya
+Sürix
 Suriya
+suriya
 sürmə
 sürmək
 Sürmək
+Sürməliqəzası
 sürpriz
+Surra
 sursat
 sürtgəc
 sürtmək
@@ -15093,14 +16690,19 @@ süründürməçilik
 süründürmək
 sürünən
 sürünmək
+şurup
 sürüşdürün
 sürüşkən
 sürüşmək
+süs
+Şuşa
 şuşa
 şuşafatehi
 susamaq
+Şuşaqəzası
 susdu
 şüşə
+Süsən
 suşi
 susmaq
 süst
@@ -15126,7 +16728,9 @@ suverenlik
 Suxova
 suxumi
 Suxumi
+süxur
 şüyüd
+süzgəc
 süzmə
 süzmək
 svastika
@@ -15143,10 +16747,13 @@ syktyvkar
 sylvesterstallone
 sysadmin
 t
+T
 taban
 tabaq
 tabaşir
+tabe
 tabeçilik
+tabgətirmək
 tablet
 tablo
 tabu
@@ -15178,9 +16785,11 @@ taktika
 tala
 talah
 talamaq
+talan
 talançi
 talas
 talassemiya
+tale
 taler
 tales
 taleyi
@@ -15189,13 +16798,15 @@ talina
 taliş
 talisca
 talk
-tallin
 Tallin
+tallin
 tallinn
 Talmud
 talus
+talvar
 tam
 tam olaraq
+tamahkar
 tamam
 tamamilə
 tamamlama
@@ -15214,20 +16825,25 @@ tandem
 tangens
 tango
 tanimaq
+tanımaq
 tanin
 taninma
 taninmazliq
 taniş
+tanış
 tanişliq
 tanişmaq
+tanışmaq
+tanışolmaq
 tank
 tankçi
 tanker
 tanqo
 tanri
+tanrı
 tantal
-tanzaniya
 Tanzaniya
+tanzaniya
 Taocu
 tap rəqsi
 tapança
@@ -15238,7 +16854,9 @@ tapildi
 tapmaca
 tapmaq
 tapşiriq
+tapşırıq
 tapşirmaq
+tapşırmaq
 taqanroq
 taqim
 tar
@@ -15247,9 +16865,11 @@ tarama
 tarantino
 tararam
 tarazliq
+tarazlıq
+tarif
 tarikakan
-tarix
 Tarix
+tarix
 tarixçi
 tarixə qədər
 tarixi
@@ -15260,7 +16880,9 @@ tarpişçev
 tarqovu
 tartu
 tass
+tatar
 Tatar
+tatarca
 tatarstan
 tatuirovka
 tau
@@ -15273,6 +16895,7 @@ tavda
 taxanka
 taxikardiya
 taxil
+taxıl
 taxil tədarükü
 taxmaq
 taxt
@@ -15282,6 +16905,7 @@ taxta otaği
 taxta parçasi
 taxta stansiyasi
 taxtabaş
+taxtaşalban
 taxtüstü
 tay
 tayfun
@@ -15289,8 +16913,8 @@ Tayland
 tayloralisonswift
 tayqa
 tayt
-tayvan
 Tayvan
+tayvan
 tbilisi
 Tbilisi
 Tchihatchewia
@@ -15301,6 +16925,7 @@ teatr
 teatr sonrasi
 teatrşünasliq
 təbabət
+təbaşir
 təbəə
 təbəqə
 təbəqələşmə
@@ -15312,13 +16937,16 @@ təbiətşünas
 təbii
 təbii olaraq
 təbiilik
+təbil
 təbilçi
 təbliğ
 təbliğ etmək
 təbliğat
 təbliğatçi
 təbliğçi
+təbliğetmək
 təbrik
+Təbriz
 təbriz
 təcavüz
 təcavüz etdi
@@ -15327,6 +16955,7 @@ təcavüzkarlar
 təcavüzkarliq
 təcavüzlər
 təcəssüm
+təcəssümetdirmək
 təchizat
 təchizatçi
 təchizati
@@ -15341,18 +16970,24 @@ təcrübəsiz
 təcrübəsizlik
 tədarük
 tədarükçü
+tədarüketmək
 tədbir
+tədiyə
+tədqiq
 tədqiqat
 tədqiqatçi
 tədricən
 tədris
 tədris plani
 tee
+təəccüb
 təəccübləndi
+təəccübləndirmək
+təəccüblənmək
 təəccüblü
 təəssübkeşlik
-təəssüf
 Təəssüf
+təəssüf
 təəssüf ki
 Təəssüflə
 təəssürat
@@ -15372,6 +17007,8 @@ təhlükəsiz
 təhlükəsizlik
 təhlükəsizlik işçisi
 təhminə
+təhqiq
+təhqiqat
 təhqir
 təhqiramiz
 tehran
@@ -15391,6 +17028,7 @@ təkbaşina
 təkəbbür
 təkəbbürlü
 təkər
+Təkirdağ
 təklif
 təklif etdi
 təklif etmək
@@ -15398,6 +17036,7 @@ təklik
 təkrar
 təkrar deyin
 təkrar emal
+təkraretmək
 təkrarlama
 təkrarlamaq
 təkrarlayici
@@ -15406,10 +17045,12 @@ təkzib
 tel
 Tel
 təlaş
+təlatüm
 tələ
 tele yayim
 tələb
 tələb etmək
+tələbat
 tələbə
 tələbə birliyi
 tələbkarliq
@@ -15425,6 +17066,7 @@ telepat
 telepatiya
 teleqraf
 teleqram
+tələsdirmək
 tələsik
 tələsin
 tələskənlik
@@ -15444,11 +17086,13 @@ təlim aparati
 təlimat
 təlimatçi
 telli
+təlqinetmək
 təltif
 təlxək
 təmannasiz
 tembr
 təməl
+təmənna
 təmənnasizliq
 təmin edir
 təmin etmək
@@ -15466,7 +17110,11 @@ təmkin
 temp
 temperament
 temperatur
+təmsil
+təmsilçi
+təmsiletmək
 təmtəraqli
+təmtəraqlı
 tena
 tənbeh
 tənbəl
@@ -15477,9 +17125,11 @@ təndir
 tendon
 tenet
 tənəzzül
-tənha
 Tənha
+tənha
+tənhalıq
 tənlik
+Tennessi
 tennis
 tennisçi
 tenor
@@ -15500,14 +17150,14 @@ tənzimləyicilər
 tənzimləyicinin
 tənzimləyin
 tənzimləyir
-teodor
 Teodor
+teodor
 teodora
 teodordrayzer
 teodorka
 teorem
-təpə
 Təpə
+təpə
 təpəgöz
 təpənin yaninda
 təpik
@@ -15529,6 +17179,7 @@ təqsir
 təqsirkar
 təqsirləndirilən
 tequsiqalpa
+Tequsiqalpa
 təqva
 təqvim
 tər
@@ -15538,13 +17189,17 @@ teras
 təraş firçasi
 təraşdan sonra
 təravət
+tərbiyə
 tərbiyə etmək
 tərbiyəçi
+tərbiyəetmək
 tərcümə
 tərcümə etmək
 tərcüməçi
 tərcümeyi-hal
 tərəddüd
+tərəf
+tərəfdar
 Tərəfdaşlar
 tərəfdaşliq
 tərəfindən
@@ -15566,6 +17221,7 @@ təriflər
 təriqət
 tərk
 tərk etmək
+tərketmək
 tərkib
 tərkib hissəsi
 tərkibi
@@ -15582,6 +17238,7 @@ terminologiya
 termit
 termodinamik
 termodinamika
+termoklin
 termometr
 termos
 termostat
@@ -15596,9 +17253,12 @@ tərs
 tərsanə
 tərslik
 tərtər
+Tərtər
 Tərtərli oğlan
 tərtib
 tərtibçi
+tərxis
+tərxisetmək
 tərz
 tes
 təsadüf
@@ -15615,9 +17275,11 @@ təsdiq edir
 təsdiq et
 təsdiq olunur
 təsdiqedici
+təsdiqetmək
 təsdiq-hərəkət
 təsdiqlə
 təsdiqlədi
+təsdiqləmək
 təsdiqləndi
 təsdiqləyən
 təşəbbüs
@@ -15627,12 +17289,14 @@ təşəkkür edirəm
 təşəkkürlər
 təsəvvür
 təsəvvür edin
+təsəvvüretmək
 təsir
 təsir edənlər
 təsir edir
 təsir etmək
 təsir qabiliyyəti
 təsirdən sonra
+təsiretmək
 Təsiri
 təsirləndi
 təsirlənmə
@@ -15650,6 +17314,7 @@ təşkil etmək
 təşkilat
 təşkilat komitəsi
 təşkilatçi
+təşkilatçı
 təskinlik
 tesla
 təslim
@@ -15665,13 +17330,16 @@ təşviqatçi
 təşviqatlar
 təşviqedici
 təşviqi
+təsvir
 təsvir etmək
 təsviri
+təşviş
 teta
 tetanoz
 tətbiq
 tətbiqetmə
 teterin
+tətik
 tetikleyici
 tətil
 tətilçi
@@ -15679,15 +17347,19 @@ tetrasiklin
 tetris
 təvazökar
 təvazökarliq
+təvəllüd
 təvəqqe
 Texan
-texas
 Texas
+texas
 təxəllüs
+təxəyyül
 təxirə salin
 təxirə salindi
 təxirə salma
 təxirə salmaq
+təxirəsalmaq
+təxmin
 təxminən
 təxminən baxan
 təxmini
@@ -15700,13 +17372,16 @@ texnologiya
 texnoloq
 təxribat
 təxribatçi
+təyin
 təyin etmək
 təyin olunduqdan sonra
 təyinat
+təyinetmək
 teymurləng
 teymurrəcəbov
 təyyarə
 təyyarə dizayneri
+təyyarəçi
 tez
 tez gəlməmiş
 təzad
@@ -15721,6 +17396,7 @@ təzkirə
 tezlik
 tezliklə
 təzminat
+teztez
 tez-tez
 təzyiq
 the
@@ -15761,6 +17437,8 @@ tikan
 tikanli
 tikə
 tikici
+tikili
+tikinti
 Tikinti
 tikinti materiali
 tikiş
@@ -15769,15 +17447,18 @@ tikmə
 tikmək
 tiktok
 tilburq
+tilov
 timor
 timphu
 timsah
 timtaler
+tip
 tipik
 tiqqilti
 tirade
-tirana
+tiraj
 Tirana
+tirana
 tiraspol
 tirbuşon
 tire
@@ -15785,6 +17466,7 @@ tirmiq
 tirtil
 tiryək
 tisbağa
+tısbağa
 tissot
 tit
 titan
@@ -15796,9 +17478,13 @@ titr
 titrəmək
 titrəyir
 titul
+Tıva
 tixac
+tıxac
 tixamaq
+tıxamaq
 tixanma
+tiyə
 TNT
 toadstool
 toddler
@@ -15809,7 +17495,10 @@ töhfə
 töhfə vermək
 töhmət
 toka
+Tokat
+Tokelau
 tokio
+Tokio
 tokmak
 tökmə
 tökmək
@@ -15826,6 +17515,7 @@ Tolyatti
 tomasdevaal
 tomasedison
 tomasshelby
+tomat
 tomboy
 tomhanks
 tomhardy
@@ -15845,12 +17535,14 @@ top atəşi
 topal
 topalliq
 topalteymur
+topara
 topçu
 topçu alayi
 topçu hazirliği
 topçubaşov
 topdan
 topdansatiş
+toplama
 toplamaq
 toplanmişdir
 toplaşmaq
@@ -15861,10 +17553,14 @@ topoqraf
 topoqrafiya
 topraklama
 topuq
+Toqo
+toqqa
 toqquşma
 toqquşmaq
 toque
 tor
+torağay
+torba
 törəmək
 törətmək
 torf
@@ -15890,7 +17586,9 @@ tövsiyə etdi
 tövsiyə ilə
 tövsiyələr
 tovuz
+Tovuz
 tovuz quşu
+tovuzquşu
 tox
 toxa
 toxluq
@@ -15919,6 +17617,7 @@ tozcuq
 tozlu
 tozluq
 tozsoran
+Trabzon
 trabzon
 trafaret
 trafik
@@ -15936,6 +17635,7 @@ transfuziya
 Transmissiya
 transom
 transplantasiya
+transsərhəd
 tranzistor
 tranzit
 trapesiya
@@ -15966,9 +17666,11 @@ trilobit
 trilogiya
 trilyon
 trinidad
+TrinidadvəTobaqo
 trip
 tripoli
 triqonometriya
+TristandaKunya
 tristandakunya
 triton
 triturasiya
@@ -15993,7 +17695,9 @@ Tsvetaeva
 tualet
 tuesok
 tüf
+tufan
 tufanli
+tufanlı
 tüfəng
 tük
 tükənmək
@@ -16008,8 +17712,11 @@ tullanan
 tullanmaq
 tullanti kağiz
 tum
+tumar
 tumarlamaq
 tumurcuq
+tunc
+Tunceli
 tuncelkurtiz
 tünd qirmizi
 tündlük
@@ -16018,12 +17725,13 @@ tunel
 tungus
 tunguska
 tunika
-tunis
 Tunis
+tunis
 tüpürcək
 tüpürmək
 tur
 turabiçamkiran
+turac
 türban
 türbə
 turbin
@@ -16033,16 +17741,19 @@ turinqtesti
 turist
 turizm
 turk
-türk
 Türk
+türk
 türkan
 türkanşoray
 türkcə
-türkiyə
 Türkiyə
+türkiyə
 Türkmən
 türkməncə
 türkmənistan
+Türkmənistan
+Turku
+Türküstan
 türküstan
 turniket
 turnir
@@ -16061,10 +17772,12 @@ turşuluq
 turşumaq
 turşuya davamlidir
 turşuya davamliliq
+Türyançay
 tusi
 tüstü
 tüstü qirmaq
 tusya
+tut
 tutarliliq
 tutma
 tutmamaq
@@ -16078,6 +17791,7 @@ tütün
 tütün istehsalçisi
 tutuquşu
 tutuşdurmaq
+Tuvalu
 tuzik
 tv
 TV
@@ -16087,15 +17801,20 @@ TV izləyicisi
 TV kamera
 tver
 twitter
+TyanŞan
 tyn
 tyumen
 tyunya
 tyusha
+tәkәr
+U
 u
 ü
+Ü
 uagadougou
 üaltdisney
 uaz
+uc
 üç
 uca
 ucadan
@@ -16103,6 +17822,7 @@ ucaldici
 ucalmaq
 uçan
 ucar
+Ucar
 üçayaq
 üçbaci
 üçbucaq
@@ -16112,6 +17832,7 @@ uckuduk
 ucluq
 uçmaq
 uçmaq agaric
+uçot
 üçqat
 uçqun
 ucu
@@ -16129,6 +17850,7 @@ uçuş mexaniki
 uçuş mühəndisi
 ucuz
 ucuzluq
+ud
 udma
 udma qabiliyyəti
 udmaq
@@ -16139,10 +17861,13 @@ udulmuş
 udulmuşdur
 udulur
 udur
+uduş
 uduşlu
 uduzmaq
 uefa
+Uels
 ufa
+üfunət
 üfunətli
 üfüq
 Üfüq
@@ -16158,13 +17883,15 @@ uğurlu
 uğursuz
 uğursuzluq
 uilyam
-ukrayna
 Ukrayna
+ukrayna
 ukraynaca
 ulanbator
+UlanBator
 ulduz
 ulduz fali
 ulduz gəmisi
+ülgü
 ülgüc
 ulrikemainhof
 ultimatum
@@ -16175,6 +17902,7 @@ uluqbəy
 ülviyyət
 Ulya
 umac
+ümid
 ümid edirəm
 ümidlənmək
 ümidsiz
@@ -16194,8 +17922,8 @@ umo
 ümumiyyətlə
 un
 unec
-unesco
 UNESCO
+unesco
 uniforma
 unikal
 unikalliq
@@ -16210,24 +17938,29 @@ unut məni-yox
 unutmaq
 unutqan
 unutqanliq
+unutqanlıq
 ünvan
+UollisvəFutuna
 up
 uqanda
 Uqanda
+ur
 ural
 Uran
 ürək
 ürək bulanmasi
 ürək döyüntüsü
 ürək yanmasi
+ürəkli
 urengoy
 urka
 ürkütücü
 urmiya
+Urmiya
 urn
 Urolophidae
-uruqvay
 Uruqvay
+uruqvay
 Uryupinsk
 uşağliğinsongecəsi
 Uşak
@@ -16245,8 +17978,8 @@ uşaqliq
 usherette
 üslub
 usmanov
-üst
 ÜST
+üst
 üst keçid
 üst quruluş
 usta
@@ -16254,11 +17987,14 @@ ustaliq
 üstdən
 üstəgəl
 üstəlik
+üstün
 üstünlük
 üstünlük verin
 üstünlükləri
 üstünlüklü
+üstüstə
 üst-üstə düşür
+üsul
 üşümək
 üşütmə
 üsyan
@@ -16307,6 +18043,7 @@ uzaqlaşmaq
 uzatmaq
 üzəngi
 üzərinə
+üzərlik
 üzərliktəpə
 üzeyir
 üzgəc
@@ -16314,6 +18051,7 @@ uzatmaq
 üzgüçülük
 Uzhgorod
 uzlaşdirmaq
+uzlaşdırmaq
 uzlaşma
 üzləşir
 üzləşmə
@@ -16341,6 +18079,7 @@ uzunömürlülük
 üzv
 üzvi
 üzvlük
+V
 v
 vacib
 vacibdir
@@ -16354,6 +18093,8 @@ vadisha
 vaduz
 vadya
 vadyusha
+vagina
+vağzal
 vaha
 vahabzadə
 vahid
@@ -16365,6 +18106,7 @@ Vakansiya
 vaksin
 vakulin
 vakuum
+valeh
 valeika
 valena
 valensiya
@@ -16386,18 +18128,22 @@ vali
 valideyn
 validol
 vallar
+Valletta
 valletta
+Vallidili
 vals
 valyakha
 valyuta
 Valyuta
 vampir
+Van
 vandal
 vandalizm
 vandam
 vanessa
 Vania
 vanqa
+Vanuatu
 vanuatu
 vanya
 vanyata
@@ -16420,10 +18166,13 @@ variasiya
 varis
 varlanmaq
 varli
+varlı
 varlilar
-varliq
 Varliq
+varliq
+varlıq
 varmaq
+Varna
 varna
 varşava
 Varşava
@@ -16466,8 +18215,8 @@ vasyunya
 vasyura
 vasyusha
 vasyuta
-vatikan
 Vatikan
+vatikan
 vatman
 vavilov
 vavul
@@ -16476,6 +18225,7 @@ vaxt
 vaxt çatişmazliği, kifayət qədər vaxt olmamasi
 vaxtdir
 vaxti keçmiş
+Vayominq
 vaza
 və
 və hamam
@@ -16492,7 +18242,9 @@ vəd
 vedeny
 vədetmək
 vedrə
+vəfa
 vəfali
+vəfalı
 vəfat et
 vəftiz
 Vega
@@ -16509,6 +18261,7 @@ vəkillik
 veksel
 vekşin
 vektor
+vələmir
 velor
 velosiped
 velosipedçi
@@ -16521,10 +18274,11 @@ Venediktich
 venedim
 venedimych
 venera
-venesiya
+Venera
 Venesiya
-venesuela
+venesiya
 Venesuela
+venesuela
 venezuela
 Veniaminich
 venoza
@@ -16537,6 +18291,7 @@ venuşa
 venusya
 venya
 Venyaminiç
+Vepsdili
 Vera
 verana
 veraşa
@@ -16559,11 +18314,14 @@ vergi işçisi
 vergi ödəyicisi
 vergül
 verhotura
+verifikasiya
+veriliş
 verilmişdir
 verir
 vermək
 vermicelli
 vermişel
+Vermont
 vermut
 vernier
 veronichka
@@ -16578,6 +18336,8 @@ vertolyot
 veruşa
 vəsait
 vəsatət
+vəsiqə
+vəsiyyət
 vestibül
 vestibulyar
 vestiyer xidmətçisi
@@ -16606,8 +18366,10 @@ vibrasiya
 viburnum
 vicdan
 vicdanli
+vicdanlı
 vicdanliliq
 vicdansiz
+vicdansız
 vichor
 victa
 Victor
@@ -16628,6 +18390,7 @@ vikings
 vikinq
 viktorhüqo
 viktorina
+Viktoriyagölü
 viktorka
 Viktoroviç
 viktusiya
@@ -16649,6 +18412,7 @@ vinetka
 vinil
 Vinnytsia
 vinsentvanqoq
+vint
 vinzo
 vioka
 viola
@@ -16656,6 +18420,8 @@ violonçel
 vira
 viranə
 virciniya
+Virciniya
+Virginadaları
 virtual
 virtuoz
 virus
@@ -16664,6 +18430,8 @@ viscount
 visha
 vishuta
 viski
+Viskonsin
+Vislaçayı
 vista
 vita
 vitaha
@@ -16698,6 +18466,7 @@ vivarium
 viza
 vizajist
 vizildamaq
+vızıldamaq
 vizilti
 vizit karti
 vizuallaşdirma
@@ -16720,7 +18489,10 @@ voevodin
 voivode
 vokal
 vokalçi
+Volapükdili
 voleybol
+voleybolçu
+volfram
 volkswagen
 Volodya
 Volodyaha
@@ -16739,16 +18511,19 @@ Volqar
 volqoqrad
 volvo
 volxov
+volyuntarizm
 vorkuta
 Voronej
 Voronina
 vova
+Voyevodina
 vr
 vrangel
 vs
 vsevolod
 Vsevolodich
 vsevolushka
+vücud
 vulkan
 vulqar
 vunqtau
@@ -16779,9 +18554,10 @@ vuruşmaq
 vyaçeslav
 vyaçeslavka
 vyacha
+Vyana
 vyatka
-vyetnam
 Vyetnam
+vyetnam
 w
 wag
 wah
@@ -16805,20 +18581,24 @@ worldofwarcraft
 wowushha
 wroclaw
 württemberg
-x
 X
+x
 Xabarovsk
 xaç
 xaç atasi
 xaçatasi
+Xaçmaz
 xaçmaz
 xaçyürüşü
+xadim
 xaet
 xahiş
 xahiş edirəm
 xain
 xainlik
+Xakasiya
 xaki
+xal
 xala
 xalat
 xalça
@@ -16827,9 +18607,10 @@ Xaldey
 xalidhüseyni
 xaliq
 xalis
-xalq
 Xalq
+xalq
 Xalq Komissarlari Şurasi
+xalta
 xam
 xama
 xamelyon
@@ -16837,9 +18618,10 @@ xamilyon
 xammal
 xan
 xana
-xanim
 Xanim
+xanim
 xankala
+Xankəndi
 xankəndi
 xanlar
 xanterelle
@@ -16848,6 +18630,7 @@ xaqani
 xaqanliq
 xarab olmaq
 xaraba
+xarabalıq
 xarakter
 xarakterik
 xarakterizə etmək
@@ -16863,6 +18646,7 @@ xarici turist
 xarizmatik
 xarkov
 Xarkov
+xarrat
 xartiya
 Xartum
 xartut
@@ -16876,19 +18660,26 @@ xatirə
 xatirinə
 xatirla
 xatirlamaq
+xatırlamaq
 xatirlat
 xatirlatma
 xatirlatmaq
 xatunbulaq
 xaya
+xəbər
 xəbəralmaq
 xəbərçi
 xəbərdar
 xəbərdar et
 xəbərdaretmək
 xəbərdarliq
+xəbərdarlıq
 xəbərlər
 xəcalət
+xəcalətli
+xəkəndaz
+xələf
+xəlifə
 xəlilriza
 xəlilrzaulutürk
 xəlitəli
@@ -16925,17 +18716,22 @@ xəstəxana
 xəstəxanaya yerləşdirmə
 xəta
 xətai
+xətasız
+xətər
 xətkeş
 xətt
+xəttat
 xəyal
 xəyal etdi
 xəyaletmək
+xəyali
 xəyalpərəst
 xəyanət
 xəyanət etmək
 xəyanətetmək
 xəyanətkar
 xəyanətlə
+xeyir
 xeyir-dua
 xeyirsiz
 xeyirxah
@@ -16946,12 +18742,14 @@ xeyr
 xeyriyyə
 xeyriyyəçi
 xeyriyyəçilik
-xəz
 Xəz
+xəz
 Xəz palto
 xəzan
-xəzər
+xəzəl
 Xəzər
+xəzər
+Xəzərdənizi
 xəzərlənkəran
 xəzinə
 Xəzinə şöbəsi
@@ -16968,33 +18766,43 @@ xilasetmə
 xilasetmək
 xilaskar
 xilasolmaq
+xılt
 Ximki
 xina
-xina
+xına
 xingal
 xiones
 xirda
+xırda
 xirda tiran
 xirdalamaq
+xırdalamaq
 xirdalan
+Xırdalan
 xirdavat
 xirildadi
 xirilti
 xiriltili
 xirman
+xırman
 xirmanciq
+xırnik
 Xirosima
+xirtdək
 xirtildayan
 xiş
 xişilti
 xit
+xitab
 xitam
+Xivə
 xiyaban
 xiyar
 xizək
 xizək trasi
 xizəkçi
 xizi
+Xızı
 xlamidiya
 xlor
 xloramfenikol
@@ -17007,6 +18815,8 @@ xloropsiya
 Xmelnitski
 xnixen
 xocali
+Xocalı
+Xocavənd
 xocavənd
 xokkey
 xokkey çubuğu
@@ -17017,18 +18827,24 @@ xolesterol
 xor
 xora
 xorasan
+xorda
+xordalılar
+xörək
 xörək qaşiği
 xörəkpaylayan
 xoreoqrafiya
 xoruldamaq
 xoruz
 xoruz papaq
+xoruzgülü
 xorvatca
 xorvatiya
 Xorvatiya
+xoş
 xoş gəlmisiniz
 xoş səslənir
 xoş xasiyyətli
+xoşbəxt
 xoşbəxt yoldaş
 xoşbəxtəm
 xoşbəxtlik
@@ -17045,6 +18861,7 @@ xristian
 Xristian
 xristianlar
 Xristianliq
+Xristianlıq
 xrizalis
 xrizantema
 xrom
@@ -17061,8 +18878,11 @@ xroniki
 xronizm
 xronologiya
 xronometr
+xronometraj
 xruşşov
+Xücənd
 xudafərin
+Xudat
 xudayar
 xudayaryusifzadə
 xülasə
@@ -17087,51 +18907,71 @@ xüsusi sahib
 xüsusilə
 xüsusiyyət
 xüsusiyyət məqaləsi
+xütbə
 y
+Y
 ya
 ya da
 ya mən
+yaba
 yabani
+yabanı
 yad
 yadda saxla
 yaddaş
 yaddasaxlamaq
+yaddaşsızlıq
 yadelli
 yadigar
+yadplanetli
 yağ
 yağ tərkibi
 yaga
 yaği
 yağiş
+yağış
 yağiş palto
 yağişli
+yağışlı
 yağlama
 yağlamaq
 yağli
+yağlı
 yağliliq
 yağmaq
+yağmur
 yakuza
 yalamaq
 yalan
 Yalan danişmaq
 yalançi
+yalançı
 yalanlar
 yalli
 yalniş
 yalniz
+yalnız
+yalnızlıq
+Yalova
 yalqiz
+yalqız
+yalqızlıq
 yaltaq
 yaltaqlanmaq
 yaltaqliq
+yaltaqlıq
 yalvaran
 yalvariş
 yamac
 yamaclar
 yamaha
 yaman
+yamanlıq
 yamaq
 yamayka
+Yamayka
 yamsilamaq
+yamsılamaq
 yamyam
 yan
 yan işiq
@@ -17140,22 +18980,28 @@ yanacaq
 yanacaq doldurma
 yanan
 Yanaq
+yanaq
 yanaq sümüyü
 yanaşi
+yanaşı
 yanaşma
 yandi
 yandirici
+yandırıcı
 yandirici istilik
 yandirilmiş
 yandirmaq
+yandırmaq
 yanğin
+yanğın
 yanğin qutusu
 yanğin Söndürən
 yanğinsöndürən
 yanilmaq
+yanılmaq
 yaniltmac
 yaninda
-yaninda
+yanında
 yanliş
 yanma
 yanmaq
@@ -17167,14 +19013,23 @@ yapişdirilabilir
 yapişdirilib
 yapişdirilma
 yapişdirmaq
+yapışdırmaq
 yapişma
 yapişmaq
+yapışmaq
 yapişqan
+yapışqan
 Yapon
-yaponiya
+yaponca
+Yapondənizi
+Yapondili
 Yaponiya
+yaponiya
+yaquar
 yaqub
+yaqut
 yara
+yaradan
 yaradici
 yaradildi
 yaradiliş
@@ -17182,15 +19037,21 @@ yaralamaq
 yaralanmamaq
 yaralanmaq
 yarali
+yaralı
 yaramaz
 yararli
+yararlı
 yararsizliq
+yarasa
 yaraşiqli
 yaraşiqli oğlan
 yaraşmaq
 yaratmaq
 yardim
+yardım
 yardimli
+Yardımlı
+yarğan
 yari həqiqət
 yari ölü
 yari qaranliq
@@ -17209,8 +19070,10 @@ yarim unutma
 yarim üzük
 yarimada
 yarimçiq
+yarımçıq
 yarimdairə
 yarimfinal
+yarımfinal
 yarimkürə
 yarimstansiya
 yariq
@@ -17218,7 +19081,9 @@ yariş
 yarişçi
 yarisi gülümsədim
 yarişmaq
+yarışmaq
 yaritmaz
+yarıtmaz
 yariyuxulu
 yarma
 yarmaq
@@ -17271,8 +19136,9 @@ yaşla örtülmüş
 yaşlanma
 yaşlanmaq
 yaşlar
-yaşli
 Yaşli
+yaşli
+yaşlı
 yaşli qadin
 yaşliliq
 yaşma
@@ -17281,7 +19147,9 @@ yaşsizca
 yaşsizliq
 yaşşünaslar
 yasti
+yastı
 yastiq
+yastıq
 yastiq kilifi
 yataq
 yataq otagi
@@ -17294,24 +19162,30 @@ yavaş-yavaş
 yaxa
 yaxasi
 yaxin
-yaxin
+yaxın
 yaxinda
+yaxında
 yaxindan
 yaxinlaşdi
 yaxinlaşdirmaq
+yaxınlaşdırmaq
 yaxinlaşma
 yaxinlaşmaq
+yaxınlaşmaq
 yaxinliq
+yaxınlıq
 yaxinliqda
 yaxneam
 yaxşi
 Yaxşi
+yaxşı
 yaxşi damazliq
 yaxşi insanlar
 yaxşi təbiət
 yaxşidir
 yaxşilaşdirmaq
 yaxşiliq
+yaxşılıq
 Yaxta
 yay
 yay sakini
@@ -17325,39 +19199,51 @@ yayinma
 yayla
 yaylaq
 yayli
+yaylı
 yaylim
 yayliq
+yaylıq
 yaymaq
 yaz
 yazi
+yazı
 Yazi masasi
 yaziçi
+yazıçı
 yazildiqdan sonra
 yazili
+yazılı
 yazilmiş
 yaziq
+yazıq
 yaziq adam
 yaziq şey
 yazişma
 yazişmaq
+yazlıq
 yazmaq
 yeddi
 yeddi illik
+yedək
 yedim
 yeganə
 yəhər
 Yəhuda
-yəhudi
 Yəhudi
+yəhudi
 yəhudibuterburodu
 yekaterina
 yekaterinburq
 yekə
+yekun
 yekunlaşdirmaq
+yel
 yele
 yelena
 yelin
+Yelizavetpolquberniyası
 yelkən
+yelkənlər
 yelkənli qayiq
 yelləmək
 yelləncək
@@ -17374,6 +19260,8 @@ yəmən
 Yəmən
 yeməyi
 yemi
+yemiş
+yemişan
 yen
 yencək
 yenə al
@@ -17384,6 +19272,7 @@ yeni bina
 yeni bir şey
 yeni doğulmuş
 yeni gələn
+YeniBəyazidqəzası
 yenidən
 yenidən-
 yenidən bölüşdürmə
@@ -17400,13 +19289,17 @@ yenidən tənzimləmə
 yenidən təşkilatlanma
 yenidən yaratmaq
 yenidənqurma
+YeniKaledoniya
 yenilənmə
 yenilik
 yenilməz
+YeniNorveçdili
 yenisei
+Yenisey
 yeniyetmə
 yeniyetmələr
 yeniyetməlik
+YeniZelandiya
 yenot
 yenya
 yenyasha
@@ -17441,6 +19334,7 @@ yerli olaraq
 Yermolova
 yerpənək
 yerüstü
+yeşik
 yetər
 yetim
 yetimlik
@@ -17455,7 +19349,19 @@ yetkin öldürmə
 yetkin öldürücü
 yetkin yaş
 yetkinlik
+yetmiş
+yetmişaltı
+yetmişbeş
+yetmişbir
+yetmişdoqquz
+yetmişdörd
+yetmişiki
+yetmişsəkkiz
+yetmişüç
+yetmişyeddi
+Yevlax
 yeyən
+yeznə
 yiğcam
 yiğilabilir
 yiğilir
@@ -17464,15 +19370,23 @@ yiğilmalar
 yiğilmiş
 yiğin
 yiğincaq
+yığıncaq
 yiğma
 yiğmaq
+yığmaq
 yin
 yirtici
+yırtıcı
 yirtiq
+yırtıq
 yirtmaq
+yırtmaq
 yixilma
 yixilmaq
+yıxılmaq
 yixmaq
+yıxmaq
+yiyə
 yiyəlik
 yod
 yoga
@@ -17493,12 +19407,14 @@ yoldan kənar
 yoldaş
 yoldaşi
 yoldaşliq etdi
+yolka
 yollamaq
 yollanmaq
 yolmaq
 yoluxucu
 yolverilməz
 yolverilməzlik
+yön
 yonca
 yöndəmsiz
 yöndəmsizlik
@@ -17519,11 +19435,13 @@ yorulmaq
 yorulmaz
 yosun
 youtube
+yovşan
 yox
 yox olmaq
 yoxdur
 yoxlama
 yoxlamaq
+yoxlanış
 yoxlayin
 yoxluq
 yoxluqlar
@@ -17533,6 +19451,7 @@ yoxuş
 yoyo
 ypx
 yubatmaq
+yubka
 yudumlamaq
 yugena
 yük
@@ -17574,23 +19493,28 @@ yumuşalma
 yun
 Yunan
 yunanca
-yunanistan
 Yunanistan
+yunanistan
+Yunanıstan
 Yunanlar
 yüngül
 yüngülləşdirmək
 yunq
 Yunus
-yupiter
 Yupiter
-yuqoslaviya
+yupiter
 Yuqoslaviya
+yuqoslaviya
+Yuradağları
+yurd
 yurt
 yürüş
 yusifbəyli
 yusifmirzəyev
 yusifvəzirçəmənzəminli
 yusifzadə
+Yuta
+Yutlandiyayarımadası
 yuva
 yuvalar
 yuvarlanan
@@ -17598,7 +19522,9 @@ yuvarlanmaq
 yuvarlaq qurd
 yuvarlaqlaşdiricilar
 yuvarlaqlaşdirmaq
+yuvarlaqlaşdırmaq
 yuxari
+yuxarı
 yuxari axin
 yuxari mərtəbə
 yuxari otaq
@@ -17616,6 +19542,7 @@ yuxarida verilmişdir
 yuxarida yazilmişdir
 yuxaridan
 yuxaridan davamli
+YuxarıƏskipara
 yuxu
 yuxu çantasi
 yuxu kitabi
@@ -17625,6 +19552,7 @@ yuxululuq
 yuxusuz
 yuxusuzluq
 yuxuya getmək
+yüyən
 yuyucu
 yuyulma
 yuyunmaq
@@ -17634,40 +19562,85 @@ yüzbaşi
 yüzlərlə
 yvon
 z
+Z
 zabelin
+zabil
+zabilsegahı
 zabit
+zabitə
 zabitəli
+zabitəlilik
 zabitəsiz
+zabitəsizlik
 zabitlər
+zabitlik
 zachari
 zachariya
+zaçot
+zad
+zadə
 zadəgan
 zadəgan qadin
 zadəgancasina
+zadəgancasına
+zadəganlıq
 zaferergin
+zağ
+zağa
+zağar
+zağara
+zağca
+zağçı
+zağlama
+zağlamaq
+zağlanma
+zağlanmaq
+zağlatma
+zağlatmaq
 zağli
+zağlı
 zahi
+zahı
 zahid
 zahidanə
 zahidcəsinə
 zahidlik
 zahidlik muzeyi
 zahidvar
+zahılıq
+zahir
+zahirbatin
 zahirdə
 zahirən
 zahiri
+zahirilik
 zahirpərəst
+zaid
 zail
+zaiqə
 zakharka
 zakharyich
+zakir
 zakirhəsənov
 zakkum
 zal
 zalim
+zalım
 zalimanə
+zalımanə
 zalimcasina
+zalımcasına
+zalımlıq
+zalımsual
+zalom
+zalp
+Zaltsburq
+zalxa
+zaman
+zamana
 zamani
 zamansizliq
+zamanzaman
 Zambiya
 zamin
 zamoskvorechye
@@ -17675,9 +19648,14 @@ zanbaq
 zander
 Zaporojzhia
 Zaqafqaziya
+ZaqafqaziyaDemokratikFederativRespublikası
+ZaqafqaziyaSosialistFederativSovetRespublikası
 zaqatala
+Zaqatala
 zaqorsk
+Zaqreb
 zaqreb
+zaqs
 zarafat
 zarafatcil
 zararsiz
@@ -17694,7 +19672,10 @@ zavyalov
 zaxar
 Zaxarova
 Zaxarovna
+zebr
 zebra
+zəbt
+zəbtetmək
 Zəbur
 zədə
 zədələnmək
@@ -17707,6 +19688,7 @@ zəhərli
 zehni
 zəif
 zəifləmə
+zəifləmək
 zəiflik
 zəka
 zəkali
@@ -17718,7 +19700,9 @@ zəli
 zəlimxanyaqub
 zəlzələ
 zəmanət
+zəmi
 zəmmi
+zənbil
 zəncəfil
 zəncəfilli çörək
 zəncir
@@ -17728,7 +19712,9 @@ zəng
 zəng edin
 Zəng qülləsi
 Zəng zəngi
+Zəngəzurqəzası
 zəngilan
+Zəngilan
 zəngin
 zənginləşdirmə
 zənginlik
@@ -17736,8 +19722,12 @@ Zəngli saat
 zenit
 zenit silahi
 zenki
+zənn
+zənnetmək
 zənzibar
+zər
 zərbə
+Zərdab
 zərdüşt
 zərdüştbelədeyirdi
 zərər
@@ -17754,6 +19744,7 @@ zərgər
 zərif
 zəriflik
 zərrə
+zərrəbin
 zərurət
 zəruri
 zevs
@@ -17776,14 +19767,16 @@ zibil adami
 zibil axini
 zibil qabi
 zibil qutulari
+zibilqutusu
 zidd
 ziddiyyət
 ziddiyyətli
+zığ
 zikr
 zil
 zilch
-zimbabve
 Zimbabve
+zimbabve
 zina
 zinaha
 zinaid
@@ -17802,6 +19795,7 @@ zinich
 zinka
 Zinovievich
 zinqilti
+zınqırov
 zinulya
 zinura
 zinusha
@@ -17811,20 +19805,23 @@ zipkin
 zipoon
 ziqmundfreyd
 ziqzaq
-zireh
 Zireh
+zireh
 zirehli maşin
 zirehli personal daşiyicisi
 zirehli qatar
 zirehli texnika
+zirinc
 zirvə
 zirvələr
 zirvəsiz qapaq
 zirzəmi
 zisha
+ziya
 ziyafət
 Ziyafət
 ziyali
+ziyalı
 ziyan
 ziyanverici
 ziyarət
@@ -17837,6 +19834,7 @@ zodiak
 zoğ
 zoğal
 zoğali
+zökəm
 zolaq
 zolaqli
 Zoluşka
@@ -17851,21 +19849,25 @@ zootexnika
 zoraki
 zorba
 zorina
+zorlamaq
 zorlaşdirmaq
 zorro
 Zosimova
 zovq
 zövq
-zövq alin
 Zövq alin
+zövq alin
 zuev
 zui
 zülal
 zulin
 zülm
+zülmət
 zümrüd
 zümzümə
+Zundboğazı
 zürafə
 zurna
 zurnaçi
+züyültü
 zwolle
